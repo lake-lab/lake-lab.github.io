@@ -1,0 +1,63 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+#url: 'https://mydomain.com'
+url: 'https://rfeinman.github.io'
+baseurl: ''
+title: 'Human & Machine Learning Lab'
+description: 'A research lab at New York University'
+permalink: pretty
+logo: "/images/human_vs_machine.jpg"
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+  Home: /
+  Research: /research/
+  People: /people/
+  Publications: /publications/
+  Blog: /blog/
+  Apply: /apply/
+
+# Footer nav
+navigation_footer:
+  Back to top: "#top"
+
+# Collections
+collections:
+  pages:
+    layout: page
+    feature_text: |
+      ## Human & Machine Learning Lab
+      A research lab at New York University
+    feature_image: "https://picsum.photos/2560/600?image=872"
+  posts:
+    title: Posts
+    output: true
+    description: "Read about the latest research from HMLL"
+    feature_text: |
+      ## Human & Machine Learning Lab
+      A research lab at New York University
+    feature_image: "https://picsum.photos/2560/600?image=872"
