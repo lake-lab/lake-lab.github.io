@@ -6,7 +6,9 @@ collectionpage: home
 
 ##### Understanding intelligence
 
-Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. Our lab aims to understand the ingredients of intelligence that enable the fast and flexible ways in which humans learn. We want to build machines that learn and think like people. [Join us.](/apply/)
+Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. Our lab aims to understand the ingredients of intelligence that enable the fast and flexible ways in which humans learn. We want to build machines that learn and think like people.
+
+{% include button.html text="Join us" link="/apply/" %}
 
 ##### Bulletin
 
