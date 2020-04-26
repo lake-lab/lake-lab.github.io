@@ -59,7 +59,7 @@ collections:
       ## Human & Machine Learning Lab
       A research lab at New York University
     feature_image: "https://picsum.photos/2560/600?image=872"
-  page:
+  pages:
     layout: page
     # feature_text: |
     #   ## Human & Machine Learning Lab
@@ -67,6 +67,7 @@ collections:
     # feature_image: "https://picsum.photos/2560/600?image=872"
   posts:
     title: Posts
+    layout: blog
     output: true
     description: "Read about the latest research from HMLL"
     feature_text: |

@@ -1,6 +1,6 @@
 ---
 title: People
-layout: page
+collectionpage: pages
 ---
 Members of HMLL
 

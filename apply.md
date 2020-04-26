@@ -1,6 +1,6 @@
 ---
 title: Apply
-layout: page
+collectionpage: pages
 ---
 
 The Human and Machine Learning Lab is looking for exceptional postdoctoral fellows and Ph.D. students. NYU offers an extremely strong environment for training in [computational cognitive science](http://nyuccl.org/cogsci/). Interested candidates can email [Brenden Lake](mailto:brenden@nyu.edu) for additional details.
