@@ -53,12 +53,18 @@ navigation_footer:
 
 # Collections
 collections:
-  pages:
+  home:
     layout: page
     feature_text: |
       ## Human & Machine Learning Lab
       A research lab at New York University
     feature_image: "https://picsum.photos/2560/600?image=872"
+  page:
+    layout: page
+    # feature_text: |
+    #   ## Human & Machine Learning Lab
+    #   A research lab at New York University
+    # feature_image: "https://picsum.photos/2560/600?image=872"
   posts:
     title: Posts
     output: true
