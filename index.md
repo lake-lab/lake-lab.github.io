@@ -1,5 +1,5 @@
 ---
-title: Understanding Intelligence
+# title: Understanding Intelligence
 layout: page
 collectionpage: home
 ---

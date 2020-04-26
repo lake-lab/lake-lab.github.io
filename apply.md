@@ -7,7 +7,7 @@ collectionpage: pages
 The Human and Machine Learning Lab is looking for exceptional postdoctoral fellows and Ph.D. students. NYU offers an extremely strong environment for training in [computational cognitive science](http://nyuccl.org/cogsci/). Interested candidates can email [Brenden Lake](mailto:brenden@nyu.edu) for additional details.
 
 **Postdoctoral researchers**
-We are seeking a Postdoctoral researcher in self-supervised learning. Work with us to model child headcam videos, with the aim of learning knowledge of objects and agents from raw input. Deadline is Sept 1, 2020 or when position is filled. [Apply here](https://apply.interfolio.com/65670)
+- We are seeking a Postdoctoral researcher in self-supervised learning. Work with us to model child headcam videos, with the aim of learning knowledge of objects and agents from raw input. Deadline is Sept 1, 2020 or when position is filled. [Apply here](https://apply.interfolio.com/65670)
 
 **Ph.D. candidates**
 - Interested Ph.D. candidates are encouraged to apply to either the 
