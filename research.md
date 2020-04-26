@@ -1,5 +1,6 @@
 ---
 title: Research Statement
+layout: page
 collectionpage: pages
 ---
 ##### Informing A.I. with Human Intelligence
