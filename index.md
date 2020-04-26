@@ -4,7 +4,9 @@ layout: page
 collectionpage: home
 ---
 
-**Understanding intelligence**. Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. Our lab aims to understand the ingredients of intelligence that enable the fast and flexible ways in which humans learn. We want to build machines that learn and think like people. [Join us.](/apply/)
+##### Understanding intelligence
+
+Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. Our lab aims to understand the ingredients of intelligence that enable the fast and flexible ways in which humans learn. We want to build machines that learn and think like people. [Join us.](/apply/)
 
 ##### Bulletin
 
@@ -17,6 +19,4 @@ collectionpage: home
 ##### About the Lab
 <img src="images/battleship.jpg" width="706" height="300">
 
-The Human and Machine Learning Lab started in 2017 when Dr. Brenden Lake joined the NYU faculty as an Assistant Professor of Psychology and Data Science. 
-We are located in the New York City neighborhood of Greenwich Village at the <a href="https://cds.nyu.edu/" target="_blank">Center for Data Science</a> (60 5th Avenue, New York, NY 10011). 
-Our lab is also part of the larger [CILVR lab](https://wp.nyu.edu/cilvr/) and the [Computational Cognitive Science](http://nyuccl.org/cogsci/) community at NYU.
+Dr. Brenden Lake started the Human and Machine Learning Lab in 2017. We are located in the New York City neighborhood of Greenwich Village at the [Center for Data Science](https://cds.nyu.edu/) (60 5th Avenue, New York, NY 10011). Our lab is also part of the larger [CILVR lab](https://wp.nyu.edu/cilvr/), the [NYU Department of Psychology](https://as.nyu.edu/content/nyu-as/as/departments/psychology.html), and the [Computational Cognitive Science](http://nyuccl.org/cogsci/) community at NYU.
