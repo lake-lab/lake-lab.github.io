@@ -37,19 +37,19 @@ navigation_header:
   url: /
 - title: Research
   url: /research/
-
-# # Header nav
-# navigation_header:
-#   Home: /
-#   Research: /research/
-#   People: /people/
-#   Publications: /publications/
-#   Blog: /blog/
-#   Apply: /apply/
+- title: People
+  url: /people/
+- title: Publications
+  url: /publications/
+- title: Blog
+  url: /blog/
+- title: Apply
+  url: /apply/
 
 # Footer nav
 navigation_footer:
-  Back to top: "#top"
+- title: Back to top
+  url: "#top"
 
 # Collections
 collections:

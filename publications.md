@@ -1,6 +1,6 @@
 ---
 title: Publications
-collectionpage: pages
+layout: page
 ---
 A list of publications from HMLL
 

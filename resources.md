@@ -1,6 +1,6 @@
 ---
 title: Resources
-collectionpage: pages
+layout: page
 ---
 Data and code from HMLL
 
