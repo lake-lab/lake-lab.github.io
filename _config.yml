@@ -33,12 +33,19 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  Research: /research/
-  People: /people/
-  Publications: /publications/
-  Blog: /blog/
-  Apply: /apply/
+- title: Home
+  url: /
+- title: Research
+  url: /research/
+
+# # Header nav
+# navigation_header:
+#   Home: /
+#   Research: /research/
+#   People: /people/
+#   Publications: /publications/
+#   Blog: /blog/
+#   Apply: /apply/
 
 # Footer nav
 navigation_footer:
