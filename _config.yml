@@ -20,8 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-#url: 'https://mydomain.com'
-url: 'https://rfeinman.github.io'
+url: 'https://lake-lab.github.io/'
 baseurl: ''
 title: 'Human & Machine Learning Lab'
 description: 'A research lab at New York University'
