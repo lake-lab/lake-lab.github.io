@@ -23,7 +23,7 @@ plugins:
 url: 'https://lake-lab.github.io/'
 baseurl: ''
 title: 'Human & Machine Learning Lab'
-description: 'A research lab at New York University'
+description: 'A research group at New York University'
 permalink: pretty
 logo: "/images/logo.jpg"
 
@@ -56,7 +56,7 @@ collections:
   home:
     feature_text: |
       ## Human & Machine Learning Lab
-      A research lab at New York University
+      A research group at New York University
     # feature_image: "/images/CDS1_fade.jpg"
     feature_image: "https://picsum.photos/2560/600?image=872"
   pages:

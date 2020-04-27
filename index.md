@@ -6,19 +6,16 @@ collectionpage: home
 
 ##### Understanding intelligence
 
-Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. Our lab aims to understand the ingredients of intelligence that enable the fast and flexible ways in which humans learn. We want to build machines that learn and think like people.
+Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. Our lab aims to understand the ingredients of intelligence that enable fast and flexible learning. We want to build machines that learn and think like people.
 
-{% include button.html text="Join us" link="/apply/" %}
+<!-- {% include button.html text="Join us" link="/apply/" %} -->
 
 ##### Bulletin
-
-- **8/2018:** Reuben presents at CogSci 2018 on ["Learning Inductive Biases with Neural Networks."](http://www.cns.nyu.edu/~reuben/files/Poster-CogSci18.pdf)
-- **7/2018:** Brenden presents at ICML 2018 on ["Generalization without Systematicity."](https://icml.cc/Conferences/2018/Schedule?showEvent=3204)
-- **5/2018:** Brenden is named to MIT Technology Review's annual ["35 Innovators Under 35" list](https://www.technologyreview.com/lists/innovators-under-35/2018/visionary/brenden-lake/), highlighting his group as "visionaries."
-- **3/2018:** Brenden gives a talk at EmTech Digital on ["Ingredients of Intelligence."](https://events.technologyreview.com/video/watch/brenden-lake-ingredients-intelligence/)
-- **12/2017:** Brenden co-organizes NIPS 2017 workshop ["Cognitively Informed Artificial Intelligence: Insights from Natural Intelligence."](https://sites.google.com/view/ciai2017/home)
+- New [postdoc position](/apply/) available, with deadline Sept 1 2020
+- **8/2019:** Anselm wins "Outstanding Paper Award" from the journal _Computational Brain & Behavior_ for his article on [question asking](https://cims.nyu.edu/~brenden/papers/RotheEtAl2018CompBrainBehavior.pdf).
+- **7/2019:** The lab presents 3 papers at CogSci2019 on [learning ConvNet priors](https://cims.nyu.edu/~brenden/papers/FeinmanLake2019CogSci.pdf), [compositional learning](https://cims.nyu.edu/~brenden/papers/LakeEtAl2019CogSci.pdf), and [question asking](https://cims.nyu.edu/~brenden/papers/RotheEtAl2019CogSci.pdf).
+- **5/2018:** Brenden named to MIT Technology Review's annual ["35 Innovators Under 35" list](https://www.technologyreview.com/lists/innovators-under-35/2018/visionary/brenden-lake/), highlighting the group as "visionaries."
+- **3/2018:** Brenden speaks at EmTech Digital on the ["Ingredients of Intelligence."](https://events.technologyreview.com/video/watch/brenden-lake-ingredients-intelligence/).
 
 ##### About the Lab
-<img src="images/battleship.jpg" width="706" height="300">
-
-Dr. Brenden Lake started the Human and Machine Learning Lab in 2017. We are located in the New York City neighborhood of Greenwich Village at the [Center for Data Science](https://cds.nyu.edu/) (60 5th Avenue, New York, NY 10011). Our lab is also part of the larger [CILVR lab](https://wp.nyu.edu/cilvr/), the [NYU Department of Psychology](https://as.nyu.edu/content/nyu-as/as/departments/psychology.html), and the [Computational Cognitive Science](http://nyuccl.org/cogsci/) community at NYU.
+In 2017, [Dr. Brenden Lake](https://cims.nyu.edu/~brenden/) started the Human and Machine Learning Lab at NYU. We are located in the New York City neighborhood of Greenwich Village at the [Center for Data Science](https://cds.nyu.edu/) (60 5th Avenue, New York, NY 10011). We are also part of the [NYU Department of Psychology](https://as.nyu.edu/content/nyu-as/as/departments/psychology.html), the larger NYU AI group known as the [CILVR lab](https://wp.nyu.edu/cilvr/), and the [Computational Cognitive Science](http://nyuccl.org/cogsci/) community at NYU.
