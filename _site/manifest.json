@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "Human & Machine Learning Lab",
+  "short_name": "Human&MachineLearningLab",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}

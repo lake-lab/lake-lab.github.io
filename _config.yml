@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Human & Machine Learning Lab'
 description: 'A research lab at New York University'
 permalink: pretty
-logo: "/images/human_vs_machine.jpg"
+logo: "/images/logo.jpg"
 
 # Pagination
 paginate: 5
@@ -57,6 +57,7 @@ collections:
     feature_text: |
       ## Human & Machine Learning Lab
       A research lab at New York University
+    # feature_image: "/images/CDS1_fade.jpg"
     feature_image: "https://picsum.photos/2560/600?image=872"
   pages:
     # feature_text: |
