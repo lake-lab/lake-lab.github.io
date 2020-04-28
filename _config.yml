@@ -39,10 +39,12 @@ navigation_header:
   url: /research/
 - title: People
   url: /people/
+- title: Projects
+  url: /projects/
 - title: Publications
   url: /publications/
-- title: Blog
-  url: /blog/
+# - title: Blog
+#   url: /blog/
 - title: Join
   url: /apply/
 
@@ -56,15 +58,17 @@ collections:
   home:
     feature_text: |
       ## Human & Machine Learning Lab
-      A research group at New York University
-    # feature_image: "/images/CDS1_fade.jpg"
-    feature_image: "https://picsum.photos/2560/600?image=872"
+      New York University
+      <br>
+      <br>
+    feature_image: "/images/wallpaper/skyline1_crop.jpg"
+    # feature_image: "https://picsum.photos/2560/600?image=872"
   pages:
     # feature_text: |
     #   ## Human & Machine Learning Lab
     #   A research lab at New York University
     # feature_image: "https://picsum.photos/2560/600?image=872"
   posts:
-    title: Posts
+    title: Blog
     output: true
     description: "Read about the latest research from HMLL"

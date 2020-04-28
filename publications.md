@@ -70,7 +70,7 @@ A list of publications from HMLL
 - <a href="https://cims.nyu.edu/~brenden/papers/RotheEtAl2017NIPS.pdf">Rothe, A., Lake, B. M., and Gureckis, T. M. (2017). Question asking as program generation.</a> <em> Advances in Neural Information Processing Systems 30. </em> [<a href="https://cims.nyu.edu/~brenden/papers/RotheEtAl2017NIPS_supp.pdf">Supporting Info.</a>]
   - <strong>Press:</strong> <a href="https://www.technologyreview.com/s/609507/this-inquisitive-ai-will-kick-your-butt-at-battleship/">MIT Technology Review</a>
   
-##### Select earlier papers
+##### Selected earlier papers
 
 - <a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2015Science.pdf">Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction.</a><em> Science,</em> 350(6266), 1332-1338.
 [<a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2015Science_supp.pdf">Supporting Info.</a>]

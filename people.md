@@ -13,10 +13,10 @@ collectionpage: pages
 }
 </style>
 
-##### Principal Investigator
+##### Principal investigator
 <br>
 <img class="bio" src="/images/bios/brenden-lake-cropped.png">
-**Brenden Lake.** Brenden is an Assistant Professor of Psychology and Data Science at New York University. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden's research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking. [[Website]](https://cims.nyu.edu/~brenden/)
+**Brenden Lake.** Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden's research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking. [[Website]](https://cims.nyu.edu/~brenden/)
 
 ##### Postdoctoral researchers
 <br>
@@ -50,3 +50,6 @@ collectionpage: pages
 
 <img class="bio" src="/images/bios/alexa-tartaglini.jpg">
 **Alexa Tartaglini**. I am a third-year student in computer science and mathematics at the New York University Courant Institute of Mathematical Sciences. I am interested in comparing the mechanisms of human and machine intelligence, especially with regards to cognitive tasks that are difficult for computers to perform such as category and concept learning, object recognition, and commonsense reasoning. I am particularly interested in the role of shape in human category representation and the relationship between learning and reasoning.
+
+##### Lab alumni
+- [Anselm Rothe](https://anselmrothe.github.io/). Former Ph.D. student (co-advised with Todd Gureckis), now postdoc at the Max Planck Institute.
