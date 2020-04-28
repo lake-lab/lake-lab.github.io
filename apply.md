@@ -3,7 +3,7 @@ title: Join us
 layout: page
 collectionpage: pages
 ---
-NYU offers strong training in [computational cognitive science](http://nyuccl.org/cogsci/) and [artificial intelligence](https://wp.nyu.edu/cilvr/). Interested candidates can apply through the links below.
+Interested in joining the Human & Machine Learning Lab? Interested candidates can apply through the links below. More generally, NYU offers very strong training in [computational cognitive science](http://nyuccl.org/cogsci/) and [artificial intelligence](https://wp.nyu.edu/cilvr/).
 
 ##### Postdoctoral researchers
 - We are seeking a Postdoctoral researcher in self-supervised learning. Work with us to model child headcam videos, with the aim of learning knowledge of objects and agents from raw input. Deadline is **Sept 1, 2020** or when position is filled. [Apply here](https://apply.interfolio.com/65670)
