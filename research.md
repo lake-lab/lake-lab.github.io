@@ -14,3 +14,5 @@ Human minds solve a diverse array of computational problems that stump the best 
 **We study human cognitive abilities that elude the smartest machines.** Almost by definition, these domains are important pursuits for both cognitive science and data science. In cognitive science, if people have abilities that existing algorithms do not, we must understand their computational basis. In data science and machine learning, these distinctively human abilities are both important open problems as well as opportunities to reverse-engineer the human solutions.
 
 Our work demands a combination of cognitive modeling, behavioral experiments, and machine learning research. Through this interdisciplinary approach, our work has revealed key cognitive ingredients that people use but are missing in contemporary machine learning. It has also led to new data science and machine learning techniques inspired by the cognitive solutions to difficult computational problems.
+
+See the [Projects page](/projects/) for examples of our current research directions.

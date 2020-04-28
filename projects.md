@@ -21,10 +21,10 @@ and [question asking](#question-asking-in-minds-and-machines).
 ##### Concept learning in minds and machines
 _Key people: Reuben Feinman_
 
-Human conceptual representations are rich in structural and statistical knowledge. Symbolic models excel at capturing compositional and causal structure, but they struggle to model the most complex correlations found in raw data. In contrast, neural network models excel at processing raw stimuli and capturing complex statistics, but they struggle to model compositional and causal knowledge. The human mind seems to transcend this dichotomy: learning complex structural and statistical knowledge from raw inputs.
+Human conceptual representations are rich in structural and statistical knowledge. Symbolic models excel at capturing compositional and causal structure, but they struggle to model the most complex correlations found in raw data. In contrast, neural network models excel at processing raw stimuli and capturing complex statistics, but they struggle to model compositional and causal knowledge. The human mind seems to transcend this dichotomy: learning structural and statistical knowledge from raw inputs.
 
 <img class="fig" src="/images/projects/fig-gns.jpg" width="300">
-We are developing neuro-symbolic models that learn compositional and causal generative programs from raw data, while using neural sub-routines for powerful statistical modeling (see diagram). The goals are to understand the dual structural and statistical natures of human concepts, and to learn neuro-symbolic representations for machine learning applications.
+We are developing neuro-symbolic models that learn compositional and causal generative programs from raw data, while using neural sub-routines for powerful statistical modeling (see diagram). We aim to better understand the dual structural and statistical natures of human concepts, and to learn neuro-symbolic representations for machine learning applications.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.08978.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> Preprint available on <em>arXiv:2003.08978</em>.
 
@@ -47,7 +47,7 @@ To better understand these distinctively human abilities, we are studying human 
 ##### Video game learning in minds and machines
 _Key people: Guy Davidson_
 
-Video games are a popular AI benchmark ideal for comparing human and machine learning. Although the best algorithms outscore people on many games, they require hundreds of hours of experience to learn a new game while people need just a few minutes. The experience gap is further widening: OpenAI recently trained their Dota 2 bot for 45,000 years worth of game experience. Our hypothesis is that key cognitive ingredients are missing from contemporary AI systems &mdash; objects, agents, compositionality, and causality &mdash; and this absence is holding these systems back.
+Video games are ideal for comparing human and machine learning. Although the best algorithms outscore people on many games, they require hundreds of hours of experience to learn a new game while people need just a few minutes. The experience gap is only widening: OpenAI recently trained their Dota 2 bot for 45,000 years worth of game experience. Our hypothesis is that key cognitive ingredients are missing from contemporary AI systems &mdash; objects, agents, compositionality, and causality &mdash; and this absence is holding these systems back.
 
 <img class="fig" src="/images/projects/fig-games-crop.jpg" width="280">
 To evaluate this hypothesis, we are integrating cognitive ingredients into deep reinforcement learning (RL) algorithms and evaluating their performance. With simple object representations, models can achieve higher scores and better generalization to new test scenarios (see image of an agent surrounded by enemies). Ongoing work is studying the importance of agents, compositionality, and causality.
