@@ -6,7 +6,7 @@ collectionpage: pages
 NYU offers strong training in [computational cognitive science](http://nyuccl.org/cogsci/) and [artificial intelligence](https://wp.nyu.edu/cilvr/). Interested candidates can apply through the links below.
 
 ##### Postdoctoral researchers
-- We are seeking a Postdoctoral researcher in self-supervised learning. Work with us to model child headcam videos, with the aim of learning knowledge of objects and agents from raw input. Deadline is Sept 1, 2020 or when position is filled. [Apply here](https://apply.interfolio.com/65670)
+- We are seeking a Postdoctoral researcher in self-supervised learning. Work with us to model child headcam videos, with the aim of learning knowledge of objects and agents from raw input. Deadline is **Sept 1, 2020** or when position is filled. [Apply here](https://apply.interfolio.com/65670)
 - For more information, you are welcome to contact [Brenden](https://cims.nyu.edu/~brenden/).
 
 ##### Ph.D. candidates
@@ -18,5 +18,4 @@ or the [Ph.D. Program in Cognition and Perception](http://as.nyu.edu/psychology/
 - For more information, you are welcome to contact [Brenden](https://cims.nyu.edu/~brenden/).
 
 ##### Visitors, research assistants, and summer interns
-- Unfortunately, the lab does not offer positions for research assistants or summer interns.
-- We also cannot host visiting researchers.
+- Unfortunately, the lab does not offer positions for research assistants or summer interns. We also cannot host visiting researchers.

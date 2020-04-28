@@ -3,7 +3,9 @@ title: Publications
 layout: page
 collectionpage: pages
 ---
-A list of publications from HMLL
+Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), and [earlier](#selected-earlier-papers).
+
+---
 
 ##### Preprints
 
@@ -24,6 +26,7 @@ A list of publications from HMLL
 
 - <a href="https://cims.nyu.edu/~brenden/papers/1906.08416.pdf">Orhan, E. and Lake, B. M. (2019). Improving the robustness of ImageNet classifiers using elements of human visual cognition.</a> Preprint available on <em>arXiv:1906.08416</em>.
 
+---
 
 ##### 2020
 
@@ -32,6 +35,8 @@ A list of publications from HMLL
 - <a href="https://cims.nyu.edu/~brenden/papers/LakePiantadosi2019.pdf">Lake, B. M. and Piantadosi, S. T. (2020). People infer recursive visual concepts from just a few examples.</a> <em>Computational Brain & Behavior</em>, 3(1), 54-65.
 [<a href="https://cims.nyu.edu/~brenden/papers/LakePiantadosi2019_supp.pdf">Supporting Info.</a>]
 [<a href="https://cims.nyu.edu/~brenden/supplemental/lrvc/vp-exp.html">Experiments</a>]
+
+---
 
 ##### 2019
 
@@ -46,8 +51,9 @@ A list of publications from HMLL
 
 - <a href="https://cims.nyu.edu/~brenden/papers/RotheEtAl2019CogSci.pdf">Rothe, A., Lake, B. M., and Gureckis, T. M. (2019). Asking goal-oriented questions and learning from answers.</a> In <em>Proceedings of the 41st Annual Conference of the Cognitive Science Society.</em>
 
-##### 2018
+---
 
+##### 2018
 - <a href="https://cims.nyu.edu/~brenden/papers/RotheEtAl2018CompBrainBehavior.pdf">Rothe, A., Lake, B. M., and Gureckis, T. M. (2018). Do people ask good questions?</a> <em>Computational Brain & Behavior</em>, 1(1), 69-89.
   - <strong>Outstanding paper award.</strong>
 
@@ -63,13 +69,17 @@ A list of publications from HMLL
 [<a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2018CognitiveScience_supp.pdf">Supporting Info.</a>]
 [<a href="https://github.com/brendenlake/structural-sparsity">Code</a>]
 
+---
+
 ##### 2017
 
 - <a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2017BBS.pdf">Lake, B. M., Ullman, T. D., Tenenbaum, J. B., and Gershman, S. J. (2017). Building machines that learn and think like people.</a> <em>Behavioral and Brain Sciences</em>, 40, E253.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/RotheEtAl2017NIPS.pdf">Rothe, A., Lake, B. M., and Gureckis, T. M. (2017). Question asking as program generation.</a> <em> Advances in Neural Information Processing Systems 30. </em> [<a href="https://cims.nyu.edu/~brenden/papers/RotheEtAl2017NIPS_supp.pdf">Supporting Info.</a>]
   - <strong>Press:</strong> <a href="https://www.technologyreview.com/s/609507/this-inquisitive-ai-will-kick-your-butt-at-battleship/">MIT Technology Review</a>
-  
+
+---
+
 ##### Selected earlier papers
 
 - <a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2015Science.pdf">Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction.</a><em> Science,</em> 350(6266), 1332-1338.

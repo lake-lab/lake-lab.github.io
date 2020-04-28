@@ -6,7 +6,7 @@ collectionpage: home
 
 ##### Understanding intelligence
 
-Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. Our lab aims to uncover the ingredients of intelligence that enable fast and flexible learning.
+Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. We are studying the ingredients of intelligence that enable fast and flexible learning.
 
 ##### Bulletin
 - New postdoc position available. [Application](/apply/) deadline is Sept 1 2020.
