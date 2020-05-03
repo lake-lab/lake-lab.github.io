@@ -9,15 +9,11 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 ##### Preprints
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2003.08978.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> Preprint available on <em>arXiv:2003.08978</em>.
-
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05573.pdf">Vong, W. K. and Lake, B. M. (2020). Learning word-referent mappings and concepts from raw inputs.</a> Preprint available on <em>arXiv:2003.05573</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05562.pdf">Nye, M., Solar-Lezama, A., Tenenbaum, J. B., and Lake, B. M. (2020). Learning Compositional Rules via Neural Program Synthesis.</a> Preprint available on <em>arXiv:2003.05562</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. Preprint available on <em>arXiv:2003.05161.</em> [<a href="https://github.com/LauraRuis/groundedSCAN">Benchmark</a>] [<a href="https://github.com/LauraRuis/multimodal_seq2seq_gSCAN">Baseline model</a>]
-
-- <a href="https://cims.nyu.edu/~brenden/papers/2002.06703.pdf">Davidson, G. and Lake, B. M. (2020). Investigating simple object representations in model-free deep reinforcement learning.</a> Preprint available on <em>arXiv:2002.06703</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/1907.09899.pdf">Wang, Z. and Lake, B. M. (2019). Modeling question asking using neural program generation.</a> Preprint available on <em>arXiv:1907.09899</em>.
 
@@ -29,6 +25,10 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 ---
 
 ##### 2020
+
+- <a href="https://cims.nyu.edu/~brenden/papers/2003.08978.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>.
+
+- <a href="https://cims.nyu.edu/~brenden/papers/2002.06703.pdf">Davidson, G. and Lake, B. M. (2020). Investigating simple object representations in model-free deep reinforcement learning.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/LewisEtAl2020.pdf">Lewis, M., Cristiano, V., Lake, B. M., Kwan, T., Frank, M. C. (2020). The role of developmental change and linguistic experience in the mutual exclusivity effect.</a> <em>Cognition</em>, 198.
 
