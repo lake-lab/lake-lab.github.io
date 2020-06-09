@@ -26,9 +26,9 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 ##### 2020
 
-- <a href="papers/FeinmanLake2020CogSci.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em> [<a href="papers/FeinmanLake2020CogSci_supp.pdf">Supporting Info.</a>]
+- <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em> [<a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci_supp.pdf">Supporting Info.</a>]
 
-- <a href="papers/DavidsonLake2020CogSci.pdf">Davidson, G. and Lake, B. M. (2020). Investigating simple object representations in model-free deep reinforcement learning.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>
+- <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2020CogSci.pdf">Davidson, G. and Lake, B. M. (2020). Investigating simple object representations in model-free deep reinforcement learning.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/LewisEtAl2020.pdf">Lewis, M., Cristiano, V., Lake, B. M., Kwan, T., Frank, M. C. (2020). The role of developmental change and linguistic experience in the mutual exclusivity effect.</a> <em>Cognition</em>, 198.
 
