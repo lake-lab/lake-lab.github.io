@@ -26,7 +26,7 @@ Human conceptual representations are rich in structural and statistical knowledg
 <img class="fig" src="/images/projects/fig-gns.jpg" width="300">
 We are developing neuro-symbolic models that learn compositional and causal generative programs from raw data, while using neural sub-routines for powerful statistical modeling (see diagram). We aim to better understand the dual structural and statistical natures of human concepts, and to learn neuro-symbolic representations for machine learning applications.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2003.08978.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> Preprint available on <em>arXiv:2003.08978</em>.
+- <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em> [<a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci_supp.pdf">Supporting Info.</a>]
 
 ---
 
@@ -36,7 +36,7 @@ _Key people: Yanli Zhou, Laura Ruis, Max Nye, and Marco Baroni_
 People make compositional generalizations in language, thought, and action. Once a person learns how to "photobomb" she immediately understands how to "photobomb twice" or "photobomb vigorously." We have shown that, despite recent advances in natural language processing, the best algorithms fail catastrophically on tests of compositionality.
 
 <img class="fig" src="/images/projects/fig-gscan-crop.png" width="200">
-To better understand these distinctively human abilities, we are studying human compositional learning of language-like instructions. Based on behavioral insights, we are developing novel meta-learning and neural-symbolic models to tackle popular compositional learning benchmarks. Additional work focuses on learning compositional visual concepts and developing more challenging benchmarks for AI, e.g., few-shot learning of concepts like "cautiously" (see image of "walking to the small red circle cautiously," which requires looking both ways before moving).
+To better understand these distinctively human abilities, we are studying human compositional learning of language-like instructions. Based on behavioral insights, we are developing novel meta-learning and neural-symbolic models to tackle popular compositional learning benchmarks. Additional work focuses on learning compositional visual concepts and developing more challenging benchmarks for AI, e.g., few-shot learning of concepts such as "cautiously" (see image of "walking to the small red circle cautiously," which requires looking both ways before moving).
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. Preprint available on <em>arXiv:2003.05161.</em>
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05562.pdf">Nye, M., Solar-Lezama, A., Tenenbaum, J. B., and Lake, B. M. (2020). Learning Compositional Rules via Neural Program Synthesis.</a> Preprint available on <em>arXiv:2003.05562</em>.
@@ -50,9 +50,9 @@ _Key people: Guy Davidson_
 Video games are ideal for comparing human and machine learning. Although the best algorithms outscore people on many games, they require hundreds of hours of experience to learn a new game while people need just a few minutes. The experience gap is only widening: OpenAI recently trained their Dota 2 bot for 45,000 years worth of game experience. Our hypothesis is that key cognitive ingredients are missing from contemporary AI systems &mdash; objects, agents, compositionality, and causality &mdash; and this absence is holding these systems back.
 
 <img class="fig" src="/images/projects/fig-games-crop.jpg" width="280">
-To evaluate this hypothesis, we are integrating cognitive ingredients into deep reinforcement learning (RL) algorithms and evaluating their performance. With simple object representations, models can achieve higher scores and better generalization to new test scenarios (see image of an agent surrounded by enemies). Ongoing work is studying the importance of agents, compositionality, and causality.
+To evaluate this hypothesis, we are incorporating cognitive ingredients into deep reinforcement learning (RL) algorithms and evaluating their performance. In the "Frostbite challenge," we have found that adding object masks leads to higher scores and better generalization to novel test scenarios: An agent surrounded by crabs now knows it's toast! (see image) Ongoing work is studying the importance of agents, compositionality, and causality.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2002.06703.pdf">Davidson, G. and Lake, B. M. (2020). Investigating simple object representations in model-free deep reinforcement learning.</a> Preprint available on <em>arXiv:2002.06703</em>.
+- <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2020CogSci.pdf">Davidson, G. and Lake, B. M. (2020). Investigating simple object representations in model-free deep reinforcement learning.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>
 - <a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2017BBS.pdf">Lake, B. M., Ullman, T. D., Tenenbaum, J. B., and Gershman, S. J. (2017). Building machines that learn and think like people.</a> <em>Behavioral and Brain Sciences</em>, 40, E253.
 
 ---
