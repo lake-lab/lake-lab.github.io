@@ -9,6 +9,8 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 ##### Preprints
 
+- <a href="https://cims.nyu.edu/~brenden/papers/2007.16189.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> Preprint available on <em>arXiv:2007.16189</em>.
+
 - <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> Preprint available on <em>arXiv:2006.14448</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05573.pdf">Vong, W. K. and Lake, B. M. (2020). Learning word-referent mappings and concepts from raw inputs.</a> Preprint available on <em>arXiv:2003.05573</em>.
@@ -28,9 +30,12 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 ##### 2020
 
-- <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em> [<a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci_supp.pdf">Supporting Info.</a>]
+- <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>
+[<a href="https://www.youtube.com/watch?v=6n9Dk6E1bA4&feature=youtu.be">Short video</a>]
+[<a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci_supp.pdf">Supporting Info.</a>]
 
 - <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2020CogSci.pdf">Davidson, G. and Lake, B. M. (2020). Investigating simple object representations in model-free deep reinforcement learning.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>
+[<a href="https://www.youtube.com/watch?v=QdRdJ-6GyKU&feature=youtu.be">Short video</a>]
 
 - <a href="https://cims.nyu.edu/~brenden/papers/LewisEtAl2020.pdf">Lewis, M., Cristiano, V., Lake, B. M., Kwan, T., Frank, M. C. (2020). The role of developmental change and linguistic experience in the mutual exclusivity effect.</a> <em>Cognition</em>, 198.
 

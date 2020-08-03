@@ -37,19 +37,17 @@ collectionpage: pages
 <img class="bio" src="/images/bios/guy-davidson.jpg">
 **Guy Davidson.** Guy is a first-year Ph.D. student at the Center for Data Science, working with Professors Brenden Lake and Todd Gureckis. Guy’s interests center around the intersection between human cognition and machine learning, and particularly, what can we learn from studying humans to allow us to design wiser machine learning systems. His current research focus on inserting object-based and relational reasoning to reinforcement learning algorithms, and on the flexible ways humans generate goals in novel environments. Before coming to NYU, Guy served six years in the Israel Defense Forces, and then graduated (summa cum laude) with a B.Sc. in Computational Sciences from the Minerva Schools. He previously collaborated with Professors Yael Niv (Princeton) and Michael C. Mozer (Google Research and CU Boulder). Outside of his studies, Guy loves to play ultimate frisbee and is developing an appreciation for pour-over coffee and fermenting foods. [[Website]](https://guydavidson.me/)
 
-##### M.S. and undergraduate students
+##### Assistant research scientists
 <br>
 <img class="bio" src="/images/bios/kanishk-gandhi.jpeg">
 **Kanishk Gandhi**. I am a first year Master's student at New York University and a Morse Fellow at the Department of Electrical Engineering. My current research with Prof. Lake focuses on designing Reinforcement Learning agents to think and learn more like humans do. I am broadly interested in utilizing concepts in the cognitive sciences to improve contemporary deep learning algorithms. I have completed my undergraduate from IIT Kanpur majoring in Electrical Engineering with a minor in AI. In the past I have worked on natural language generation and predicting video watching patterns of people. I have also been part of a couple of interesting startup projects including LucidLaw (A legal research startup). [[Website]](https://kanishkg.github.io/)
 
-<img class="bio" src="/images/bios/ziyun-wang.jpg">
-**Ziyun Wang**. Ziyun is a first-year MS student at the Computer Science Department of NYU. He received his Bachelor’s degree in Computer Science and Technology at Tsinghua University, China, where he had worked on research projects about language generation and information extraction for two years. Ziyun is broadly interested in discovering the potentials and limitations of state-of-the-art deep neural models, and advancing language utilization ability of machines. In the belief that the key for better AI lies in the field of cognitive science, he is especially interested in taking inspirations from how humans utilize natural languages, and developing more powerful machine learning models. [[Website]](http://ziyunwang.me/)
-
-<img class="bio" src="/images/bios/vaibhav-gupta-cropped.jpg">
-**Vaibhav Gupta**. Vaibhav is a second-year MSCS student at the Courant Institute, NYU. His work with the lab is broadly aimed at using deep learning techniques to model how learning takes place in humans. He is especially interested in exploring the use of self-supervised deep learning for vision based tasks. Prior to this he has worked with Amazon, in various domains including Big Data Analytics and Web-Dev.
-
+##### M.S. and undergraduate students
+<br>
 <img class="bio" src="/images/bios/alexa-tartaglini.jpg">
 **Alexa Tartaglini**. I am a third-year student in computer science and mathematics at the New York University Courant Institute of Mathematical Sciences. I am interested in comparing the mechanisms of human and machine intelligence, especially with regards to cognitive tasks that are difficult for computers to perform such as category and concept learning, object recognition, and commonsense reasoning. I am particularly interested in the role of shape in human category representation and the relationship between learning and reasoning.
 
 ##### Lab alumni
+- Vaibhav Gupta. Former M.S. researcher, now Senior Software Engineer at Grab.
+- Ziyun Wang. Former M.S. researcher, now R&D Engineer at Tencent.
 - [Anselm Rothe](https://anselmrothe.github.io/). Former Ph.D. student (co-advised with Todd Gureckis), now postdoc at the Max Planck Institute.
