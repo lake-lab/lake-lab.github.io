@@ -9,6 +9,8 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 ##### Preprints
 
+- <a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (2020). Word meaning in minds and machines.</a> Preprint available on <em>arXiv:2008.01766</em>.
+
 - <a href="https://cims.nyu.edu/~brenden/papers/2007.16189.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> Preprint available on <em>arXiv:2007.16189</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> Preprint available on <em>arXiv:2006.14448</em>.
