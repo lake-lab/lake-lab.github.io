@@ -11,26 +11,26 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (2020). Word meaning in minds and machines.</a> Preprint available on <em>arXiv:2008.01766</em>.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2007.16189.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> Preprint available on <em>arXiv:2007.16189</em>.
-
 - <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> Preprint available on <em>arXiv:2006.14448</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05573.pdf">Vong, W. K. and Lake, B. M. (2020). Learning word-referent mappings and concepts from raw inputs.</a> Preprint available on <em>arXiv:2003.05573</em>.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2003.05562.pdf">Nye, M., Solar-Lezama, A., Tenenbaum, J. B., and Lake, B. M. (2020). Learning Compositional Rules via Neural Program Synthesis.</a> Preprint available on <em>arXiv:2003.05562</em>.
-
-- <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. Preprint available on <em>arXiv:2003.05161.</em> [<a href="https://github.com/LauraRuis/groundedSCAN">Benchmark</a>] [<a href="https://github.com/LauraRuis/multimodal_seq2seq_gSCAN">Baseline model</a>]
-
 - <a href="https://cims.nyu.edu/~brenden/papers/1907.09899.pdf">Wang, Z. and Lake, B. M. (2019). Modeling question asking using neural program generation.</a> Preprint available on <em>arXiv:1907.09899</em>.
-
-- <a href="https://cims.nyu.edu/~brenden/papers/1906.10197.pdf">Gandhi, K. and Lake, B. M. (2019). Mutual exclusivity as a challenge for deep neural networks.</a> Preprint available on <em>arXiv:1906.10197</em>.
-  - <strong>Press:</strong> <a href="https://www.newscientist.com/article/2208277-teaching-ais-to-make-mistakes-like-kids-would-help-them-learn-faster/">New Scientist</a>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/1906.08416.pdf">Orhan, E. and Lake, B. M. (2019). Improving the robustness of ImageNet classifiers using elements of human visual cognition.</a> Preprint available on <em>arXiv:1906.08416</em>.
 
 ---
 
 ##### 2020
+
+- <a href="https://cims.nyu.edu/~brenden/papers/2007.16189.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+
+- <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. <em>Advances in Neural Information Processing Systems 33</em>. [<a href="https://github.com/LauraRuis/groundedSCAN">Benchmark</a>] [<a href="https://github.com/LauraRuis/multimodal_seq2seq_gSCAN">Baseline model</a>]
+
+- <a href="https://cims.nyu.edu/~brenden/papers/2003.05562.pdf">Nye, M., Solar-Lezama, A., Tenenbaum, J. B., and Lake, B. M. (2020). Learning Compositional Rules via Neural Program Synthesis.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+
+- <a href="https://cims.nyu.edu/~brenden/papers/1906.10197.pdf">Gandhi, K. and Lake, B. M. (2019). Mutual exclusivity as a challenge for deep neural networks.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+  - <strong>Press:</strong> <a href="https://www.newscientist.com/article/2208277-teaching-ais-to-make-mistakes-like-kids-would-help-them-learn-faster/">New Scientist</a>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>
 [<a href="https://www.youtube.com/watch?v=6n9Dk6E1bA4&feature=youtu.be">Short video</a>]
@@ -49,7 +49,7 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 ##### 2019
 
-- <a href="https://cims.nyu.edu/~brenden/papers/Lake2019NeurIPS.pdf">Lake, B. M. (2019). Compositional generalization through meta sequence-to-sequence learning.</a> <em>Advances in Neural Information Processing Systems</em>.
+- <a href="https://cims.nyu.edu/~brenden/papers/Lake2019NeurIPS.pdf">Lake, B. M. (2019). Compositional generalization through meta sequence-to-sequence learning.</a> <em>Advances in Neural Information Processing Systems 32</em>.
 [<a href="https://github.com/facebookresearch/meta_seq2seq">Code</a>]
 
 - <a href="https://cims.nyu.edu/~brenden/papers/LakeEtAlOmniglotProgress.pdf">Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2019). The Omniglot challenge: a 3-year progress report.</a> <em>Current Opinion in Behavioral Sciences</em>, 29, 97-104.
