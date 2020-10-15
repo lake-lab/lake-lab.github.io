@@ -11,11 +11,14 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (2020). Word meaning in minds and machines.</a> Preprint available on <em>arXiv:2008.01766</em>.
 
+- <a href="https://cims.nyu.edu/~brenden/papers/2010.02855.pdf"> Vedantam, R., Szlam, A., Nickel M., Morcos, A., and Lake, B. M. (2020). CURI: A Benchmark for Productive Concept Learning Under Uncertainty. </a> Preprint available on <em>arXiv:2010.02855</em>.
+
 - <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> Preprint available on <em>arXiv:2006.14448</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05573.pdf">Vong, W. K. and Lake, B. M. (2020). Learning word-referent mappings and concepts from raw inputs.</a> Preprint available on <em>arXiv:2003.05573</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/1907.09899.pdf">Wang, Z. and Lake, B. M. (2019). Modeling question asking using neural program generation.</a> Preprint available on <em>arXiv:1907.09899</em>.
+  - <strong>Press:</strong> <a href="https://knowablemagazine.org/article/technology/2020/what-is-neurosymbolic-ai">Knowable Magazine</a>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/1906.08416.pdf">Orhan, E. and Lake, B. M. (2019). Improving the robustness of ImageNet classifiers using elements of human visual cognition.</a> Preprint available on <em>arXiv:1906.08416</em>.
 
@@ -24,6 +27,7 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 ##### 2020
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2007.16189.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+  - <strong>Press:</strong> <a href="https://www.newscientist.com/article/2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes/">New Scientist</a>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. <em>Advances in Neural Information Processing Systems 33</em>. [<a href="https://github.com/LauraRuis/groundedSCAN">Benchmark</a>] [<a href="https://github.com/LauraRuis/multimodal_seq2seq_gSCAN">Baseline model</a>]
 
