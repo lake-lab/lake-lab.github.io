@@ -42,12 +42,14 @@ collectionpage: pages
 <img class="bio" src="/images/bios/kanishk-gandhi.jpeg">
 **Kanishk Gandhi**. I am a first year Master's student at New York University and a Morse Fellow at the Department of Electrical Engineering. My current research with Prof. Lake focuses on designing Reinforcement Learning agents to think and learn more like humans do. I am broadly interested in utilizing concepts in the cognitive sciences to improve contemporary deep learning algorithms. I have completed my undergraduate from IIT Kanpur majoring in Electrical Engineering with a minor in AI. In the past I have worked on natural language generation and predicting video watching patterns of people. I have also been part of a couple of interesting startup projects including LucidLaw (A legal research startup). [[Website]](https://kanishkg.github.io/)
 
+<img class="bio" src="/images/bios/vaibhav-gupta-cropped.jpg">
+**Vaibhav Gupta**. Vaibhav recently completed his Masters in Computer Science from the Courant Institute, NYU. His work with the lab is broadly aimed at using deep learning techniques to model how learning takes place in humans. He is especially interested in exploring the use of self-supervised deep learning for vision based tasks. Prior to NYU, Vaibhav worked with Amazon for a few years. [[Website]](https://vaibhavgupta.io/)
+
 ##### M.S. and undergraduate students
 <br>
 <img class="bio" src="/images/bios/alexa-tartaglini.jpg">
 **Alexa Tartaglini**. I am a third-year student in computer science and mathematics at the New York University Courant Institute of Mathematical Sciences. I am interested in comparing the mechanisms of human and machine intelligence, especially with regards to cognitive tasks that are difficult for computers to perform such as category and concept learning, object recognition, and commonsense reasoning. I am particularly interested in the role of shape in human category representation and the relationship between learning and reasoning.
 
 ##### Lab alumni
-- Vaibhav Gupta. Former M.S. researcher, now Senior Software Engineer at Grab.
 - Ziyun Wang. Former M.S. researcher, now R&D Engineer at Tencent.
 - [Anselm Rothe](https://anselmrothe.github.io/). Former Ph.D. student (co-advised with Todd Gureckis), now postdoc at the Max Planck Institute.
