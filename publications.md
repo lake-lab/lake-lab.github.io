@@ -26,14 +26,22 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 ##### 2020
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2007.16189.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+- <a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+[<a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS_supp.pdf">Supporting Info.</a>]
+[<a href="https://github.com/eminorhan/baby-vision">Code and pre-trained models</a>]
   - <strong>Press:</strong> <a href="https://www.newscientist.com/article/2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes/">New Scientist</a>
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2003.05161.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. <em>Advances in Neural Information Processing Systems 33</em>. [<a href="https://github.com/LauraRuis/groundedSCAN">Benchmark</a>] [<a href="https://github.com/LauraRuis/multimodal_seq2seq_gSCAN">Baseline model</a>]
+- <a href="https://cims.nyu.edu/~brenden/papers/RuisEtAl2020NeurIPS.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. <em>Advances in Neural Information Processing Systems 33</em>.
+[<a href="https://cims.nyu.edu/~brenden/papers/RuisEtAl2020NeurIPS_supp.pdf">Supporting Info.</a>]
+[<a href="https://github.com/LauraRuis/groundedSCAN">Benchmark</a>]
+[<a href="https://github.com/LauraRuis/multimodal_seq2seq_gSCAN">Baseline model</a>]
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2003.05562.pdf">Nye, M., Solar-Lezama, A., Tenenbaum, J. B., and Lake, B. M. (2020). Learning Compositional Rules via Neural Program Synthesis.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+- <a href="https://cims.nyu.edu/~brenden/papers/NyeEtAl2020NeurIPS.pdf">Nye, M., Solar-Lezama, A., Tenenbaum, J. B., and Lake, B. M. (2020). Learning Compositional Rules via Neural Program Synthesis.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+[<a href="https://cims.nyu.edu/~brenden/papers/NyeEtAl2020NeurIPS_supp.pdf">Supporting Info.</a>]
+[<a href="https://github.com/mtensor/rulesynthesis">Code</a>]
 
-- <a href="https://cims.nyu.edu/~brenden/papers/1906.10197.pdf">Gandhi, K. and Lake, B. M. (2019). Mutual exclusivity as a challenge for deep neural networks.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+- <a href="https://cims.nyu.edu/~brenden/papers/GandhiLake2020NeurIPS.pdf">Gandhi, K. and Lake, B. M. (2020). Mutual exclusivity as a challenge for deep neural networks.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+[<a href="https://cims.nyu.edu/~brenden/papers/GandhiLake2020NeurIPS_supp.pdf">Supporting Info.</a>]
   - <strong>Press:</strong> <a href="https://www.newscientist.com/article/2208277-teaching-ais-to-make-mistakes-like-kids-would-help-them-learn-faster/">New Scientist</a>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>
