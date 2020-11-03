@@ -7,7 +7,7 @@ collectionpage: pages
 .fig {
   display: block;
   margin-left: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 16px;
   float: right;
 }
 </style>
