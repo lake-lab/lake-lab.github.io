@@ -26,9 +26,9 @@ Children start to develop a sophisticated understanding of the world around them
 
 Ongoing research in the lab investigates whether basic intuitive physics principles like object permanence, shape constancy, and spatio-temporal continuity can also be learned via similar generic learning mechanisms.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33.</em> [<a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS_supp.pdf">Supporting Info</a>] [<a href="https://github.com/eminorhan/baby-vision">Code and pre-trained models</a>] [<a href="https://www.newscientist.com/article/2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes/">New Scientist article</a>]
+<img src="/images/projects/fig-saycam.png" width="720" align="left">
 
-<img class="fig" src="/images/projects/fig-saycam.png" width="720">
+- <a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33.</em> [<a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS_supp.pdf">Supporting Info</a>] [<a href="https://github.com/eminorhan/baby-vision">Code and pre-trained models</a>] [<a href="https://www.newscientist.com/article/2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes/">New Scientist article</a>]
 
 ---
 
