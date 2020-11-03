@@ -25,7 +25,7 @@ _Key people: Emin Orhan, Vaibhav Gupta, Wai Keen Vong, and Kanishk Gandhi_
 Children start to develop a sophisticated understanding of the world around them early on in their development. What is the source of this early developing knowledge? Can it be explained simply through generic learning mechanisms applied to the sensory data experienced by the child, or does it require more substantive innate inductive biases? We address this fundamental *nature vs. nurture* question using modern self-supervised learning algorithms and a recent longitudinal developmentally realistic dataset of headcam videos recorded from the perspective of developing children (see figure below; <a href="https://psyarxiv.com/fy8zx/">Sullivan et al., 2020</a>). Our results so far suggest that it is possible to learn powerful high-level visual representations through generic self-supervised learning mechanisms applied to this developmentally realistic video dataset. 
 
 
-<img class="fig" src="/images/projects/fig-saycam.png" width="640">
+<img class="fig" src="/images/projects/fig-saycam.png" width="640" style="vertical-align:middle">
 
 
 Ongoing research in the lab investigates whether basic intuitive physics principles like object permanence, shape constancy, and spatio-temporal continuity can also be learned via similar generic learning mechanisms.
