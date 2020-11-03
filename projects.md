@@ -11,10 +11,24 @@ collectionpage: pages
 }
 </style>
 Read about our current projects on
+[self-supervised learning](#self-supservised-learning-in-minds-and-machines),
 [concept learning](#concept-learning-in-minds-and-machines),
 [compositional generalization](#compositional-generalization-in-minds-and-machines),
 [video game learning](#video-game-learning-in-minds-and-machines),
 and [question asking](#question-asking-in-minds-and-machines).
+
+---
+
+##### Self-supervised learning in minds and machines
+_Key people: Emin Orhan, Vaibhav Gupta, Wai Keen Vong, and Kanishk Gandhi_
+
+Children start to develop a sophisticated understanding of the world around them early on in their development. What is the source of this early developing knowledge? Can it be explained simply through generic learning mechanisms applied to the sensory data experienced by the child, or does it require more substantive innate inductive biases? We address this question using modern self-supervised learning algorithms and a recent longitudinal developmentally realistic dataset of headcam videos recorded from the perspective of developing children (see figure; <a href="https://psyarxiv.com/fy8zx/">Sullivan et al., 2020</a>). Our results so far suggest that it is possible to learn powerful high-level visual representations through generic self-supervised learning mechanisms applied to this developmentally realistic video dataset. 
+
+<img class="fig" src="/images/projects/fig-saycam.png" width="300">
+
+Ongoing research investigates whether basic intuitive physics principles like object permanence, shape constancy, and spatio-temporal continuity can also be learned via similar generic learning mechanisms.
+
+- <a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33.</em> [<a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS_supp.pdf">Supporting Info</a>] [<a href="https://github.com/eminorhan/baby-vision">Code and pre-trained models</a>] [<a href="https://www.newscientist.com/article/2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes/">New Scientist article</a>]
 
 ---
 
