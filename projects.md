@@ -12,7 +12,7 @@ collectionpage: pages
 }
 </style>
 Read about our current projects on
-[self-supervised learning](#self-supservised-learning-in-minds-and-machines),
+[learning through the eyes of a child](#learning-through-the-eyes-of-a-child),
 [concept learning](#concept-learning-in-minds-and-machines),
 [compositional generalization](#compositional-generalization-in-minds-and-machines),
 [video game learning](#video-game-learning-in-minds-and-machines),
@@ -20,14 +20,13 @@ and [question asking](#question-asking-in-minds-and-machines).
 
 ---
 
-##### Self-supervised learning in minds and machines
+##### Learning through the eyes of a child
 _Key people: Emin Orhan, Vaibhav Gupta, Wai Keen Vong, and Kanishk Gandhi_
 
-Children start to develop a sophisticated understanding of the world around them early on in their development. What is the source of this early developing knowledge? Can it be explained simply through generic learning mechanisms applied to the sensory data experienced by the child, or does it require more substantive innate inductive biases? We address this fundamental *nature vs. nurture* question using modern self-supervised learning algorithms and a recent longitudinal developmentally realistic dataset of headcam videos recorded from the perspective of developing children (see figure below; <a href="https://psyarxiv.com/fy8zx/">Sullivan et al., 2020</a>).
+<img class="fig" src="/images/projects/fig-saycam.jpg" width="350">
+Young children have wide-ranging and sophisticated knowledge of the world. What is the origin of this early knowledge? How much can be explained through generic learning mechanisms applied to sensory data, and how much requires more substantive innate inductive biases? We examine these *nature vs. nurture* questions by training large-scale neural networks through the eyes of a single developing child, using longitudinal baby headcam videos (see recent dataset from <a href="https://psyarxiv.com/fy8zx/">Sullivan et al., 2020</a>).
 
-<img class="fig" src="/images/projects/fig-saycam.png" width="720">
-
-Our results so far suggest that it is possible to learn powerful high-level visual representations through generic self-supervised learning mechanisms applied to this developmentally realistic video dataset. Ongoing research in the lab investigates whether basic intuitive physics principles like object permanence, shape constancy, and spatio-temporal continuity can also be learned via similar generic learning mechanisms.
+Our results so far show how high-level visual representations emerge from a subset of one baby's experience, through only self-supervised learning. Our ongoing work is investigating whether basic principles of objects and agents, and simple predictive models of the world, can also be learned via similar generic learning mechanisms.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33.</em> [<a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS_supp.pdf">Supporting Info</a>] [<a href="https://github.com/eminorhan/baby-vision">Code and pre-trained models</a>] [<a href="https://www.newscientist.com/article/2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes/">New Scientist article</a>]
 
