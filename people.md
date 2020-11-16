@@ -39,6 +39,9 @@ collectionpage: pages
 
 ##### Assistant research scientists
 <br>
+<img class="bio" src="/images/bios/laura-ruis.jpg">
+**Laura Ruis**. Laura is an assistant research scientist at the CDS working on understanding generalization of machine learning methods. She finished her Master’s degree in Artificial Intelligence at the University of Amsterdam, where she focused on machine learning for natural language processing. During this time, she worked on things like probabilistical graphical models for dependency parsing and non-autoregressive transformers for text generation, among other things, and developed an interest in the generalization capabilities of deep learning methods. Her current research focuses on improving the robustness of contemporary methods to distributional shift and endowing methods with compositional generalization capabilities with techniques like meta learning. [[Website]](https://www.lauraruis.com/)
+
 <img class="bio" src="/images/bios/kanishk-gandhi.jpeg">
 **Kanishk Gandhi**. I am a first year Master's student at New York University and a Morse Fellow at the Department of Electrical Engineering. My current research with Prof. Lake focuses on designing Reinforcement Learning agents to think and learn more like humans do. I am broadly interested in utilizing concepts in the cognitive sciences to improve contemporary deep learning algorithms. I have completed my undergraduate from IIT Kanpur majoring in Electrical Engineering with a minor in AI. In the past I have worked on natural language generation and predicting video watching patterns of people. I have also been part of a couple of interesting startup projects including LucidLaw (A legal research startup). [[Website]](https://kanishkg.github.io/)
 
