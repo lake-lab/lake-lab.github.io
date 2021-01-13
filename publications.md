@@ -13,14 +13,18 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2010.02855.pdf"> Vedantam, R., Szlam, A., Nickel M., Morcos, A., and Lake, B. M. (2020). CURI: A Benchmark for Productive Concept Learning Under Uncertainty. </a> Preprint available on <em>arXiv:2010.02855</em>.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> Preprint available on <em>arXiv:2006.14448</em>.
-
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05573.pdf">Vong, W. K. and Lake, B. M. (2020). Learning word-referent mappings and concepts from raw inputs.</a> Preprint available on <em>arXiv:2003.05573</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/1907.09899.pdf">Wang, Z. and Lake, B. M. (2019). Modeling question asking using neural program generation.</a> Preprint available on <em>arXiv:1907.09899</em>.
   - <strong>Press:</strong> <a href="https://knowablemagazine.org/article/technology/2020/what-is-neurosymbolic-ai">Knowable Magazine</a>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/1906.08416.pdf">Orhan, E. and Lake, B. M. (2019). Improving the robustness of ImageNet classifiers using elements of human visual cognition.</a> Preprint available on <em>arXiv:1906.08416</em>.
+
+---
+
+##### 2021
+
+- <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2021). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> Preprint available on <em>arXiv:2006.14448</em>.
 
 ---
 
