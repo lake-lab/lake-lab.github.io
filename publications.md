@@ -24,7 +24,7 @@ Lab publications by year: [Preprints](#preprints), [2020](#2020), [2019](#2019),
 
 ##### 2021
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2021). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em>International Conference on Learning Representations (ICLR)</em>.
+- <a href="https://cims.nyu.edu/~brenden/papers/2006.14448.pdf">Feinman, R. and Lake, B. M. (2021). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em>International Conference on Learning Representations (ICLR).</em>
 
 ---
 
