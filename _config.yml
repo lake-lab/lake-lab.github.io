@@ -1,5 +1,6 @@
 # Set theme
-remote_theme: daviddarnes/alembic
+# remote_theme: daviddarnes/alembic
+theme: alembic-jekyll-theme
 
 # File excludes
 exclude:
