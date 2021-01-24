@@ -1,6 +1,5 @@
 # Set theme
-# remote_theme: daviddarnes/alembic
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
 
 # File excludes
 exclude:
@@ -15,11 +14,11 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
-- jekyll-default-layout
 - jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
-
 # Site settings
 url: 'https://lake-lab.github.io/'
 baseurl: ''
