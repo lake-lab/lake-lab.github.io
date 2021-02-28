@@ -6,8 +6,7 @@ collectionpage: pages
 Interested in joining the Human & Machine Learning Lab? Interested candidates can apply through the links below. More generally, NYU offers very strong training in [computational cognitive science](http://nyuccl.org/cogsci/) and [artificial intelligence](https://wp.nyu.edu/cilvr/).
 
 ##### Postdoctoral researchers
-- We are seeking a Postdoctoral researcher in self-supervised learning. Work with us to model child headcam videos, with the aim of learning knowledge of objects and agents from raw input. Deadline is **Sept 1, 2020** or when position is filled. [Apply here](https://apply.interfolio.com/65670)
-- For more information, you are welcome to contact [Brenden](https://cims.nyu.edu/~brenden/).
+- Please reach out to [Brenden](https://cims.nyu.edu/~brenden/) if you are interested in a postdoc position.
 
 ##### Ph.D. candidates
 - Interested Ph.D. candidates are encouraged to apply to either the 
@@ -15,7 +14,6 @@ Interested in joining the Human & Machine Learning Lab? Interested candidates ca
 or the [Ph.D. Program in Cognition and Perception](http://as.nyu.edu/psychology/graduate/phd-cognition-perception.html) (deadline usually  December 1).
 - In exceptional cases, it is possible to join the lab through the Ph.D. Program in Computer Science and the Ph.D. Program in Neural Science, but it is strongly recommended that you apply through either Data Science or Cognition and Perception.
 - [University Policy](http://gsas.nyu.edu/admissions/gsas-application-resource-center/nyu-gsas-general-application-policies.html#3) states that you may only apply to one program at a time.
-- For more information, you are welcome to contact [Brenden](https://cims.nyu.edu/~brenden/).
 
 ##### Current Master's and undergraduates at NYU
 - We are glad that you are interested in research, although sadly we have a limited number of spots for Master's and undergraduate researchers. The usual path is to take one of Brenden's courses and do very well, as a stepping stone to starting a research project. You are welcome to reach out to [Brenden](https://cims.nyu.edu/~brenden/) and ask about opportunities.
