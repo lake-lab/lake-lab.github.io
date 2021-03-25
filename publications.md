@@ -13,8 +13,6 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2102.11938.pdf">Gandhi, K., Stojnic, G., Lake, B. M. and Dillon, M. R. (2021). Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others.</a> Preprint available on <em>arXiv:2102.11938</em>.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (2020). Word meaning in minds and machines.</a> Preprint available on <em>arXiv:2008.01766</em>.
-
 - <a href="https://cims.nyu.edu/~brenden/papers/2010.02855.pdf"> Vedantam, R., Szlam, A., Nickel M., Morcos, A., and Lake, B. M. (2020). CURI: A Benchmark for Productive Concept Learning Under Uncertainty. </a> Preprint available on <em>arXiv:2010.02855</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05573.pdf">Vong, W. K. and Lake, B. M. (2020). Learning word-referent mappings and concepts from raw inputs.</a> Preprint available on <em>arXiv:2003.05573</em>.
@@ -27,6 +25,8 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
 ---
 
 ##### 2021
+
+- <a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (in press). Word meaning in minds and machines.</a> <em>Psychological Review</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf">Feinman, R. and Lake, B. M. (2021). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em>International Conference on Learning Representations (ICLR).</em>
 
