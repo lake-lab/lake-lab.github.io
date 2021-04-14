@@ -19,7 +19,7 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
 
 ##### 2021
 
-- <a href="papers/DavidsonLake2021.pdf">Davidson, G. and Lake, B. M. (2021). Examining Infant Relation Categorization Through Deep Neural Networks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+- <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2021.pdf">Davidson, G. and Lake, B. M. (2021). Examining Infant Relation Categorization Through Deep Neural Networks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2021.pdf">Davidson, G. and Lake, B. M. (2021). Examining Infant Relation Categorization Through Deep Neural Networks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
 
