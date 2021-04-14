@@ -9,22 +9,22 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
 
 ##### Preprints
 
-- <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2021.pdf">Davidson, G. and Lake, B. M. (2021). Examining Infant Relation Categorization Through Deep Neural Networks.</a> Preprint available on <em>PsyArXiv:esvuw</em>.
-
 - <a href="https://cims.nyu.edu/~brenden/papers/2102.11938.pdf">Gandhi, K., Stojnic, G., Lake, B. M. and Dillon, M. R. (2021). Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others.</a> Preprint available on <em>arXiv:2102.11938</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2010.02855.pdf"> Vedantam, R., Szlam, A., Nickel M., Morcos, A., and Lake, B. M. (2020). CURI: A Benchmark for Productive Concept Learning Under Uncertainty. </a> Preprint available on <em>arXiv:2010.02855</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05573.pdf">Vong, W. K. and Lake, B. M. (2020). Learning word-referent mappings and concepts from raw inputs.</a> Preprint available on <em>arXiv:2003.05573</em>.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/1907.09899.pdf">Wang, Z. and Lake, B. M. (2019). Modeling question asking using neural program generation.</a> Preprint available on <em>arXiv:1907.09899</em>.
-  - <strong>Press:</strong> <a href="https://knowablemagazine.org/article/technology/2020/what-is-neurosymbolic-ai">Knowable Magazine</a>
-
-- <a href="https://cims.nyu.edu/~brenden/papers/1906.08416.pdf">Orhan, E. and Lake, B. M. (2019). Improving the robustness of ImageNet classifiers using elements of human visual cognition.</a> Preprint available on <em>arXiv:1906.08416</em>.
-
 ---
 
 ##### 2021
+
+- <a href="papers/DavidsonLake2021.pdf">Davidson, G. and Lake, B. M. (2021). Examining Infant Relation Categorization Through Deep Neural Networks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+
+- <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2021.pdf">Davidson, G. and Lake, B. M. (2021). Examining Infant Relation Categorization Through Deep Neural Networks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+
+- <a href="https://cims.nyu.edu/~brenden/papers/1907.09899.pdf">Wang, Z. and Lake, B. M. (2019). Modeling question asking using neural program generation.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+  - <strong>Press:</strong> <a href="https://knowablemagazine.org/article/technology/2020/what-is-neurosymbolic-ai">Knowable Magazine</a>
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (in press). Word meaning in minds and machines.</a> <em>Psychological Review</em>.
 
