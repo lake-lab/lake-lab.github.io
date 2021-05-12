@@ -11,22 +11,26 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
 
 - <a href="https://cims.nyu.edu/~brenden/papers/2102.11938.pdf">Gandhi, K., Stojnic, G., Lake, B. M. and Dillon, M. R. (2021). Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others.</a> Preprint available on <em>arXiv:2102.11938</em>.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2010.02855.pdf"> Vedantam, R., Szlam, A., Nickel M., Morcos, A., and Lake, B. M. (2020). CURI: A Benchmark for Productive Concept Learning Under Uncertainty. </a> Preprint available on <em>arXiv:2010.02855</em>.
-
 - <a href="https://cims.nyu.edu/~brenden/papers/2003.05573.pdf">Vong, W. K. and Lake, B. M. (2020). Learning word-referent mappings and concepts from raw inputs.</a> Preprint available on <em>arXiv:2003.05573</em>.
 
 ---
 
 ##### 2021
 
-- <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2021.pdf">Davidson, G. and Lake, B. M. (2021). Examining Infant Relation Categorization Through Deep Neural Networks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+- <a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (in press). Word meaning in minds and machines.</a> <em>Psychological Review</em>.
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2103.05823.pdf">Johnson, A., Vong, W. K., Lake, B. M. and Gureckis, T. M. (2021). Fast and flexible: Human program induction in abstract reasoning tasks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+- <a href="https://cims.nyu.edu/~brenden/papers/ZhouLake2021CogSci.pdf">Zhou, Y. and Lake, B. M. (2021). Flexible compositional learning of structured visual concepts.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
 
-- <a href="https://cims.nyu.edu/~brenden/papers/1907.09899.pdf">Wang, Z. and Lake, B. M. (2019). Modeling question asking using neural program generation.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+- <a href="https://cims.nyu.edu/~brenden/papers/TartagliniEtAl2021CogSci.pdf">Tartaglini, A. R., Vong, W. K., and Lake, B. M. (2021). Modeling artificial category learning from pixels: Revisiting Shepard, Hovland, and Jenkins (1961) with deep neural networks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>	      
+
+- <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2021CogSci.pdf">Davidson, G. and Lake, B. M. (2021). Examining Infant Relation Categorization Through Deep Neural Networks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+
+- <a href="https://cims.nyu.edu/~brenden/papers/JohnsonEtAl2021CogSci.pdf">Johnson, A., Vong, W. K., Lake, B. M. and Gureckis, T. M. (2021). Fast and flexible: Human program induction in abstract reasoning tasks.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
+
+- <a href="https://cims.nyu.edu/~brenden/papers/WangLake2021CogSci.pdf">Wang, Z. and Lake, B. M. (2019). Modeling question asking using neural program generation.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
   - <strong>Press:</strong> <a href="https://knowablemagazine.org/article/technology/2020/what-is-neurosymbolic-ai">Knowable Magazine</a>
 
-- <a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (in press). Word meaning in minds and machines.</a> <em>Psychological Review</em>.
+- <a href="https://cims.nyu.edu/~brenden/papers/2010.02855.pdf"> Vedantam, R., Szlam, A., Nickel M., Morcos, A., and Lake, B. M. (2021). CURI: A Benchmark for Productive Concept Learning Under Uncertainty.</a> <em>International Conference on Machine Learning (ICML)</em>.
 
 - <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf">Feinman, R. and Lake, B. M. (2021). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em>International Conference on Learning Representations (ICLR).</em>
 
