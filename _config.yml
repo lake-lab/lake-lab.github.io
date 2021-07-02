@@ -78,7 +78,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: [_pages]
+include: [_pages, index.md]
 exclude:
   - bin
   - Gemfile
