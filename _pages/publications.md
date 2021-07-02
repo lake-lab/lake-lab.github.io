@@ -90,13 +90,12 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
 
 <a href="https://cims.nyu.edu/~brenden/papers/LewisEtAl2020.pdf">Lewis, M., Cristiano, V., Lake, B. M., Kwan, T., and Frank, M. C. (2020). The role of developmental change and linguistic experience in the mutual exclusivity effect.</a> <em>Cognition</em>, 198.
 
----
-###### __2019__
-
 <a href="https://cims.nyu.edu/~brenden/papers/LakePiantadosi2019.pdf">Lake, B. M. and Piantadosi, S. T. (2020). People infer recursive visual concepts from just a few examples.</a> <em>Computational Brain & Behavior</em>, 3(1), 54-65.
 [<a href="https://cims.nyu.edu/~brenden/papers/LakePiantadosi2019_supp.pdf">Supporting Info.</a>]
 [<a href="https://cims.nyu.edu/~brenden/supplemental/lrvc/vp-exp.html">Experiments</a>]
 
+---
+###### __2019__
 
 <a href="https://cims.nyu.edu/~brenden/papers/Lake2019NeurIPS.pdf">Lake, B. M. (2019). Compositional generalization through meta sequence-to-sequence learning.</a> <em>Advances in Neural Information Processing Systems 32</em>.
 [<a href="https://github.com/facebookresearch/meta_seq2seq">Code</a>]

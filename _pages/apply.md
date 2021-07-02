@@ -21,7 +21,7 @@ or the [Ph.D. Program in Cognition and Perception](http://as.nyu.edu/psychology/
 
 In exceptional cases, it is possible to join the lab through the Ph.D. Program in Computer Science and the Ph.D. Program in Neural Science, but it is strongly recommended that you apply through either Data Science or Cognition and Perception.
 
-[University Policy](http://gsas.nyu.edu/admissions/gsas-application-resource-center/nyu-gsas-general-application-policies.html#3) states that you may only apply to one program at a time.
+[University policy](http://gsas.nyu.edu/admissions/gsas-application-resource-center/nyu-gsas-general-application-policies.html#3) states that you may only apply to one program at a time.
 
 <hr class='invis'>
 ##### __Current Master's and undergraduates at NYU__
