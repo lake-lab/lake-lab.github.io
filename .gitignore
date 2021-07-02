@@ -10,4 +10,3 @@ Gemfile.lock
 vendor
 lab-website-new.sublime-workspace
 lab-website-new.sublime-project
-./serve.sh
