@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    {% include head.html %}
+    {% include scripts/mathjax.html %}
+  </head>
+
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+
+    <!-- Header -->
+
+    {% include header.html %}
+
+    <!-- Content -->
+
+    <div class="div_wallpaper">
+      <img class="img_wallpaper" src="{{site.feature_img}}">
+      <span class="text_wallpaper_main">Human & Machine Learning Lab</span>
+      <span class="text_wallpaper_sub">New York University</span>
+    </div>
+
+    <div class="container mt-5">
+      {{ content }}
+    </div>
+
+  </body>
+
+  {% include scripts/bootstrap.html %}
+  {% include scripts/mansory.html %}
+  {% include scripts/misc.html %}
+
+</html>
