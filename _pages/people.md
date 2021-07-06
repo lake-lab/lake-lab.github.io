@@ -43,7 +43,7 @@ __Yanli Zhou.__ Yanli is a Ph.D. student at the NYU Center for Data Science. Pre
 <br><br>
 
 <div><img class="bio" src="/images/bios/guy-davidson.jpg"></div>
-__Guy Davidson.__ Guy is a first-year Ph.D. student at the Center for Data Science, working with Professors Brenden Lake and Todd Gureckis. Guy’s interests center around the intersection between human cognition and machine learning, and particularly, what can we learn from studying humans to allow us to design wiser machine learning systems. His current research focus on inserting object-based and relational reasoning to reinforcement learning algorithms, and on the flexible ways humans generate goals in novel environments. Before coming to NYU, Guy served six years in the Israel Defense Forces, and then graduated (summa cum laude) with a B.Sc. in Computational Sciences from the Minerva Schools. He previously collaborated with Professors Yael Niv (Princeton) and Michael C. Mozer (Google Research and CU Boulder). Outside of his studies, Guy loves to play ultimate frisbee and is developing an appreciation for pour-over coffee and fermenting foods. [[Website]](https://guydavidson.me/)
+__Guy Davidson.__ Guy is a Ph.D. student at the Center for Data Science, working with Professors Brenden Lake and Todd Gureckis. Guy is interested in the intersection between human cognition and machine learning, and particularly, what can we learn from studying humans to allow us to design wiser machine learning systems. His work focuses on object-based and relational approaches to reinforcement learning and on the flexible ways humans generate goals in novel environments. Before coming to NYU, Guy served six years in the Israel Defense Forces and then graduated (summa cum laude) with a B.Sc. in Computational Sciences from the Minerva Schools. He previously collaborated with Professors Yael Niv (Princeton) and Michael C. Mozer (Google Research and CU Boulder). Outside of his studies, Guy loves to play ultimate frisbee and enjoys pour-over coffee and fermenting foods. [[Website]](https://guydavidson.me/)
 
 <hr class='invis'>
 ##### __Assistant research scientists__
@@ -57,7 +57,7 @@ __Alexa Tartaglini__. I am a third-year student in computer science and mathemat
 
 <hr class='invis'>
 ##### __Lab alumni__
-- [Kanishk Gandhi](https://kanishkg.github.io/). Former M.S. researcher and Assistant research scientist, now working on Ph.D. in Computer Science at Stanford.
+- [Kanishk Gandhi](https://kanishkg.github.io/). Former M.S. researcher and Assistant research scientist, now working on his Ph.D. in Computer Science at Stanford.
 - [Vaibhav Gupta](https://vaibhavgupta.io/). Former M.S. researcher, now Applied Scientist at Amazon.
 - Ziyun Wang. Former M.S. researcher, now R&D Engineer at Tencent.
 - [Anselm Rothe](https://anselmrothe.github.io/). Former Ph.D. student (co-advised with Todd Gureckis), now postdoc at the Max Planck Institute.
