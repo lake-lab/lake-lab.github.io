@@ -12,6 +12,8 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
 ---
 ###### __Preprints__
 
+<a href="https://cims.nyu.edu/~brenden/papers/2107.02794.pdf">Nye, M., Tessler, M. H., Tenenbaum, J. B., and Lake, B. M. (2021). Improving Coherence and Consistency in Neural Sequence Models with Dual-System, Neuro-Symbolic Reasoning.</a> Preprint available on <em>arXiv:2107.02794</em>.
+
 <a href="https://cims.nyu.edu/~brenden/papers/2102.11938.pdf">Gandhi, K., Stojnic, G., Lake, B. M. and Dillon, M. R. (2021). Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others.</a> Preprint available on <em>arXiv:2102.11938</em>.
 
 <a href="https://cims.nyu.edu/~brenden/papers/VongLakePreprint.pdf">Vong, W. K. and Lake, B. M. (2021). Cross-situational word learning with multimodal neural networks.</a> Preprint available on <em>PsyArXiv:udbh2</em>.
