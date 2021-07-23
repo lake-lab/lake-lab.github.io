@@ -21,7 +21,7 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
 ---
 ###### __2021__
 
-<a href="https://cims.nyu.edu/~brenden/papers/2008.01766.pdf">Lake, B. M. and Murphy, G. L. (in press). Word meaning in minds and machines.</a> <em>Psychological Review</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/LakeMurphy2021PsychReview.pdf">Lake, B. M. and Murphy, G. L. (2021). Word meaning in minds and machines.</a> <em>Psychological Review</em>.
       
 
 <a href="https://cims.nyu.edu/~brenden/papers/ZhouLake2021CogSci.pdf">Zhou, Y. and Lake, B. M. (2021). Flexible compositional learning of structured visual concepts.</a> In <em>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</em>
@@ -44,8 +44,7 @@ Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020),
     </li>
 </ul>
 
-<a href="https://cims.nyu.edu/~brenden/papers/2010.02855.pdf"> Vedantam, R., Szlam, A., Nickel M., Morcos, A., and Lake, B. M. (2021). CURI: A Benchmark for Productive Concept Learning Under Uncertainty.</a> <em>International Conference on Machine Learning (ICML)</em>.
-
+<a href="https://cims.nyu.edu/~brenden/papers/VedantamICML2021.pdf"> Vedantam, R., Szlam, A., Nickel M., Morcos, A., and Lake, B. M. (2021). CURI: A Benchmark for Productive Concept Learning Under Uncertainty.</a> <em>International Conference on Machine Learning (ICML)</em>. [<a href="https://cims.nyu.edu/~brenden/papers/VedantamICML2021_supp.pdf">Supporting Info.</a>][<a href="https://github.com/facebookresearch/productive_concept_learning">Data and Code</a>]
 
 <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf">Feinman, R. and Lake, B. M. (2021). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em> International Conference on Learning Representations (ICLR)</em>.
 [<a href="https://github.com/rfeinman/GNS-Modeling">Code</a>]
