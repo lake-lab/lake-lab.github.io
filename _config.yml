@@ -63,20 +63,6 @@ news_limit: 5
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
-# Markdown and syntax highlight
-markdown: kramdown
-highlighter: rouge
-highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-    span:
-      line_numbers: false
-    block:
-      line_numbers: false
-      start_line: 1
-
 # Includes & excludes
 include: [_pages, index.md]
 exclude:
@@ -93,13 +79,10 @@ keep_files:
   - .nojekyll
   - .git
 
-# Plug-ins
+# # Plug-ins
 plugins:
-  - jekyll-email-protect
   - jekyll-github-metadata
   - jekyll-paginate-v2
-  - jekyll-twitter-plugin
-  - jemoji
 
 # Extras
 github: [metadata]
