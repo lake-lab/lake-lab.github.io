@@ -32,6 +32,13 @@ __Emin Orhan.__ My research interests lie at the intersection of machine learnin
 
 <div><img class="bio" src="/images/bios/waikeen-vong.jpg"></div>
 __Wai Keen Vong.__ I’m a postdoctoral researcher at the Center for Data Science at New York University,. Previously, I was a postdoctoral researcher at the Cognitive and Data Science Lab at Rutgers University — Newark, and I completed my Ph.D. in Psychology from the Computational Cognitive Science Lab at the University of Adelaide. My research interests are in cognitive science and artificial intelligence, with an eye towards building computational models that can learn in human-like ways. In particular, my research focuses on (1) How people learn concepts and categories from different kinds of labeled information (2) How people acquire this knowledge socially, from teaching, question asking to dialogs, and (3) How these models can be scaled up to deal with the complexities of real-world settings. My research is conducted using a combination of behavioural experiments, Bayesian modeling and deep learning. [[Website]](https://www.waikeenvong.com/)
+<br><br>
+
+
+##### __Faculty Fellow / Lab affiliate__
+<div><img class="bio" src="/images/bios/najoung-kim.png"></div>
+__Najoung Kim__. I am a Faculty Fellow at the Center for Data Science and New York University and a soon-to-be Assistant Professor at the Department of Linguistics at Boston University (from January 2023). Before joining NYU, I received my PhD in Cognitive Science at Johns Hopkins University. My research can be broadly characterized as "Machine CogSci"; in particular I focus on meaning and generalization in machine learners of language. I am also interested in how studying human and machine learners in parallel can give rise to novel insights for both human language research and Artificial Intelligence. [[Website]](https://najoungkim.github.io/)
+<br><br>
 
 <hr class='invis'>
 ##### __Ph.D. students__
@@ -44,19 +51,23 @@ __Yanli Zhou.__ Yanli is a Ph.D. student at the NYU Center for Data Science. Pre
 
 <div><img class="bio" src="/images/bios/guy-davidson.jpg"></div>
 __Guy Davidson.__ Guy is a Ph.D. student at the Center for Data Science, working with Professors Brenden Lake and Todd Gureckis. Guy is interested in the intersection between human cognition and machine learning, and particularly, what can we learn from studying humans to allow us to design wiser machine learning systems. His work focuses on object-based and relational approaches to reinforcement learning and on the flexible ways humans generate goals in novel environments. Before coming to NYU, Guy served six years in the Israel Defense Forces and then graduated (summa cum laude) with a B.Sc. in Computational Sciences from the Minerva Schools. He previously collaborated with Professors Yael Niv (Princeton) and Michael C. Mozer (Google Research and CU Boulder). Outside of his studies, Guy loves to play ultimate frisbee and enjoys pour-over coffee and fermenting foods. [[Website]](https://guydavidson.me/)
-
-<hr class='invis'>
-##### __Assistant research scientists__
-<div><img class="bio" src="/images/bios/laura-ruis.jpg"></div>
-__Laura Ruis__. Laura is an assistant research scientist at the CDS working on understanding generalization of machine learning methods. She finished her Master’s degree in Artificial Intelligence at the University of Amsterdam, where she focused on machine learning for natural language processing. During this time, she worked on things like probabilistical graphical models for dependency parsing and non-autoregressive transformers for text generation, among other things, and developed an interest in the generalization capabilities of deep learning methods. Her current research focuses on improving the robustness of contemporary methods to distributional shift and endowing methods with compositional generalization capabilities with techniques like meta learning. [[Website]](https://www.lauraruis.com/)
+<br><br>
 
 <hr class='invis'>
 ##### __M.S. and undergraduate students__
 <div><img class="bio" src="/images/bios/alexa-tartaglini.jpg"></div>
 __Alexa Tartaglini__. I am a third-year student in computer science and mathematics at the New York University Courant Institute of Mathematical Sciences. I am interested in comparing the mechanisms of human and machine intelligence, especially with regards to cognitive tasks that are difficult for computers to perform such as category and concept learning, object recognition, and commonsense reasoning. I am particularly interested in the role of shape in human category representation and the relationship between learning and reasoning.
 
+<div><img class="bio" src="/images/bios/wenjie-li.jpg"></div>
+__Wenjie Li__. Wenjie is a Master’s student in Computer Science at New York University Courant Institute of Mathematical Sciences. She obtained her BA in Mathematics and Philosophy from Washington University in St. Louis in 2020. She is interested in studying the brain and human behavior using AI as a computational model, and in turn, to make better AI with the understanding of human intelligence. Her current research focus is on the representation of self and others as well as their roles in multi-agent tasks. [[Website]](http://wenjieli.me/)
+
+<div><img class="bio" src="/images/bios/wentao-wang.jpg"></div>
+__Wentao Wang__. Wentao is a Master’s student in Computer Science at New York University Courant Institute of Mathematical Sciences. He received his BS in Computer Science from Peking University in 2020. He is broadly interested in the intersection of language language processing and cognitive science. In particular He is interested in understanding what models have learned and building models that could generalize in human-like ways.
+<br><br>
+
 <hr class='invis'>
 ##### __Lab alumni__
+- [Laura Ruis](https://www.lauraruis.com/). Former Assistant research scientist, now working on her Ph.D. at University College London.
 - [Kanishk Gandhi](https://kanishkg.github.io/). Former M.S. researcher and Assistant research scientist, now working on his Ph.D. in Computer Science at Stanford.
 - [Vaibhav Gupta](https://vaibhavgupta.io/). Former M.S. researcher, now Applied Scientist at Amazon.
 - Ziyun Wang. Former M.S. researcher, now R&D Engineer at Tencent.
