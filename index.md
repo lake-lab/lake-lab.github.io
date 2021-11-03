@@ -9,7 +9,7 @@ Today's AI provides nothing like the general purpose, flexible intelligence that
 
 <hr class='invis'>
 ##### __Bulletin__
-- **9/2021:** The lab has 2 papers at NeurIPS2021: [improving consistency through neuro-symbolic reasoning](https://cims.nyu.edu/~brenden/papers/2107.02794.pdf) and [the BIB challenge for understanding other agents as infants do](https://cims.nyu.edu/~brenden/papers/2102.11938.pdf).
+- **9/2021:** The lab has 2 papers at NeurIPS2021: [improving consistency through neuro-symbolic reasoning](https://cims.nyu.edu/~brenden/papers/NyeEtAl2021NeurIPS.pdf) and [the BIB challenge for understanding other agents as infants do](https://cims.nyu.edu/~brenden/papers/GandhiEtAl2021NeurIPS.pdf).
 - **5/2021:** The lab has 5 papers appearing at CogSci2021 on [visual compositional learning](https://cims.nyu.edu/~brenden/papers/ZhouLake2021CogSci.pdf), [modeling human category learning from pixels](https://cims.nyu.edu/~brenden/papers/TartagliniEtAl2021CogSci.pdf), [infant relation categorization](https://cims.nyu.edu/~brenden/papers/DavidsonLake2021CogSci.pdf), [the ARC challenge](https://cims.nyu.edu/~brenden/papers/JohnsonEtAl2021CogSci.pdf), and [question asking](https://cims.nyu.edu/~brenden/papers/WangLake2021CogSci.pdf).
 - **1/2021:** Reuben presents paper at ICLR on [generative neuro-symbolic modeling](https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf).
 
