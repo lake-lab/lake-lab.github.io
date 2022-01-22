@@ -7,12 +7,12 @@ id: 4
 ---
 
 ### __Publications__
-Lab publications by year: [Preprints](#preprints), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), and [earlier](#selected-earlier-papers).
+Lab publications by year: [Preprints](#preprints), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), and [earlier](#selected-earlier-papers).
 
 ---
-###### __Preprints__
+###### __2022__
 
-<a href="https://cims.nyu.edu/~brenden/papers/VongLakePreprint.pdf">Vong, W. K. and Lake, B. M. (2021). Cross-situational word learning with multimodal neural networks.</a> Preprint available on <em>PsyArXiv:udbh2</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/VongLakePreprint.pdf">Vong, W. K. and Lake, B. M. (in press). Cross-situational word learning with multimodal neural networks.</a> <em>Cognitive Science</em>.
 
 ---
 ###### __2021__
