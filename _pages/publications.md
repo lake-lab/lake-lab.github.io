@@ -16,7 +16,7 @@ Lab publications by year: [Preprints](#preprints), [2022](#2022), [2021](#2021),
 
 Davidson, G., Gureckis, T. M., and Lake, B. M. (2022). Creativity, Compositionality, and Common Sense in Human Goal Generation.
 
-Ruis, L. and Lake, B. M. (2022). Improving Systematic Generalization Through Modularity and Augmentation. 
+<a href="https://cims.nyu.edu/~brenden/papers/2202.10745.pdf">Ruis, L. and Lake, B. M. (2022). Improving Systematic Generalization Through Modularity and Augmentation.</a> Preprint on <em>arXiv:2202.10745.</em>
 
 ---
 ###### __2022__
