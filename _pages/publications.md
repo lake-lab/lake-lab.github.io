@@ -21,7 +21,7 @@ Lab publications by year: [Preprints](#preprints), [2022](#2022), [2021](#2021),
 ---
 ###### __2022__
 
-<a href="https://cims.nyu.edu/~brenden/papers/VongLakePreprint.pdf">Vong, W. K. and Lake, B. M. (in press). Cross-situational word learning with multimodal neural networks.</a> <em>Cognitive Science</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/VongLake2022CognitiveScience.pdf">Vong, W. K. and Lake, B. M. (2022). Cross-situational word learning with multimodal neural networks.</a> <em>Cognitive Science</em>, 46, e13122.
 
 ---
 ###### __2021__
