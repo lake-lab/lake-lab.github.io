@@ -9,19 +9,20 @@ id: 4
 ### __Publications__
 Lab publications by year: [Preprints](#preprints), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), and [earlier](#selected-earlier-papers).
 
----
+<!-- ---
 ###### __Preprints__
-
-<a href="https://cims.nyu.edu/~brenden/papers/2202.08340.pdf">Tartaglini, A. R., Vong, W. K., and Lake, B. M. (2022). A Developmentally-Inspired Examination of Shape versus Texture Bias in Machines.</a> <em>Preprint on arXiv:2202.08340.</em>
-
-<a href="https://cims.nyu.edu/~brenden/papers/psyarxiv_byzs5.pdf">Davidson, G., Gureckis, T. M., and Lake, B. M. (2022). Creativity, Compositionality, and Common Sense in Human Goal Generation.</a> Preprint on <em>PsyArxiv:byzs5.</em>
-
-<a href="https://cims.nyu.edu/~brenden/papers/2202.10745.pdf">Ruis, L. and Lake, B. M. (2022). Improving Systematic Generalization Through Modularity and Augmentation.</a> Preprint on <em>arXiv:2202.10745.</em>
+ -->
 
 ---
 ###### __2022__
 
 <a href="https://cims.nyu.edu/~brenden/papers/VongLake2022CognitiveScience.pdf">Vong, W. K. and Lake, B. M. (2022). Cross-situational word learning with multimodal neural networks.</a> <em>Cognitive Science</em>, 46, e13122.
+
+<a href="https://cims.nyu.edu/~brenden/papers/2202.08340.pdf">Tartaglini, A. R., Vong, W. K., and Lake, B. M. (2022). A Developmentally-Inspired Examination of Shape versus Texture Bias in Machines.</a> In <em>Proceedings of the 44th Annual Conference of the Cognitive Science Society.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/psyarxiv_byzs5.pdf">Davidson, G., Gureckis, T. M., and Lake, B. M. (2022). Creativity, Compositionality, and Common Sense in Human Goal Generation.</a> In <em>Proceedings of the 44th Annual Conference of the Cognitive Science Society.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/2202.10745.pdf">Ruis, L. and Lake, B. M. (2022). Improving Systematic Generalization Through Modularity and Augmentation.</a> In <em>Proceedings of the 44th Annual Conference of the Cognitive Science Society.</em>
 
 ---
 ###### __2021__
