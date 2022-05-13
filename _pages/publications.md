@@ -19,10 +19,12 @@ Lab publications by year: [Preprints](#preprints), [2022](#2022), [2021](#2021),
 <a href="https://cims.nyu.edu/~brenden/papers/VongLake2022CognitiveScience.pdf">Vong, W. K. and Lake, B. M. (2022). Cross-situational word learning with multimodal neural networks.</a> <em>Cognitive Science</em>, 46, e13122.
 
 <a href="https://cims.nyu.edu/~brenden/papers/TartagliniEtAl2022CogSci.pdf">Tartaglini, A. R., Vong, W. K., and Lake, B. M. (2022). A Developmentally-Inspired Examination of Shape versus Texture Bias in Machines.</a> In <em>Proceedings of the 44th Annual Conference of the Cognitive Science Society.</em>
+[<a href="https://github.com/alexatartaglini/developmental-shape-bias">Dataset</a>]
 
 <a href="https://cims.nyu.edu/~brenden/papers/DavidsonLake2022CogSci.pdf">Davidson, G., Gureckis, T. M., and Lake, B. M. (2022). Creativity, Compositionality, and Common Sense in Human Goal Generation.</a> In <em>Proceedings of the 44th Annual Conference of the Cognitive Science Society.</em>
 
 <a href="https://cims.nyu.edu/~brenden/papers/RuisLake2022CogSci.pdf">Ruis, L. and Lake, B. M. (2022). Improving Systematic Generalization Through Modularity and Augmentation.</a> In <em>Proceedings of the 44th Annual Conference of the Cognitive Science Society.</em>
+[<a href="https://github.com/LauraRuis/msa">Code</a>]
 
 ---
 ###### __2021__
