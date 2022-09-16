@@ -40,6 +40,10 @@ __Wai Keen Vong.__ I’m a postdoctoral researcher at the Center for Data Scienc
 __Najoung Kim__. I am a Faculty Fellow at the Center for Data Science and New York University and a soon-to-be Assistant Professor at the Department of Linguistics at Boston University (from January 2023). Before joining NYU, I received my PhD in Cognitive Science at Johns Hopkins University. My research can be broadly characterized as "Machine CogSci"; in particular I focus on meaning and generalization in machine learners of language. I am also interested in how studying human and machine learners in parallel can give rise to novel insights for both human language research and Artificial Intelligence. [[Website]](https://najoungkim.github.io/)
 <br><br>
 
+<div><img class="bio" src="/images/bios/mark-ho.jpg"></div>
+__Mark Ho__. I am a Faculty Fellow at the Center for Data Science and New York University and a soon-to-be Assistant Professor in the Computer Science Department at Stevens Institute of Technology (Fall 2023). Before joining NYU, I was a postdoc at Princeton University and received my Ph.D in Cognitive Science and M.S. in Computer Science from Brown University. My research investigates the general computational principles that underlie human problem solving and social cognition. I am currently focused on studying the interplay of causal reasoning and attention in human planning and using insights from this work to inform the design of autonomous systems. [[Website]](https://markkho.github.io/)
+<br><br>
+
 <hr class='invis'>
 ##### __Ph.D. students__
 <div><img class="bio" src="/images/bios/reuben-feinman-cropped.jpg"></div>
@@ -51,6 +55,12 @@ __Yanli Zhou.__ Yanli is a Ph.D. student at the NYU Center for Data Science. Pre
 
 <div><img class="bio" src="/images/bios/guy-davidson.jpg"></div>
 __Guy Davidson.__ Guy is a Ph.D. student at the Center for Data Science, working with Professors Brenden Lake and Todd Gureckis. Guy is interested in the intersection between human cognition and machine learning, and particularly, what can we learn from studying humans to allow us to design wiser machine learning systems. His work focuses on object-based and relational approaches to reinforcement learning and on the flexible ways humans generate goals in novel environments. Before coming to NYU, Guy served six years in the Israel Defense Forces and then graduated (summa cum laude) with a B.Sc. in Computational Sciences from the Minerva Schools. He previously collaborated with Professors Yael Niv (Princeton) and Michael C. Mozer (Google Research and CU Boulder). Outside of his studies, Guy loves to play ultimate frisbee and enjoys pour-over coffee and fermenting foods. [[Website]](https://guydavidson.me/)
+
+<div><img class="bio" src="/images/bios/solim-legris.jpg"></div>
+__Solim LeGris__. Solim is a Ph.D student in the Psychology department at NYU and is co-advised by Todd Gureckis and Brenden Lake. Before coming to NYU, he received his BASc in Honours Cognitive Science from McGill University and worked on modelling categorical perception and categorization difficulty in neural networks. Solim is interested in computational cognitive science, more specifically in understanding what makes humans capable of learning concepts efficiently and using them flexibly across a broad range of situations. He is generally interested in building computational models that can both increase our understanding of cognition and bring machines closer to human-like learning and thought. [[Website]](https://solimlegris.com/)
+
+<div><img class="bio" src="/images/bios/michael-hu.jpg"></div>
+__Michael Hu__. Michael is a Ph.D. student at the NYU Center for Data Science. Before joining NYU, he received a BSE in Computer Science at Princeton University. Michael's research investigates representation learning in humans and machines and the foundations of deep learning. His work is supported by an NSF Graduate Research Fellowship. [[Website]](https://michahu.github.io/)
 <br><br>
 
 <hr class='invis'>
