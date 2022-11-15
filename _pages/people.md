@@ -22,7 +22,7 @@ p {
 <hr class='invis'>
 ##### __Principal investigator__
 <div><img class="bio" src="/images/bios/brenden-lake-cropped.png"></div>
-__Brenden Lake.__ Brenden is an Assistant Professor of Psychology and Data Science at New York University, and a Research Scientist at Facebook AI Research. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden's research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, compositional generalization, and question asking. [[Website]](https://cims.nyu.edu/~brenden/)<br><br>
+__Brenden Lake.__ Brenden is an Assistant Professor of Psychology and Data Science at New York University. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017. Brenden's research focuses on computational problems that are easier for people than they are for machines, such as learning new concepts, systematic generalization, and tackling novel tasks. [[Website]](https://cims.nyu.edu/~brenden/)<br><br>
 
 
 <hr class='invis'>
