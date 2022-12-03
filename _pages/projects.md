@@ -15,9 +15,9 @@ and [video game learning](#video-game-learning-in-minds-and-machines).
 
 ---
 
-##### __Learning through the eyes of a child__
+##### __Learning through the eyes and ears of a child__
 <img class="fig" src="/images/projects/fig-saycam.jpg" width="260">
-_Key people: Emin Orhan, Wai Keen Vong, Wentao Wang, Najoung Kim, and Guy Davidson.
+_Key people: Emin Orhan, Wai Keen Vong, Wentao Wang, Najoung Kim, and Guy Davidson_
 
 Young children have wide-ranging and sophisticated knowledge of the world. What is the origin of this early knowledge? How much can be explained through generic learning mechanisms applied to sensory data, and how much requires more substantive innate inductive biases? We examine these *nature vs. nurture* questions by training large-scale neural networks through the eyes and ears of a single developing child, using longitudinal baby headcam videos (see recent dataset from <a href="https://psyarxiv.com/fy8zx/">Sullivan et al., 2020</a>).
 
