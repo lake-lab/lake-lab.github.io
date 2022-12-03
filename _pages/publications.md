@@ -12,6 +12,8 @@ Lab publications by year: [Preprints](#preprints), [2022](#2022), [2021](#2021),
 ---
 ###### __Preprints__
 
+<a href="https://cims.nyu.edu/~brenden/papers/papers/WangEtAlPreprint.pdf"> Wang, W., Vong, W. K., Kim, N., Lake, B. M. (2022). Finding Structure in One Child’s Linguistic Experience.</a> Preprint available on <em>PsyArXiv:85k3y.</em>
+
 <a href="https://cims.nyu.edu/~brenden/papers/StojnicEtAlPreprint.pdf"> Stojnic, G., Gandhi, K., Yasuda, S., Lake, B. M., and Dillon, M. R. (2022). Commonsense Psychology in Human Infants and Machines.</a> Preprint available on <em>PsyArXiv:j3zs8.</em>
 
 ---

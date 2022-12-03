@@ -59,10 +59,6 @@ __Guy Davidson.__ Guy is a Ph.D. student at the Center for Data Science, working
 <div><img class="bio" src="/images/bios/solim-legris.jpg"></div>
 __Solim LeGris__. Solim is a Ph.D student in the Psychology department at NYU and is co-advised by Todd Gureckis and Brenden Lake. Before coming to NYU, he received his BASc in Honours Cognitive Science from McGill University and worked on modelling categorical perception and categorization difficulty in neural networks. Solim is interested in computational cognitive science, more specifically in understanding what makes humans capable of learning concepts efficiently and using them flexibly across a broad range of situations. He is generally interested in building computational models that can both increase our understanding of cognition and bring machines closer to human-like learning and thought. [[Website]](https://solimlegris.com/)
 
-<div><img class="bio" src="/images/bios/michael-hu.jpg"></div>
-__Michael Hu__. Michael is a Ph.D. student at the NYU Center for Data Science. Before joining NYU, he received a BSE in Computer Science at Princeton University. Michael's research investigates representation learning in humans and machines and the foundations of deep learning. His work is supported by an NSF Graduate Research Fellowship. [[Website]](https://michahu.github.io/)
-<br><br>
-
 <hr class='invis'>
 ##### __M.S. and undergraduate students__
 <div><img class="bio" src="/images/bios/alexa-tartaglini.jpg"></div>

@@ -17,11 +17,13 @@ and [video game learning](#video-game-learning-in-minds-and-machines).
 
 ##### __Learning through the eyes of a child__
 <img class="fig" src="/images/projects/fig-saycam.jpg" width="260">
-_Key people: Emin Orhan, Vaibhav Gupta, Wai Keen Vong, and Kanishk Gandhi_
+_Key people: Emin Orhan, Wai Keen Vong, Wentao Wang, Najoung Kim, and Guy Davidson.
 
-Young children have wide-ranging and sophisticated knowledge of the world. What is the origin of this early knowledge? How much can be explained through generic learning mechanisms applied to sensory data, and how much requires more substantive innate inductive biases? We examine these *nature vs. nurture* questions by training large-scale neural networks through the eyes of a single developing child, using longitudinal baby headcam videos (see recent dataset from <a href="https://psyarxiv.com/fy8zx/">Sullivan et al., 2020</a>).
+Young children have wide-ranging and sophisticated knowledge of the world. What is the origin of this early knowledge? How much can be explained through generic learning mechanisms applied to sensory data, and how much requires more substantive innate inductive biases? We examine these *nature vs. nurture* questions by training large-scale neural networks through the eyes and ears of a single developing child, using longitudinal baby headcam videos (see recent dataset from <a href="https://psyarxiv.com/fy8zx/">Sullivan et al., 2020</a>).
 
-Our results so far show how high-level visual representations emerge from a subset of one baby's experience, through only self-supervised learning. Our ongoing work is investigating whether basic concepts of objects and agents, and simple predictive models of the world, can also be learned via similar generic learning mechanisms.
+Our results show that high-level visual features, as well as syntactic/semantic categories of words, can emerge from self-supervised learning applied only to a snapshot of one child's experiences. Our ongoing work is studying whether high-level linguistic representations and simple predictive models of the world can also be learned via similar mechanisms.
+
+<a href="https://cims.nyu.edu/~brenden/papers/papers/WangEtAlPreprint.pdf"> Wang, W., Vong, W. K., Kim, N., Lake, B. M. (2022). Finding Structure in One Child’s Linguistic Experience.</a> Preprint available on <em>PsyArXiv:85k3y.</em>
 
 <a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf">Orhan, A. E., Gupta, V. B., and Lake, B. M. (2020). Self-supervised learning through the eyes of a child.</a> <em>Advances in Neural Information Processing Systems 33.</em> [<a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS_supp.pdf">Supporting Info</a>] [<a href="https://github.com/eminorhan/baby-vision">Code and pre-trained models</a>] [<a href="https://www.newscientist.com/article/2251529-baby-mounted-cameras-teach-ai-to-see-through-a-childs-eyes/">New Scientist article</a>]
 
