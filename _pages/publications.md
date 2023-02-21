@@ -17,7 +17,7 @@ Lab publications by year: [Preprints](#preprints), [2023](#2023), [2022](#2022),
 ---
 ###### __2023__
 
-<a href="https://cims.nyu.edu/~brenden/papers/StojnicEtAlPreprint.pdf"> Stojnic, G., Gandhi, K., Yasuda, S., Lake, B. M., and Dillon, M. R. (2022). Commonsense Psychology in Human Infants and Machines.</a> <em>Cognition</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/StojnicEtAlCognition2023.pdf"> Stojnic, G., Gandhi, K., Yasuda, S., Lake, B. M., and Dillon, M. R. (2023). Commonsense Psychology in Human Infants and Machines.</a> <em>Cognition</em>, 235, 105406.
 
 ---
 ###### __2022__
