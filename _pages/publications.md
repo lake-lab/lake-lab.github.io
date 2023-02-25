@@ -19,6 +19,12 @@ Lab publications by year: [Preprints](#preprints), [2023](#2023), [2022](#2022),
 
 <a href="https://cims.nyu.edu/~brenden/papers/StojnicEtAlCognition2023.pdf"> Stojnic, G., Gandhi, K., Yasuda, S., Lake, B. M., and Dillon, M. R. (2023). Commonsense Psychology in Human Infants and Machines.</a> <em>Cognition</em>, 235, 105406.
 
+<ul>
+    <li><strong>Press:</strong> <a href="https://www.nyu.edu/about/news-publications/news/2023/february/infants-outperform-ai-in--commonsense-psychology-.html">NYU News</a>,
+                  <a href="https://www.thedailybeast.com/babies-still-beat-ai-bots-at-this-critical-intelligence-benchmark">The Daily Beast</a>
+    </li>
+</ul>
+
 ---
 ###### __2022__
 
