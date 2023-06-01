@@ -10,8 +10,7 @@ id: 3
 Read about our current projects on
 [learning through the eyes of a child](#learning-through-the-eyes-of-a-child),
 [concept learning](#concept-learning-in-minds-and-machines),
-[compositional generalization](#compositional-generalization-in-minds-and-machines),
-and [video game learning](#video-game-learning-in-minds-and-machines).
+[compositional generalization](#compositional-generalization-in-minds-and-machines).
 
 ---
 
