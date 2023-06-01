@@ -10,7 +10,22 @@ id: 4
 Lab publications by year: [Preprints](#preprints), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), and [earlier](#selected-earlier-papers).
 
 ---
+###### __Preprints__
+
+<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (2023). What can generic neural networks learn from a child's visual experience?</a> Preprint available on <em>arxiv:2305.15372</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/2305.19374.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2023). Compositional diversity in visual concept learning.</a> Preprint available on <em>arxiv.2305.19374</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlPreprint.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (2023). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> Preprint available on <em>PsyArXiv:ykejp.</em>
+
+Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network. Email to request preprint.
+
+Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2023). Grounded language acquisition through the eyes and ears of a single child. Email to request preprint.
+
+---
 ###### __2023__
+
+<a href="https://cims.nyu.edu/~brenden/papers/WangEtAlPreprint.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (in press). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science.</em>
 
 <a href="https://cims.nyu.edu/~brenden/papers/LakeMurphy2023PsychReview.pdf">Lake, B. M. and Murphy, G. L. (2023). Word meaning in minds and machines.</a> <em>Psychological Review</em>, 130, 401-431.
 
