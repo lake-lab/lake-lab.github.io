@@ -25,7 +25,7 @@ Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2023). Grounded language ac
 ---
 ###### __2023__
 
-<a href="https://cims.nyu.edu/~brenden/papers/WangEtAlPreprint.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (in press). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science.</em>
+<a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (2023). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science</em>, 47, e13305. [<a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience_supp.pdf">Appendix</a>]
 
 <a href="https://cims.nyu.edu/~brenden/papers/LakeMurphy2023PsychReview.pdf">Lake, B. M. and Murphy, G. L. (2023). Word meaning in minds and machines.</a> <em>Psychological Review</em>, 130, 401-431.
 
