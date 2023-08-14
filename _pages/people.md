@@ -64,7 +64,7 @@ __Alexa Tartaglini__. Alexa is a fourth year undergraduate student in mathematic
 <div><img class="bio" src="/images/bios/wenjie-li.jpg"></div>
 __Wenjie Li__. Wenjie is a Master’s student in Computer Science at New York University Courant Institute of Mathematical Sciences. She obtained her BA in Mathematics and Philosophy from Washington University in St. Louis in 2020. She is interested in studying the brain and human behavior using AI as a computational model, and in turn, to make better AI with the understanding of human intelligence. Her current research focus is on the representation of self and others as well as their roles in multi-agent tasks. [[Website]](http://wenjieli.me/)
 
-<div><img class="bio" src="/images/bios/ulu.jpg"></div>
+<div><img class="bio" src="/images/bios/yulu.jpg"></div>
 __Yulu Qin__. 
 
 <hr class='invis'>
