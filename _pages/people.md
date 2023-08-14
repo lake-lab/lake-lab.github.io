@@ -36,19 +36,12 @@ __Wai Keen Vong.__ I’m a postdoctoral researcher at the Center for Data Scienc
 
 
 ##### __Faculty Fellow / Lab affiliate__
-<div><img class="bio" src="/images/bios/najoung-kim.png"></div>
-__Najoung Kim__. I am a Faculty Fellow at the Center for Data Science and New York University and a soon-to-be Assistant Professor at the Department of Linguistics at Boston University (from January 2023). Before joining NYU, I received my PhD in Cognitive Science at Johns Hopkins University. My research can be broadly characterized as "Machine CogSci"; in particular I focus on meaning and generalization in machine learners of language. I am also interested in how studying human and machine learners in parallel can give rise to novel insights for both human language research and Artificial Intelligence. [[Website]](https://najoungkim.github.io/)
-<br><br>
-
 <div><img class="bio" src="/images/bios/mark-ho.jpg"></div>
 __Mark Ho__. I am a Faculty Fellow at the Center for Data Science and New York University and a soon-to-be Assistant Professor in the Computer Science Department at Stevens Institute of Technology (Fall 2023). Before joining NYU, I was a postdoc at Princeton University and received my Ph.D in Cognitive Science and M.S. in Computer Science from Brown University. My research investigates the general computational principles that underlie human problem solving and social cognition. I am currently focused on studying the interplay of causal reasoning and attention in human planning and using insights from this work to inform the design of autonomous systems. [[Website]](https://markkho.github.io/)
 <br><br>
 
 <hr class='invis'>
 ##### __Ph.D. students__
-<div><img class="bio" src="/images/bios/reuben-feinman-cropped.jpg"></div>
-__Reuben Feinman.__ Reuben is a Ph.D. student at the Center for Neural Science and a Google Ph.D. Fellow in Computational Neuroscience. He received his Sc.B. in Applied Mathematics from Brown University in 2015 after completing a thesis under Thomas Serre and Stuart Geman. Reuben's Ph.D. research focuses on the symbolic and sub-symbolic characteristics of human concept representations, emphasizing everyday concepts like animals, vehicles and handwritten characters. Using a synthesis of ingredients from deep neural networks and structured Bayesian models, he aims to provide a comprehensive computational account for the flexibility of human concepts. [[Website]](http://www.cns.nyu.edu/~reuben/)
-
 <div><img class="bio" src="/images/bios/yanli-zhou-cropped.jpeg"></div>
 __Yanli Zhou.__ Yanli is a Ph.D. student at the NYU Center for Data Science. Previously at NYU, she received her BA in Mathematics and Psychology in 2016 and an MS in Data Science in 2018. Before joining the lab, she worked as a research assistant under the supervision of Dr. Wei Ji Ma at the Center for Neural Science and Department of Psychology where she built probabilistic models of visual decision-making tasks. She is broadly interested in incorporating insights from cognitive science into building AI systems that can efficiently and flexibly learn.
 <br><br>
@@ -59,6 +52,10 @@ __Guy Davidson.__ Guy is a Ph.D. student at the Center for Data Science, working
 <div><img class="bio" src="/images/bios/solim-legris.jpg"></div>
 __Solim LeGris__. Solim is a Ph.D student in the Psychology department at NYU and is co-advised by Todd Gureckis and Brenden Lake. Before coming to NYU, he received his BASc in Honours Cognitive Science from McGill University and worked on modelling categorical perception and categorization difficulty in neural networks. Solim is interested in computational cognitive science, more specifically in understanding what makes humans capable of learning concepts efficiently and using them flexibly across a broad range of situations. He is generally interested in building computational models that can both increase our understanding of cognition and bring machines closer to human-like learning and thought. [[Website]](https://solimlegris.com/)
 
+<div><img class="bio" src="/images/bios/wentao-wang.jpg"></div>
+__Wentao Wang__. Wentao is a Ph.D. student at the Center for Data Science, working with Brenden Lake and Tal Linzen. Wentao received his Master’s degree in Computer Science at New York University Courant Institute of Mathematical Sciences in 2023. He received his BS in Computer Science from Peking University in 2020. He is broadly interested in the intersection of language language processing and cognitive science. In particular He is interested in understanding what models have learned and building models that could generalize in human-like ways.
+<br><br>
+
 <hr class='invis'>
 ##### __M.S. and undergraduate students__
 <div><img class="bio" src="/images/bios/alexa-tartaglini.jpg"></div>
@@ -67,14 +64,15 @@ __Alexa Tartaglini__. Alexa is a fourth year undergraduate student in mathematic
 <div><img class="bio" src="/images/bios/wenjie-li.jpg"></div>
 __Wenjie Li__. Wenjie is a Master’s student in Computer Science at New York University Courant Institute of Mathematical Sciences. She obtained her BA in Mathematics and Philosophy from Washington University in St. Louis in 2020. She is interested in studying the brain and human behavior using AI as a computational model, and in turn, to make better AI with the understanding of human intelligence. Her current research focus is on the representation of self and others as well as their roles in multi-agent tasks. [[Website]](http://wenjieli.me/)
 
-<div><img class="bio" src="/images/bios/wentao-wang.jpg"></div>
-__Wentao Wang__. Wentao is a Master’s student in Computer Science at New York University Courant Institute of Mathematical Sciences. He received his BS in Computer Science from Peking University in 2020. He is broadly interested in the intersection of language language processing and cognitive science. In particular He is interested in understanding what models have learned and building models that could generalize in human-like ways.
-<br><br>
+<div><img class="bio" src="/images/bios/ulu.jpg"></div>
+__Yulu Qin__. 
 
 <hr class='invis'>
 ##### __Lab alumni__
-- [Laura Ruis](https://www.lauraruis.com/). Former Assistant research scientist, now working on her Ph.D. at University College London.
-- [Kanishk Gandhi](https://kanishkg.github.io/). Former M.S. researcher and Assistant research scientist, now working on his Ph.D. in Computer Science at Stanford.
-- [Vaibhav Gupta](https://vaibhavgupta.io/). Former M.S. researcher, now Applied Scientist at Amazon.
-- Ziyun Wang. Former M.S. researcher, now R&D Engineer at Tencent.
-- [Anselm Rothe](https://anselmrothe.github.io/). Former Ph.D. student (co-advised with Todd Gureckis), now postdoc at the Max Planck Institute.
+- [Reuben Feinman](http://www.cns.nyu.edu/~reuben/). Former Ph.D. student, subsequently at Common Sense Machines.
+- [Najoung Kim](https://najoungkim.github.io/). Former lab affiliate, subsequently Assistant Professor at Boston University.
+- [Laura Ruis](https://www.lauraruis.com/). Former Assistant research scientist, subsequently Ph.D. student at University College London.
+- [Kanishk Gandhi](https://kanishkg.github.io/). Former M.S. researcher and Assistant research scientist, subsequently Ph.D. student at Stanford.
+- [Vaibhav Gupta](https://vaibhavgupta.io/). Former M.S. researcher, subsequently Applied Scientist at Amazon.
+- Ziyun Wang. Former M.S. researcher, subsequently R&D Engineer at Tencent.
+- [Anselm Rothe](https://anselmrothe.github.io/). Former Ph.D. student (co-advised with Todd Gureckis), subsequently postdoc at the Max Planck Institute.
