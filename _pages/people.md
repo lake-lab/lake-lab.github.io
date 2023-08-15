@@ -65,7 +65,7 @@ __Alexa Tartaglini__. Alexa is a fourth year undergraduate student in mathematic
 __Wenjie Li__. Wenjie is a Master’s student in Computer Science at New York University Courant Institute of Mathematical Sciences. She obtained her BA in Mathematics and Philosophy from Washington University in St. Louis in 2020. She is interested in studying the brain and human behavior using AI as a computational model, and in turn, to make better AI with the understanding of human intelligence. Her current research focus is on the representation of self and others as well as their roles in multi-agent tasks. [[Website]](http://wenjieli.me/)
 
 <div><img class="bio" src="/images/bios/yulu.jpg"></div>
-__Yulu Qin__. 
+__Yulu Qin__. Yulu earned her Master's degree in Computer Science from the Courant Institute of Mathematical Sciences at NYU in 2023. Prior to this, she completed her BA in Sociology and Computer Information Science in 2021 at The Ohio State University. Currently, Yulu is broadly interested in the intersection of Cognitive Science and Natural Language Processing. She's particularly drawn to understanding human intelligence and multimodal learning. As she navigates her research journey, aspects like language acquisition, systematic generalization (how models apply learned knowledge in novel contexts), and integrating multiple data sources using computational methods are among her areas of exploration.
 
 <hr class='invis'>
 ##### __Lab alumni__
