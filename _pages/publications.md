@@ -18,12 +18,12 @@ Lab publications by year: [Preprints](#preprints), [2023](#2023), [2022](#2022),
 
 <a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlPreprint.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (2023). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> Preprint available on <em>PsyArXiv:ykejp.</em>
 
-Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network. Email to request preprint.
-
 Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2023). Grounded language acquisition through the eyes and ears of a single child. Email to request preprint.
 
 ---
 ###### __2023__
+
+Lake, B. M. and Baroni, M. (in press). Human-like systematic generalization through a meta-learning neural network. <em>Nature</em>. Email to request preprint.
 
 <a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (2023). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science</em>, 47, e13305. [<a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience_supp.pdf">Appendix</a>]
 
