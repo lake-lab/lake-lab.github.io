@@ -12,6 +12,8 @@ Lab publications by year: [Preprints](#preprints), [2023](#2023), [2022](#2022),
 ---
 ###### __Preprints__
 
+<a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., Lake, B. M., Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a>  Preprint available on <em>arxiv:2310.09612</em>
+
 Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2023). Grounded language acquisition through the eyes and ears of a single child. Email to request preprint.
 
 <a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (2023). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> Preprint available on <em>arxiv:2305.15372</em>
@@ -23,7 +25,21 @@ Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2023). Grounded language ac
 ---
 ###### __2023__
 
-Lake, B. M. and Baroni, M. (in press). Human-like systematic generalization through a meta-learning neural network. <em>Nature</em>. Email to request preprint.
+<a href="https://www.nature.com/articles/s41586-023-06668-3.pdf">Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network.</a> <em>Nature</em>.
+[<a href="https://cims.nyu.edu/~brenden/papers/LakeBaroniNatureSI.pdf">Supplementary Information</a>]
+[<a href="https://github.com/brendenlake/MLC">Code and Data</a>]
+[<a href="https://cims.nyu.edu/~brenden/supplemental/BIML-supp-results/sysgen.html">Data (HTML viewing)</a>]
+
+<ul>
+    <li><strong>Press:</strong>
+                  <a href="https://www.nature.com/articles/d41586-023-03272-3">Nature News</a>,
+                  <a href="https://www.nyu.edu/about/news-publications/news/2023/october/can-ai-grasp-related-concepts-after-learning-only-one-.html">NYU News</a>,
+                  <a href="https://www.livescience.com/technology/artificial-intelligence/in-a-1st-ai-neural-network-captures-critical-aspect-of-human-intelligence">
+                  Live Science</a>,
+                  <a href="https://english.elpais.com/technology/2023-10-25/breakthrough-experiment-succeeds-in-making-a-machine-relate-concepts-as-humans-do.html">
+                  El Pais</a>
+     </li>
+</ul>
 
 <a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (2023). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science</em>, 47, e13305. [<a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience_supp.pdf">Appendix</a>]
 

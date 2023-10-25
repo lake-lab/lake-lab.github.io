@@ -57,7 +57,10 @@ People make compositional generalizations in language, thought, and action. Once
 
 To better understand these distinctively human abilities, we are studying human compositional learning of language-like instructions. Based on behavioral insights, we are developing novel meta-learning and neural-symbolic models to tackle popular compositional learning benchmarks. Additional work focuses on learning compositional visual concepts and developing more challenging benchmarks for AI, e.g., few-shot learning of concepts such as "cautiously" (see image of "walking to the small red circle cautiously," which requires looking both ways before moving).
 
-Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network. Email to request preprint.
+<a href="https://www.nature.com/articles/s41586-023-06668-3.pdf">Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network.</a> <em>Nature</em>.
+[<a href="https://cims.nyu.edu/~brenden/papers/LakeBaroniNatureSI.pdf">Supplementary Information</a>]
+[<a href="https://github.com/brendenlake/MLC">Code and Data</a>]
+[<a href="https://cims.nyu.edu/~brenden/supplemental/BIML-supp-results/sysgen.html">Data (HTML viewing)</a>]
 
 <a href="https://cims.nyu.edu/~brenden/papers/2305.19374.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2023). Compositional diversity in visual concept learning.</a> Preprint available on <em>arxiv.2305.19374</em>
 
