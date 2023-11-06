@@ -25,7 +25,7 @@ Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2023). Grounded language ac
 ---
 ###### __2023__
 
-<a href="https://www.nature.com/articles/s41586-023-06668-3.pdf">Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network.</a> <em>Nature</em>.
+<a href="https://www.nature.com/articles/s41586-023-06668-3.pdf">Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network.</a> <em>Nature</em>, 623, 115-121.
 [<a href="https://cims.nyu.edu/~brenden/papers/LakeBaroniNatureSI.pdf">Supplementary Information</a>]
 [<a href="https://github.com/brendenlake/MLC">Code and Data</a>]
 [<a href="https://cims.nyu.edu/~brenden/supplemental/BIML-supp-results/sysgen.html">Data (HTML viewing)</a>]
