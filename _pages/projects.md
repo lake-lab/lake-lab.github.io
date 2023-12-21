@@ -22,9 +22,9 @@ Young children have wide-ranging and sophisticated knowledge of the world. What 
 
 Our results show that broadly useful visual features and high-level linguistic structure can emerge from self-supervised learning applied only to a slice of one child's experiences. Our ongoing work is studying whether predictive models of the world can also be learned via similar mechanisms.
 
-Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2023). Grounded language acquisition through the eyes and ears of a single child. Email to request preprint.
+Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (provisionally accepted). Grounded language acquisition through the eyes and ears of a single child. <em>Science</em>.
 
-<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (in press). What can generic neural networks learn from a child's visual experience?</a> <em>Nature Machine Intelligence</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (provisionally accepted). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence</em>.
 
 <a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (2023). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science</em>, 47, e13305. [<a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience_supp.pdf">Appendix</a>]
 

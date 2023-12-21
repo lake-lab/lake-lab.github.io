@@ -14,16 +14,17 @@ Lab publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023),
 
 <a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., Lake, B. M., Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a>  Preprint available on <em>arxiv:2310.09612</em>
 
-Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2023). Grounded language acquisition through the eyes and ears of a single child. Email to request preprint.
-
-<a href="https://cims.nyu.edu/~brenden/papers/2305.19374.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2023). Compositional diversity in visual concept learning.</a> Preprint available on <em>arxiv.2305.19374</em>
-
 ---
 ###### __2024__
 
-<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (in press). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence.</em>
+Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (provisionally accepted). Grounded language acquisition through the eyes and ears of a single child. <em>Science</em>.
 
-<a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlPreprint.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (in press). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> <em>Cognition</em>
+<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (provisionally accepted). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence</em>.
+
+<a href="https://cims.nyu.edu/~brenden/papers/2305.19374.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (in press). Compositional diversity in visual concept learning.</a> <em>Cognition</em>.
+
+<a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlPreprint.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (in press). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> <em>Cognition</em>.
+
 
 ---
 ###### __2023__
