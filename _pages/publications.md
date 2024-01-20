@@ -21,10 +21,9 @@ Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (provisionally accepted). Gr
 
 <a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (provisionally accepted). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence</em>.
 
-<a href="https://cims.nyu.edu/~brenden/papers/2305.19374.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (in press). Compositional diversity in visual concept learning.</a> <em>Cognition</em>.
-
 <a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlPreprint.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (in press). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> <em>Cognition</em>.
 
+<a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
 
 ---
 ###### __2023__

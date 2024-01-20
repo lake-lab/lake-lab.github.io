@@ -41,7 +41,7 @@ Human conceptual representations are rich in structural and statistical knowledg
 
 We are developing neuro-symbolic models that learn compositional and causal generative programs from raw data, while using neural sub-routines for powerful statistical modeling (see diagram). We aim to better understand the dual structural and statistical natures of human concepts, and to learn neuro-symbolic representations for machine learning applications.
 
-<a href="https://cims.nyu.edu/~brenden/papers/2305.19374.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2023). Compositional diversity in visual concept learning.</a> Preprint available on <em>arxiv.2305.19374</em>
+<a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
 
 <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em>International Conference on Learning Representations (ICLR)</em>.
 
