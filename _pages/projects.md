@@ -22,9 +22,19 @@ Young children have wide-ranging and sophisticated knowledge of the world. What 
 
 Our results show that broadly useful visual features and high-level linguistic structure can emerge from self-supervised learning applied only to a slice of one child's experiences. Our ongoing work is studying whether predictive models of the world can also be learned via similar mechanisms.
 
-Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (in press). Grounded language acquisition through the eyes and ears of a single child. <em>Science</em>.
+<a href="https://www.science.org/doi/10.1126/science.adi1374"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383, 504-511.
+<ul>
+    <li><strong>Press:</strong>
+                  <a href="https://www.washingtonpost.com/science/2024/02/02/how-humans-learn-language-ai-child/">Washington Post</a>,
+                  <a href="https://www.scientificamerican.com/article/a-camera-wearing-baby-taught-an-ai-to-learn-words/">Scientific American</a>,
+                  <a href="https://www.nature.com/articles/d41586-024-00288-1">Nature News</a>,
+                  <a href="https://www.nyu.edu/about/news-publications/news/2024/february/ai-learns-through-the-eyes-and-ears-of-a-child.html">NYU News</a>,
+                  <a href="https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/">MIT Technology Review</a>,
+                  <a href="https://time.com/6632398/ai-language-study-baby/">Time</a>
+     </li>
+</ul>
 
-<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (provisionally accepted). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (in press). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence</em>.
 
 <a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (2023). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science</em>, 47, e13305. [<a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience_supp.pdf">Appendix</a>]
 
@@ -61,6 +71,17 @@ To better understand these distinctively human abilities, we are studying human 
 [<a href="https://cims.nyu.edu/~brenden/papers/LakeBaroniNatureSI.pdf">Supplementary Information</a>]
 [<a href="https://github.com/brendenlake/MLC">Code and Data</a>]
 [<a href="https://cims.nyu.edu/~brenden/supplemental/BIML-supp-results/sysgen.html">Data (HTML viewing)</a>]
+
+<ul>
+    <li><strong>Press:</strong>
+                  <a href="https://www.nature.com/articles/d41586-023-03272-3">Nature News</a>,
+                  <a href="https://www.nyu.edu/about/news-publications/news/2023/october/can-ai-grasp-related-concepts-after-learning-only-one-.html">NYU News</a>,
+                  <a href="https://www.livescience.com/technology/artificial-intelligence/in-a-1st-ai-neural-network-captures-critical-aspect-of-human-intelligence">
+                  Live Science</a>,
+                  <a href="https://english.elpais.com/technology/2023-10-25/breakthrough-experiment-succeeds-in-making-a-machine-relate-concepts-as-humans-do.html">
+                  El Pais</a>
+     </li>
+</ul>
 
 <a href="https://cims.nyu.edu/~brenden/papers/2305.19374.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2023). Compositional diversity in visual concept learning.</a> Preprint available on <em>arxiv.2305.19374</em>
 

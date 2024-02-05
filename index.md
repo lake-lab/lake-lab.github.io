@@ -9,10 +9,23 @@ Today's AI provides nothing like the general purpose, flexible intelligence that
 
 <hr class='invis'>
 ##### __Bulletin__
-- **9/2021:** The lab has 2 papers at NeurIPS2021: [improving consistency through neuro-symbolic reasoning](https://cims.nyu.edu/~brenden/papers/NyeEtAl2021NeurIPS.pdf) and [the BIB challenge for understanding other agents as infants do](https://cims.nyu.edu/~brenden/papers/GandhiEtAl2021NeurIPS.pdf).
+- **2/2024:** In the News! Wai Keen, Wentao, and Emin publishes a new article in \emph{Science} on <a href="https://www.science.org/doi/10.1126/science.adi1374">"Grounded language acquisition through the eyes and ears of a single child"</a>, with write-ups in the <a href="https://www.washingtonpost.com/science/2024/02/02/how-humans-learn-language-ai-child/">Washington Post</a>,
+<a href="https://www.scientificamerican.com/article/a-camera-wearing-baby-taught-an-ai-to-learn-words/">Scientific American</a>,
+<a href="https://www.nature.com/articles/d41586-024-00288-1">Nature News</a>,
+<a href="https://www.nyu.edu/about/news-publications/news/2024/february/ai-learns-through-the-eyes-and-ears-of-a-child.html">NYU News</a>,
+<a href="https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/">MIT Technology Review</a>,
+and <a href="https://time.com/6632398/ai-language-study-baby/">Time</a>.
+- **11/2023:** In the News! The lab publishes a new article in \emph{Nature} on <a href="https://www.nature.com/articles/s41586-023-06668-3.pdf">"Human-like systematic generalization through a meta-learning neural network"</a>, with write-ups in the <a href="https://www.scientificamerican.com/article/new-training-method-helps-ai-generalize-like-people-do/">Scientific American</a>,
+<a href="https://www.nature.com/articles/d41586-023-03272-3">Nature News</a>,
+<a href="https://www.nyu.edu/about/news-publications/news/2023/october/can-ai-grasp-related-concepts-after-learning-only-one-.html">NYU News</a>,
+<a href="https://www.livescience.com/technology/artificial-intelligence/in-a-1st-ai-neural-network-captures-critical-aspect-of-human-intelligence">
+Live Science</a>,
+<a href="https://english.elpais.com/technology/2023-10-25/breakthrough-experiment-succeeds-in-making-a-machine-relate-concepts-as-humans-do.html">
+El Pais</a>.
+<!-- - **9/2021:** The lab has 2 papers at NeurIPS2021: [improving consistency through neuro-symbolic reasoning](https://cims.nyu.edu/~brenden/papers/NyeEtAl2021NeurIPS.pdf) and [the BIB challenge for understanding other agents as infants do](https://cims.nyu.edu/~brenden/papers/GandhiEtAl2021NeurIPS.pdf).
 - **5/2021:** The lab has 5 papers appearing at CogSci2021 on [visual compositional learning](https://cims.nyu.edu/~brenden/papers/ZhouLake2021CogSci.pdf), [modeling human category learning from pixels](https://cims.nyu.edu/~brenden/papers/TartagliniEtAl2021CogSci.pdf), [infant relation categorization](https://cims.nyu.edu/~brenden/papers/DavidsonLake2021CogSci.pdf), [the ARC challenge](https://cims.nyu.edu/~brenden/papers/JohnsonEtAl2021CogSci.pdf), and [question asking](https://cims.nyu.edu/~brenden/papers/WangLake2021CogSci.pdf).
 - **1/2021:** Reuben presents paper at ICLR on [generative neuro-symbolic modeling](https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf).
-
+ -->
 
 <hr class='invis'>
 ##### __About the lab__

@@ -12,18 +12,43 @@ Lab publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023),
 ---
 ###### __Preprints__
 
-<a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., Lake, B. M., Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a>  Preprint available on <em>arxiv:2310.09612</em>
+<a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., Lake, B. M., and Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a>  Preprint available on <em>arxiv:2310.09612</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Orhan, A. E., Wang, W., Wang, A. N., Ren, M., and Lake, B. M. (2024). Self-supervised learning of video representations from a child’s perspective.</a>  Preprint available on <em>arxiv:2402.00300</em>
+
+Kumar, S., Marjieh, R., Zhang, B., Campbell, D., Hu, M. Y., Bhatt, U., Lake, B. M., and Griffiths, T. (2024). Comparing Abstraction in Humans and Machines Using Multimodal Serial Reproduction.
+
+Zhou, Y., Lake, B. M., and Williams, A. (2024). Compositional learning of functions in humans and machines.
+
+Qin, Y., Wang, W., and Lake, B. M. (2024). A systematic investigation of learnability from single child linguistic input.
+
+Leong, C. and Lake, B. M. (2024). Prompting invokes expert-like downward shifts in GPT-4V’s conceptual hierarchies.
+
+Luo, K., Zhang, B., Xiao, Y., and Lake, B. M. (2024). Finding Unsupervised Alignment of Conceptual Systems in Image-Word Representations.
+
+Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social Reasoning Benchmark Inspired by Infant Cognition.
 
 ---
 ###### __2024__
 
-Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (provisionally accepted). Grounded language acquisition through the eyes and ears of a single child. <em>Science</em>.
+<a href="https://www.science.org/doi/10.1126/science.adi1374"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383, 504-511.
+<ul>
+    <li><strong>Press:</strong>
+                  <a href="https://www.washingtonpost.com/science/2024/02/02/how-humans-learn-language-ai-child/">Washington Post</a>,
+                  <a href="https://www.scientificamerican.com/article/a-camera-wearing-baby-taught-an-ai-to-learn-words/">Scientific American</a>,
+                  <a href="https://www.nature.com/articles/d41586-024-00288-1">Nature News</a>,
+                  <a href="https://www.nyu.edu/about/news-publications/news/2024/february/ai-learns-through-the-eyes-and-ears-of-a-child.html">NYU News</a>,
+                  <a href="https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/">MIT Technology Review</a>,
+                  <a href="https://time.com/6632398/ai-language-study-baby/">Time</a>
+     </li>
+</ul>
 
-<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (provisionally accepted). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (in press). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence</em>.
 
 <a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlPreprint.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (in press). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> <em>Cognition</em>.
 
 <a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
+
 
 ---
 ###### __2023__

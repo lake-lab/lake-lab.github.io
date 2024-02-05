@@ -16,7 +16,7 @@ We consider postdoc candidates on a case-by-case basis. Please reach out to [Bre
 <hr class='invis'>
 ##### __Ph.D. candidates__
 Interested Ph.D. candidates are encouraged to apply to either the 
-[Ph.D. Program in Data Science](https://cds.nyu.edu/admissions/phd-requirements/) (deadline usually mid December) 
+[Ph.D. Program in Data Science](https://cds.nyu.edu/admissions/phd-requirements/) (deadline usually December 1). 
 or the [Ph.D. Program in Cognition and Perception](http://as.nyu.edu/psychology/graduate/phd-cognition-perception.html) (deadline usually  December 1).
 
 In exceptional cases, it is possible to join the lab through the Ph.D. Program in Computer Science and the Ph.D. Program in Neural Science, but it is strongly recommended that you apply through either Data Science or Cognition and Perception.
