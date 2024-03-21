@@ -12,26 +12,26 @@ Lab publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023),
 ---
 ###### __Preprints__
 
-<a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., Lake, B. M., and Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a>  Preprint available on <em>arxiv:2310.09612</em>
+<a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., Lake, B. M., and Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a> Preprint available on <em>arxiv:2310.09612</em>.
 
-<a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Orhan, A. E., Wang, W., Wang, A. N., Ren, M., and Lake, B. M. (2024). Self-supervised learning of video representations from a child’s perspective.</a>  Preprint available on <em>arxiv:2402.00300</em>
+<a href="https://cims.nyu.edu/~brenden/papers/2402.00300.pdf"> Orhan, A. E., Wang, W., Wang, A. N., Ren, M., and Lake, B. M. (2024). Self-supervised learning of video representations from a child’s perspective.</a> Preprint available on <em>arxiv:2402.00300</em>.
 
-Kumar, S., Marjieh, R., Zhang, B., Campbell, D., Hu, M. Y., Bhatt, U., Lake, B. M., and Griffiths, T. (2024). Comparing Abstraction in Humans and Machines Using Multimodal Serial Reproduction.
+<a href="https://cims.nyu.edu/~brenden/papers/2402.03618.pdf"> Kumar, S., Marjieh, R., Zhang, B., Campbell, D., Hu, M. Y., Bhatt, U., Lake, B. M., and Griffiths, T. (2024). Comparing Abstraction in Humans and Machines Using Multimodal Serial Reproduction.</a> Preprint available on <em>arxiv:2402.00300</em>.
 
 Zhou, Y., Lake, B. M., and Williams, A. (2024). Compositional learning of functions in humans and machines.
 
-Qin, Y., Wang, W., and Lake, B. M. (2024). A systematic investigation of learnability from single child linguistic input.
+<a href="https://cims.nyu.edu/~brenden/papers/2402.07899.pdf"> Qin, Y., Wang, W., and Lake, B. M. (2024). A systematic investigation of learnability from single child linguistic input. </a> Preprint available on <em>arxiv:2402.07899</em>.
 
 Leong, C. and Lake, B. M. (2024). Prompting invokes expert-like downward shifts in GPT-4V’s conceptual hierarchies.
 
 Luo, K., Zhang, B., Xiao, Y., and Lake, B. M. (2024). Finding Unsupervised Alignment of Conceptual Systems in Image-Word Representations.
 
-Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social Reasoning Benchmark Inspired by Infant Cognition.
+<a href="https://cims.nyu.edu/~brenden/papers/LiEtAl2024.pdf">Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social Reasoning Benchmark Inspired by Infant Cognition.</a> Preprint available on <em>PsyArXiv:zf5nh</em>.
 
 ---
 ###### __2024__
 
-<a href="https://www.science.org/doi/10.1126/science.adi1374"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383, 504-511.
+<a href="https://www.science.org/stoken/author-tokens/ST-1676/full"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383(6682), 504-511. [<a href="https://www.nature.com/articles/d41586-024-00713-5">Nature News and Views</a>]
 <ul>
     <li><strong>Press:</strong>
                   <a href="https://www.washingtonpost.com/science/2024/02/02/how-humans-learn-language-ai-child/">Washington Post</a>,
@@ -39,16 +39,16 @@ Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social R
                   <a href="https://www.nature.com/articles/d41586-024-00288-1">Nature News</a>,
                   <a href="https://www.nyu.edu/about/news-publications/news/2024/february/ai-learns-through-the-eyes-and-ears-of-a-child.html">NYU News</a>,
                   <a href="https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/">MIT Technology Review</a>,
-                  <a href="https://time.com/6632398/ai-language-study-baby/">Time</a>
+                  <a href="https://time.com/6632398/ai-language-study-baby/">Time</a>,
+                  <a href="https://www.sciencefriday.com/segments/language-artificial-intelligence-baby/">NPR Science Friday</a>
      </li>
 </ul>
 
-<a href="https://cims.nyu.edu/~brenden/papers/2305.15372.pdf"> Orhan, A. E., and Lake, B. M. (in press). Learning high-level visual representations from a child's perspective without strong inductive biases. </a> <em>Nature Machine Intelligence</em>.
+<a href="https://www.nature.com/articles/s42256-024-00802-0"> Orhan, A. E., and Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> <em>Nature Machine Intelligence</em>, 6, 271-283.
 
-<a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlPreprint.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (in press). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> <em>Cognition</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlCognition2024.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (2024). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> <em>Cognition</em>, 245, 105690.
 
 <a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
-
 
 ---
 ###### __2023__
@@ -60,6 +60,7 @@ Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social R
 
 <ul>
     <li><strong>Press:</strong>
+                  <a href="https://www.scientificamerican.com/article/new-training-method-helps-ai-generalize-like-people-do/">Scientific American</a>,
                   <a href="https://www.nature.com/articles/d41586-023-03272-3">Nature News</a>,
                   <a href="https://www.nyu.edu/about/news-publications/news/2023/october/can-ai-grasp-related-concepts-after-learning-only-one-.html">NYU News</a>,
                   <a href="https://www.livescience.com/technology/artificial-intelligence/in-a-1st-ai-neural-network-captures-critical-aspect-of-human-intelligence">
@@ -230,24 +231,58 @@ Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social R
 <a href="https://cims.nyu.edu/~brenden/papers/CohenLake2016CogSci.pdf">Cohen, A. and Lake, B. M. (2016). Searching large hypothesis spaces by asking questions.</a> In <em>Proceedings of the 38th Annual Conference of the Cognitive Science Society.</em>
 
 ---
-###### __Selected earlier papers__
+###### __2015__
 
 <a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2015Science.pdf">Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction.</a><em> Science,</em> 350(6266), 1332-1338.
 [<a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2015Science_supp.pdf">Supporting Info.</a>]
-[<a href="https://cims.nyu.edu/~brenden/supplemental/turingtests/turingtests.html">visual Turing tests</a>] 
+[<a href="supplemental/turingtests/turingtests.html">visual Turing tests</a>] 
 [<a href="https://github.com/brendenlake/omniglot">Omniglot data set</a>] 
 [<a href="https://github.com/brendenlake/BPL">Bayesian Program Learning code</a>]
-  - <strong>Press:</strong> <a href="http://www.sciencemag.org/content/350/6266/1397.2.full"><em>Science</em> Podcast</a>,
-                <a href="http://nyti.ms/1OU8pjf">New York Times</a>,
-                <a href="http://www.reuters.com/article/us-science-learning-idUSKBN0TT2WK20151211#XOveqzrzlgCgTriT.97">Reuters</a>,
-                <a href="http://www.popularmechanics.com/technology/gadgets/a18499/machine-learning-alphabet/">Popular Mechanics</a>,
-                <a href="http://www.cbsnews.com/news/teaching-computers-to-learn-like-humans/">CBS</a>,
-                <a href="http://news.mit.edu/2015/computer-system-passes-visual-turing-test-1210">MIT News</a>,
-                <a href="http://www.technologyreview.com/news/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/">MIT Technology Review</a>,
-                <a href="https://www.washingtonpost.com/news/speaking-of-science/wp/2015/12/10/researchers-create-a-computer-program-that-learns-the-way-humans-do/">Washington Post</a>,
-                <a href='http://www.thestar.com/news/world/2015/12/10/researchers-create-an-artificial-intelligence-model-that-learns-and-draws-just-like-you.html'>Toronto Star</a>,
-                <a href='https://www.scientificamerican.com/article/2016-world-changing-ideas/'>Scientific American "World Changing Idea"</a>
 
-<a href="https://cims.nyu.edu/~brenden/papers/LakeZarembaEtAl2015CogSci.pdf">Lake, B. M., Zaremba, W., Fergus, R. and Gureckis, T. M. (2015). Deep Neural Networks Predict Category Typicality Ratings for Images.</a> In <em>Proceedings of the 37th Annual Conference of the Cognitive Science Society.</em> [<a href="https://cims.nyu.edu/~brenden/code/lake_typicality_data.zip">Data</a>]
 
-<a href="https://cims.nyu.edu/~brenden/papers/LakeLeeEtAl2014CogSci.pdf">Lake, B. M., Lee, C.-y., Glass, J. R., and Tenenbaum, J. B. (2014). One-shot learning of generative speech concepts.</a> In <em>Proceedings of the 36th Annual Conference of the Cognitive Science Society.</em> [<a href="https://cims.nyu.edu/~brenden/speech.html">Supporting Info.</a>]
+<ul>
+    <li><strong>Press:</strong> <a href="http://www.sciencemag.org/content/350/6266/1397.2.full"><em>Science</em> Podcast</a>,
+                  <a href="http://nyti.ms/1OU8pjf">New York Times</a>,
+                  <a href="http://www.reuters.com/article/us-science-learning-idUSKBN0TT2WK20151211#XOveqzrzlgCgTriT.97">Reuters</a>,
+                  <a href="http://www.popularmechanics.com/technology/gadgets/a18499/machine-learning-alphabet/">Popular Mechanics</a>,
+                  <a href="http://www.cbsnews.com/news/teaching-computers-to-learn-like-humans/">CBS</a>,
+                  <a href="http://news.mit.edu/2015/computer-system-passes-visual-turing-test-1210">MIT News</a>,                          
+                  <a href="http://www.technologyreview.com/news/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/">MIT Technology Review</a>,
+                  <a href="https://www.washingtonpost.com/news/speaking-of-science/wp/2015/12/10/researchers-create-a-computer-program-that-learns-the-way-humans-do/">Washington Post</a>,
+                  <a href='http://www.thestar.com/news/world/2015/12/10/researchers-create-an-artificial-intelligence-model-that-learns-and-draws-just-like-you.html'>Toronto Star</a>,
+                  <a href='https://www.scientificamerican.com/article/2016-world-changing-ideas/'>Scientific American "World Changing Idea"</a>
+    </li>
+</ul>
+
+<a href="https://cims.nyu.edu/~brenden/papers/MonfortEtAl2015.pdf">Monfort, M., Lake, B. M., Ziebart, B. D., Lucey, P., and Tenenbaum, J. B. (2015). Softstar: Heuristic-Guided Probabilistic Inference.</a><em> Advances in Neural Information Processing Systems (NeurIPS) 28. </em> [<a href="https://cims.nyu.edu/~brenden/papers/MonfortEtAl2015_supp.pdf">Supporting Info.</a>]
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeZarembaEtAl2015CogSci.pdf">Lake, B. M., Zaremba, W., Fergus, R. and Gureckis, T. M. (2015). Deep Neural Networks Predict Category Typicality Ratings for Images.</a> In <em>Proceedings of the 37th Annual Conference of the Cognitive Science Society.</em> [<a href="code/lake_typicality_data.zip">Data</a>]
+
+---
+###### __2014 and earlier__
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakePhDThesis.pdf">Lake, B. M. (2014). Towards more human-like concept learning in machines: Compositionality, causality, and learning-to-learn.</a><em> Ph.D. thesis, MIT.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeLeeEtAl2014CogSci.pdf">Lake, B. M., Lee, C.-y., Glass, J. R., and Tenenbaum, J. B. (2014). One-shot learning of generative speech concepts.</a> In <em>Proceedings of the 36th Annual Conference of the Cognitive Science Society.</em> [<a href="speech.html">Supporting Info.</a>]
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeEtAlNips2013.pdf">Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2013). One-Shot Learning by Inverting a Compositional Causal Process.</a><em> Advances in Neural Information Processing Systems (NeurIPS) 26. </em> [<a href="https://cims.nyu.edu/~brenden/papers/LakeEtAlNips2013_supp.pdf">Supporting Info.</a>]
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2012CogSci.pdf">Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2012).  Concept learning as motor program induction: A large-scale empirical study.</a> In <em>Proceedings of the 34th Annual Conference of the Cognitive Science Society. </em>[<a href="consistency.html">Supporting Info.</a>]
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl2011CogSci.pdf">Lake, B. M., Salakhutdinov, R., Gross, J., and Tenenbaum, J. B. (2011).  One shot learning of simple visual concepts.</a> In <em>Proceedings of the 33rd Annual Conference of the Cognitive Science Society. </em>[<a href="charactervideos.html">Videos</a>]
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeMcClelland2011CogSci.pdf">Lake, B. M. and McClelland, J. L. (2011). Estimating the strength of unlabeled information during semi-supervised learning.</a> In <em>Proceedings of the 33rd Annual Conference of the Cognitive Science Society.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeTenenbaum2010CogSci.pdf">Lake, B. M. and Tenenbaum, J. B. (2010). Discovering Structure by Learning Sparse Graphs.</a> In <em>Proceedings of the 32nd Annual Conference of the Cognitive Science Society</em>. 
+
+Lake, B. M. (2009). Unsupervised and semi-supervised perceptual category learning. <em>Master's thesis, Stanford University.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeEtAl09TAMD.pdf">Lake, B. M., Vallabha, G. K., and McClelland, J. L. (2009). Modeling unsupervised perceptual category learning.</a> <em>IEEE Transactions on Autonomous Mental Development</em>, 1(1), 35-43.
+
+Lake, B. M., Vallabha, G. K., and McClelland, J. L. (2008). Modeling unsupervised perceptual category learning. In <em>Proceedings of the 7th International Conference on Development and Learning</em>.
+
+<ul>
+    <li><strong>Best paper award. </strong>Expanded version directly above.</li>
+</ul>
+
+<a href="https://cims.nyu.edu/~brenden/papers/LakeCottrell05CogSci.pdf">Lake, B. M. and Cottrell, G.W. (2005). Age of acquisition in facial identification: A connectionist approach.</a> In <em>Proceedings of the 27th Annual Conference of the Cognitive Science Society.</em>

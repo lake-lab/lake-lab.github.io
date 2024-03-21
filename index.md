@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ##### __Understanding intelligence__
-Today's AI provides nothing like the general purpose, flexible intelligence that we have as humans. We are studying the ingredients of intelligence that enable fast and flexible learning. [Join us](/apply/).
+Today's AI is unlike the general purpose, flexible intelligence that we have as humans. We are studying the ingredients of intelligence that enable fast and flexible learning. [Join us](/apply/).
 
 <hr class='invis'>
 ##### __Bulletin__
