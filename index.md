@@ -10,7 +10,7 @@ Today's AI is unlike the general purpose, flexible intelligence that we have as 
 <hr class='invis'>
 ##### __Bulletin__
 - **4/2024:** The lab will present 8 papers at CogSci2024 in Rotterdam.
-- **4/2024:** <a href="https://www.theatlantic.com/science/archive/2024/04/toddlers-ai-language-learning/677977/">The Atlantic</a> write articles summarizing recent work from the lab on learning from baby head cams.
+- **4/2024:** <a href="https://www.theatlantic.com/science/archive/2024/04/toddlers-ai-language-learning/677977/">The Atlantic</a> writes summary of recent work in the lab on learning from baby head cams.
 - **2/2024:** In the News! Wai Keen, Wentao, and Emin publishes a new article in \emph{Science} on <a href="https://www.science.org/doi/10.1126/science.adi1374">"Grounded language acquisition through the eyes and ears of a single child"</a>, with write-ups in the <a href="https://www.washingtonpost.com/science/2024/02/02/how-humans-learn-language-ai-child/">Washington Post</a>,
 <a href="https://www.scientificamerican.com/article/a-camera-wearing-baby-taught-an-ai-to-learn-words/">Scientific American</a>,
 <a href="https://www.nature.com/articles/d41586-024-00288-1">Nature News</a>,
