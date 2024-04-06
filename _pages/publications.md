@@ -14,24 +14,13 @@ Lab publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023),
 
 <a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., Lake, B. M., and Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a> Preprint available on <em>arxiv:2310.09612</em>.
 
-<a href="https://cims.nyu.edu/~brenden/papers/2402.00300.pdf"> Orhan, A. E., Wang, W., Wang, A. N., Ren, M., and Lake, B. M. (2024). Self-supervised learning of video representations from a child’s perspective.</a> Preprint available on <em>arxiv:2402.00300</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/2403.15362.pdf"> Teehan, R., Lake, B. M., Ren, M. (2024). CoLLEGe: Concept Embedding Generation for Large Language Models.</a> Preprint available on <em>arXiv:2403.15362</em>.
 
-<a href="https://cims.nyu.edu/~brenden/papers/2402.03618.pdf"> Kumar, S., Marjieh, R., Zhang, B., Campbell, D., Hu, M. Y., Bhatt, U., Lake, B. M., and Griffiths, T. (2024). Comparing Abstraction in Humans and Machines Using Multimodal Serial Reproduction.</a> Preprint available on <em>arxiv:2402.00300</em>.
-
-Zhou, Y., Lake, B. M., and Williams, A. (2024). Compositional learning of functions in humans and machines.
-
-<a href="https://cims.nyu.edu/~brenden/papers/2402.07899.pdf"> Qin, Y., Wang, W., and Lake, B. M. (2024). A systematic investigation of learnability from single child linguistic input. </a> Preprint available on <em>arxiv:2402.07899</em>.
-
-Leong, C. and Lake, B. M. (2024). Prompting invokes expert-like downward shifts in GPT-4V’s conceptual hierarchies.
-
-Luo, K., Zhang, B., Xiao, Y., and Lake, B. M. (2024). Finding Unsupervised Alignment of Conceptual Systems in Image-Word Representations.
-
-<a href="https://cims.nyu.edu/~brenden/papers/LiEtAl2024.pdf">Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social Reasoning Benchmark Inspired by Infant Cognition.</a> Preprint available on <em>PsyArXiv:zf5nh</em>.
 
 ---
 ###### __2024__
 
-<a href="https://www.science.org/stoken/author-tokens/ST-1676/full"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383(6682), 504-511. [<a href="https://www.nature.com/articles/d41586-024-00713-5">Nature News and Views</a>]
+<a href="https://www.science.org/stoken/author-tokens/ST-1676/full"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383(6682), 504-511. [<a href="https://www.nature.com/articles/d41586-024-00713-5">News and Views</a>]
 <ul>
     <li><strong>Press:</strong>
                   <a href="https://www.washingtonpost.com/science/2024/02/02/how-humans-learn-language-ai-child/">Washington Post</a>,
@@ -40,15 +29,37 @@ Luo, K., Zhang, B., Xiao, Y., and Lake, B. M. (2024). Finding Unsupervised Align
                   <a href="https://www.nyu.edu/about/news-publications/news/2024/february/ai-learns-through-the-eyes-and-ears-of-a-child.html">NYU News</a>,
                   <a href="https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/">MIT Technology Review</a>,
                   <a href="https://time.com/6632398/ai-language-study-baby/">Time</a>,
+                  <a href="https://www.theatlantic.com/science/archive/2024/04/toddlers-ai-language-learning/677977/">The Atlantic</a>,
                   <a href="https://www.sciencefriday.com/segments/language-artificial-intelligence-baby/">NPR Science Friday</a>
      </li>
 </ul>
 
 <a href="https://www.nature.com/articles/s42256-024-00802-0"> Orhan, A. E., and Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> <em>Nature Machine Intelligence</em>, 6, 271-283.
+<ul>
+    <li><strong>Press:</strong>
+                  <a href="https://www.theatlantic.com/science/archive/2024/04/toddlers-ai-language-learning/677977/">The Atlantic</a>
+    </li>
+</ul>
 
 <a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlCognition2024.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (2024). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> <em>Cognition</em>, 245, 105690.
 
 <a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
+
+<a href="https://cims.nyu.edu/~brenden/papers/2402.00300.pdf"> Orhan, A. E., Wang, W., Wang, A. N., Ren, M., and Lake, B. M. (2024). Self-supervised learning of video representations from a child’s perspective.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/2402.03618.pdf"> Kumar, S., Marjieh, R., Zhang, B., Campbell, D., Hu, M. Y., Bhatt, U., Lake, B. M., and Griffiths, T. (2024). Comparing Abstraction in Humans and Machines Using Multimodal Serial Reproduction.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/2403.12201.pdf"> Zhou, Y., Lake, B. M., and Williams, A. (2024). Compositional learning of functions in humans and machines.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em> 
+
+<a href="https://cims.nyu.edu/~brenden/papers/2402.07899.pdf"> Qin, Y., Wang, W., and Lake, B. M. (2024). A systematic investigation of learnability from single child linguistic input. </a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/LiEtAl2024.pdf">Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social Reasoning Benchmark Inspired by Infant Cognition.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+
+Leong, C. and Lake, B. M. (2024). Prompting invokes expert-like downward shifts in GPT-4V’s conceptual hierarchies. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+
+Luo, K., Zhang, B., Xiao, Y., and Lake, B. M. (2024). Finding Unsupervised Alignment of Conceptual Systems in Image-Word Representations. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+
+LeGris, S., Lake, B. M., Gureckis, T. M. (2024). Predicting Insight during Physical Reasoning. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
 
 ---
 ###### __2023__
