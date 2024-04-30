@@ -19,6 +19,6 @@ Our work demands a combination of cognitive modeling, behavioral experiments, an
 
 See [Projects](/projects/) for more information about current research directions.
 
-<img class="fig" src="/images/battleship-bw.jpg" width="350">
-
 <img class="fig" src="/images/lab-serious.jpg" width="350">
+
+<img class="fig" src="/images/battleship-bw.jpg" width="350">
