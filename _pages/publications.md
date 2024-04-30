@@ -7,7 +7,7 @@ id: 4
 ---
 
 ### __Publications__
-Lab publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), and [earlier](#selected-earlier-papers).
+See below for publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015) and [earlier](#2014-and-earlier).
 
 ---
 ###### __Preprints__
@@ -20,9 +20,12 @@ Lab publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023),
 ---
 ###### __2024__
 
+https://cims.nyu.edu/~brenden/https://cims.nyu.edu/~brenden/papers/2310.09612.pdf
+
 <a href="https://www.science.org/stoken/author-tokens/ST-1676/full"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383(6682), 504-511. [<a href="https://www.nature.com/articles/d41586-024-00713-5">News and Views</a>]
 <ul>
     <li><strong>Press:</strong>
+                  <a href="https://www.nytimes.com/2024/04/30/science/ai-infants-language-learning.html">New York Times</a>,
                   <a href="https://www.washingtonpost.com/science/2024/02/02/how-humans-learn-language-ai-child/">Washington Post</a>,
                   <a href="https://www.scientificamerican.com/article/a-camera-wearing-baby-taught-an-ai-to-learn-words/">Scientific American</a>,
                   <a href="https://www.nature.com/articles/d41586-024-00288-1">Nature News</a>,
@@ -34,7 +37,7 @@ Lab publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023),
      </li>
 </ul>
 
-<a href="https://www.nature.com/articles/s42256-024-00802-0"> Orhan, A. E., and Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> <em>Nature Machine Intelligence</em>, 6, 271-283.
+<a href="https://www.nature.com/articles/s42256-024-00802-0"> Orhan, A. E., and Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> <em>Nature Machine Intelligence</em>, 6, 271-283. [<a href="https://www.nature.com/articles/s42256-024-00828-4">News and Views</a>]
 <ul>
     <li><strong>Press:</strong>
                   <a href="https://www.theatlantic.com/science/archive/2024/04/toddlers-ai-language-learning/677977/">The Atlantic</a>
@@ -260,7 +263,6 @@ LeGris, S., Lake, B. M., Gureckis, T. M. (2024). Predicting Insight during Physi
                   <a href="http://news.mit.edu/2015/computer-system-passes-visual-turing-test-1210">MIT News</a>,                          
                   <a href="http://www.technologyreview.com/news/544376/this-ai-algorithm-learns-simple-tasks-as-fast-as-we-do/">MIT Technology Review</a>,
                   <a href="https://www.washingtonpost.com/news/speaking-of-science/wp/2015/12/10/researchers-create-a-computer-program-that-learns-the-way-humans-do/">Washington Post</a>,
-                  <a href='http://www.thestar.com/news/world/2015/12/10/researchers-create-an-artificial-intelligence-model-that-learns-and-draws-just-like-you.html'>Toronto Star</a>,
                   <a href='https://www.scientificamerican.com/article/2016-world-changing-ideas/'>Scientific American "World Changing Idea"</a>
     </li>
 </ul>

@@ -7,7 +7,7 @@ id: 1
 ---
 
 ### __Research__
-<img class="fig" src="/images/battleship-bw.jpg" width="350">
+<img class="fig" src="/images/lab-celebrate.jpg" width="350">
 Our lab aims to understand the ingredients of intelligence. We use advances in machine intelligence to better understand human intelligence, and use insights from human intelligence to develop more fruitful kinds of machine intelligence.
 
 There have been remarkable recent advances in machine learning and AI. Computers have beaten Jeopardy champions, defeated Go masters, driven autonomous cars, and shattered records for object and speech recognition. Progress has been impressive, yet today's AI provides nothing like the general purpose intelligence that we have as humans. 
@@ -18,3 +18,7 @@ In our pursuits, __we study human cognitive abilities that elude the best AI sys
 Our work demands a combination of cognitive modeling, behavioral experiments, and machine learning research. Through this interdisciplinary approach, our work has revealed key cognitive ingredients that people use but are missing in contemporary machine learning. It has also led to new data science and machine learning techniques inspired by the cognitive solutions to difficult computational problems.
 
 See [Projects](/projects/) for more information about current research directions.
+
+<img class="fig" src="/images/battleship-bw.jpg" width="350">
+
+<img class="fig" src="/images/lab-serious.jpg" width="350">
