@@ -12,7 +12,7 @@ Interested in joining the Human & Machine Learning Lab? Interested candidates ca
 <hr class='invis'>
 ##### __Current Master's and undergraduates at NYU, or potential visiting students__
 
-We are glad that you are interested in research. We have a limited number of spots for these opportunities, although we encourage you to apply. To apply, please fill out this [web form](https://docs.google.com/forms/d/e/1FAIpQLSd-r49GESw8rAu9b0G9frSgTEKC8SJyIGj8cJX69P_XL0cVtw/viewform). 
+We are glad that you are interested in research. We have a limited number of spots for these opportunities, although we encourage you to apply. To apply, please fill out this [web form](https://forms.gle/XjDdgBHbk1VfBcSe7). 
 
 We aim to get back to you within 1 week with next steps, which are usually a take-home assignment or a note that we unfortunately don't have any opportunities available. If you don't hear from us within a week, please follow up (brenden@nyu.edu).
 
