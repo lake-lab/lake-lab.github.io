@@ -7,11 +7,14 @@ id: 5
 ---
 ### __Join us__
 
-Interested in joining the Human & Machine Learning Lab? Interested candidates can apply through the links below. More generally, NYU offers very strong training in [computational cognitive science](http://nyuccl.org/cogsci/) and [artificial intelligence](https://wp.nyu.edu/cilvr/).
+Interested in joining the Human & Machine Learning Lab? Interested candidates can apply through the links below. More generally, NYU offers very strong training in [computational cognitive science](https://gureckislab.org/cogsci.html#/) and [artificial intelligence](https://wp.nyu.edu/cilvr/).
 
 <hr class='invis'>
-##### __Postdoctoral researchers__
-We consider postdoc candidates on a case-by-case basis. Please reach out to [Brenden](https://cims.nyu.edu/~brenden/) if you are interested in a postdoc position.
+##### __Current Master's and undergraduates at NYU, or potential visiting students__
+
+We are glad that you are interested in research. We have a limited number of spots for these opportunities, although we encourage you to apply. To apply, please fill out this [web form](https://docs.google.com/forms/d/e/1FAIpQLSd-r49GESw8rAu9b0G9frSgTEKC8SJyIGj8cJX69P_XL0cVtw/viewform). 
+
+We aim to get back to you within 1 week with next steps, which are usually a take-home assignment or a note that we unfortunately don't have any opportunities available. If you don't hear from us within a week, please follow up (brenden@nyu.edu).
 
 <hr class='invis'>
 ##### __Ph.D. candidates__
@@ -24,11 +27,5 @@ In exceptional cases, it is possible to join the lab through the Ph.D. Program i
 [University policy](http://gsas.nyu.edu/admissions/gsas-application-resource-center/nyu-gsas-general-application-policies.html#3) states that you may only apply to one program at a time.
 
 <hr class='invis'>
-##### __Current Master's and undergraduates at NYU__
-
-We are glad that you are interested in research, although sadly we have a limited number of spots for Master's and undergraduate researchers. The usual path is to take one of Brenden's courses and do very well, as a stepping stone to starting a research project, although sometimes there are exceptions. You are welcome to reach out to [Brenden](https://cims.nyu.edu/~brenden/) and ask about opportunities.
-
-<hr class='invis'>
-##### __Visitors, research assistants, and summer interns__
-
-Unfortunately, the lab does not offer positions for research assistants or summer interns. We also cannot host visiting researchers.
+##### __Postdoctoral researchers__
+We consider postdoc candidates on a case-by-case basis. Please reach out to [Brenden](https://cims.nyu.edu/~brenden/) if you are interested in a postdoc position.
