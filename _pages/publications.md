@@ -7,7 +7,7 @@ id: 4
 ---
 
 ### __Publications__
-See below for publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015) and [earlier](#2014-and-earlier).
+See below for publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015) and [earlier](#2014-and-earlier). Check out our [lab page](https://lake-lab.github.io/publications/) for a potentially more recent list.
 
 ---
 ###### __Preprints__
@@ -19,8 +19,6 @@ See below for publications by year: [Preprints](#preprints), [2024](#2024), [202
 
 ---
 ###### __2024__
-
-https://cims.nyu.edu/~brenden/https://cims.nyu.edu/~brenden/papers/2310.09612.pdf
 
 <a href="https://www.science.org/stoken/author-tokens/ST-1676/full"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383(6682), 504-511. [<a href="https://www.nature.com/articles/d41586-024-00713-5">News and Views</a>]
 <ul>
@@ -48,21 +46,21 @@ https://cims.nyu.edu/~brenden/https://cims.nyu.edu/~brenden/papers/2310.09612.pd
 
 <a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
 
-<a href="https://cims.nyu.edu/~brenden/papers/2402.00300.pdf"> Orhan, A. E., Wang, W., Wang, A. N., Ren, M., and Lake, B. M. (2024). Self-supervised learning of video representations from a child’s perspective.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+<a href="https://cims.nyu.edu/~brenden/papers/OrhanEtAl2024CogSci.pdf"> Orhan, A. E., Wang, W., Wang, A. N., Ren, M., and Lake, B. M. (2024). Self-supervised learning of video representations from a child’s perspective.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
 
-<a href="https://cims.nyu.edu/~brenden/papers/2402.03618.pdf"> Kumar, S., Marjieh, R., Zhang, B., Campbell, D., Hu, M. Y., Bhatt, U., Lake, B. M., and Griffiths, T. (2024). Comparing Abstraction in Humans and Machines Using Multimodal Serial Reproduction.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+<a href="https://cims.nyu.edu/~brenden/papers/LeGrisEtAl2024CogSci.pdf">LeGris, S., Lake, B. M., Gureckis, T. M. (2024). Predicting Insight during Physical Reasoning.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
 
-<a href="https://cims.nyu.edu/~brenden/papers/2403.12201.pdf"> Zhou, Y., Lake, B. M., and Williams, A. (2024). Compositional learning of functions in humans and machines.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em> 
+<a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024CogSci.pdf"> Zhou, Y., Lake, B. M., and Williams, A. (2024). Compositional learning of functions in humans and machines.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em> 
 
-<a href="https://cims.nyu.edu/~brenden/papers/2402.07899.pdf"> Qin, Y., Wang, W., and Lake, B. M. (2024). A systematic investigation of learnability from single child linguistic input. </a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+<a href="https://cims.nyu.edu/~brenden/papers/QinEtAl2024CogSci.pdf"> Qin, Y., Wang, W., and Lake, B. M. (2024). A systematic investigation of learnability from single child linguistic input. </a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
 
-<a href="https://cims.nyu.edu/~brenden/papers/LiEtAl2024.pdf">Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social Reasoning Benchmark Inspired by Infant Cognition.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+<a href="https://cims.nyu.edu/~brenden/papers/LiEtAl2024CogSci.pdf">Li, W., Yasuda, S. C., Dillon, M. R., and Lake, B. M. (2024). A Machine Social Reasoning Benchmark Inspired by Infant Cognition.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
 
-Leong, C. and Lake, B. M. (2024). Prompting invokes expert-like downward shifts in GPT-4V’s conceptual hierarchies. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+<a href="https://cims.nyu.edu/~brenden/papers/LuoEtAl2024CogSci.pdf">Luo, K., Zhang, B., Xiao, Y., and Lake, B. M. (2024). Finding Unsupervised Alignment of Conceptual Systems in Image-Word Representations.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
 
-Luo, K., Zhang, B., Xiao, Y., and Lake, B. M. (2024). Finding Unsupervised Alignment of Conceptual Systems in Image-Word Representations. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+<a href="https://cims.nyu.edu/~brenden/papers/LeongLakeCogSci2024.pdf">Leong, C. and Lake, B. M. (2024). Prompting invokes expert-like downward shifts in GPT-4V’s conceptual hierarchies.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
 
-LeGris, S., Lake, B. M., Gureckis, T. M. (2024). Predicting Insight during Physical Reasoning. In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
+<a href="https://cims.nyu.edu/~brenden/papers/KumarEtAl2024CogSci.pdf"> Kumar, S., Marjieh, R., Zhang, B., Campbell, D., Hu, M. Y., Bhatt, U., Lake, B. M., and Griffiths, T. (2024). Comparing Abstraction in Humans and Machines Using Multimodal Serial Reproduction.</a> In <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society.</em>
 
 ---
 ###### __2023__
