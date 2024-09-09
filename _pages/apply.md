@@ -12,11 +12,11 @@ Interested in joining the Human & Machine Learning Lab? Interested candidates ma
 <hr class='invis'>
 ##### __Current Master's and undergraduates at NYU, or potential visiting students__
 
-We are glad that you are interested in research. We have a limited number of spots, and applications are currently closed. They will reopen from September 1, 2024 to October 15, 2024, where you can apply through a link posted here.
+<!-- We are glad that you are interested in research. We have a limited number of spots, and applications are currently closed. They will reopen from September 1, 2024 to October 15, 2024, where you can apply through a link posted here. -->
 
-<!-- We are glad that you are interested in research. We have a limited number of spots for these opportunities, although we encourage you to apply. To apply, please fill out this [web form](https://forms.gle/XjDdgBHbk1VfBcSe7).  -->
+We are glad that you are interested in research. We have a limited number of spots for these opportunities, although we encourage you to apply. To apply, please fill out this [web form](https://forms.gle/XjDdgBHbk1VfBcSe7). 
 
-<!-- We aim to get back to you within 1 week with next steps, which are usually a take-home assignment or a note that we unfortunately don't have any opportunities available. If you don't hear from us within a week, please follow up (brenden@nyu.edu). -->
+We aim to get back to you within 1 week with next steps, which are usually a take-home assignment or a note that we unfortunately don't have any opportunities available. If you don't hear from us within a week, please follow up (brenden@nyu.edu).
 
 <hr class='invis'>
 ##### __Ph.D. candidates__
