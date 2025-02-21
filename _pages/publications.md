@@ -7,7 +7,6 @@ id: 4
 ---
 
 ### __Publications__
-See below for publications by year: [Preprints](#preprints), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015) and [earlier](#2014-and-earlier).
 
 See below for publications by year: [Preprints](#preprints), [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015) and [earlier](#2014-and-earlier). Check out our [lab page](https://lake-lab.github.io/publications/) for a potentially more recent list.
 
@@ -17,6 +16,14 @@ See below for publications by year: [Preprints](#preprints), [2025](#2025), [202
 
 <a href="https://arxiv.org/abs/2410.10596">Irie, K. and Lake, B. M. (2024). Neural networks that overcome classic challenges through practice.</a> Preprint available on <em>arxiv:2410.10596</em>.
 
+<a href="https://arxiv.org/abs/2502.14791">Wang, W., Jiang, G., Linzen, T., and Lake, B. M. (2025). Rapid word learning through meta in-context learning</a> Preprint available on <em>arxiv:2502.14791</em>.
+
+<a href="https://arxiv.org/abs/2502.10215"> Dettki, H. M., Lake, B. M., Wu, C. M, and Rehder, B. (2025). Do large language models reason causally like us? Even better?</a> Preprint available on <em>arxiv:2502.10215</em>.
+
+Tang. C., Lake, B. M., and Jazayeri, M. (2025). An explainable transformer circuit for compositional generalization. Preprint coming soon.
+
+Davidson, G., Todd, G., Colas, C. Chu, J., Togelius, J., Tenenbaum, J. B., Gureckis, T. M, and Lake, B. M.  (2025). Open-ended goal generation and inference in a novel physics environment. Preprint coming soon.
+
 <a href="https://arxiv.org/abs/2409.01374"> LeGris, S., Vong, W. V., Lake, B. M., and Gureckis, T. M. (2024). H-ARC: A Robust Estimate of Human Performance on the Abstraction and Reasoning Corpus Benchmark.</a> Preprint available on <em>arxiv:2409.01374</em>.
 
 <a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., and Lake, B. M., and Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a> Preprint available on <em>arxiv:2310.09612</em>.
@@ -24,9 +31,9 @@ See below for publications by year: [Preprints](#preprints), [2025](#2025), [202
 ---
 ###### __2025__
 
-<a href="https://arxiv.org/abs/2405.13242"> Davidson, G., Todd, G., Togelius, J., Gureckis, T. M., and Lake, B. M. (in press). Goals as Reward-Producing Programs.</a> <em>Nature Machine Intelligence</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAl2025NMI.pdf"> Davidson, G., Todd, G., Togelius, J., Gureckis, T. M., and Lake, B. M. (2025). Goals as Reward-Producing Programs.</a> <em>Nature Machine Intelligence</em>, 7, 205–220.
 
-<a href="https://osf.io/preprints/psyarxiv/tn83e"> Yasuda, S., Wenjie, L., Martinez, D., Lake, B. M., and Dillon, M. R. (in press). 15-month-olds’ understanding of imitaQon in social and instrumental contexts.</a> <em>Infancy</em>.
+<a href="https://cims.nyu.edu/~brenden/papers/YasudaEtAl2025Infancy.pdf"> Yasuda, S., Wenjie, L., Martinez, D., Lake, B. M., and Dillon, M. R. (2025). 15-month-olds’ understanding of imitation in social and instrumental contexts.</a> <em>Infancy</em>, 30(1), e70002.
 
 ---
 ###### __2024__
@@ -46,7 +53,7 @@ See below for publications by year: [Preprints](#preprints), [2025](#2025), [202
      </li>
 </ul>
 
-<a href="https://www.nature.com/articles/s42256-024-00802-0"> Orhan, A. E., and Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> <em>Nature Machine Intelligence</em>, 6, 271-283. [<a href="https://www.nature.com/articles/s42256-024-00828-4">News and Views</a>][<a href="https://www.cell.com/action/showPdf?pii=S1364-6613%2824%2900115-3">TICS Spotlight</a>]
+<a href="https://cims.nyu.edu/~brenden/papers/OrhanLake2024NMI.pdf"> Orhan, A. E., and Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> <em>Nature Machine Intelligence</em>, 6, 271-283. [<a href="https://www.nature.com/articles/s42256-024-00828-4">News and Views</a>][<a href="https://www.cell.com/action/showPdf?pii=S1364-6613%2824%2900115-3">TICS Spotlight</a>]
 <ul>
     <li><strong>Press:</strong>
                   <a href="https://www.theatlantic.com/science/archive/2024/04/toddlers-ai-language-learning/677977/">The Atlantic</a>
@@ -57,7 +64,7 @@ See below for publications by year: [Preprints](#preprints), [2025](#2025), [202
 
 <a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
 
-<a href="https://cims.nyu.edu/~brenden/papers/2403.15362.pdf"> Teehan, R., Lake, B. M., Ren, M. (2024). CoLLEGe: Concept Embedding Generation for Large Language Models.</a> Conference on Language Modeling (COLM).
+<a href="https://cims.nyu.edu/~brenden/papers/TeehanEtAl2024COLM.pdf"> Teehan, R., Lake, B. M., Ren, M. (2024). CoLLEGe: Concept Embedding Generation for Large Language Models.</a> Conference on Language Modeling (COLM).
 
 <a href="https://arxiv.org/abs/2406.15955">Lepori, M. A., Tartaglini, A. R., Vong, W. V., Serre, T., Lake, B., M., Pavlick, E. (2024). Beyond the Doors of Perception: Vision Transformers Represent Relations Between Objects.</a> <em>Advances in Neural Information Processing Systems (NeurIPS).</em>
 
