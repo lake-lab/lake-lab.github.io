@@ -13,20 +13,17 @@ See below for publications by year: [Preprints](#preprints), [2025](#2025), [202
 ---
 ###### __Preprints__
 
-
 <a href="https://arxiv.org/abs/2410.10596">Irie, K. and Lake, B. M. (2024). Neural networks that overcome classic challenges through practice.</a> Preprint available on <em>arxiv:2410.10596</em>.
 
-<a href="https://arxiv.org/abs/2502.14791">Wang, W., Jiang, G., Linzen, T., and Lake, B. M. (2025). Rapid word learning through meta in-context learning</a> Preprint available on <em>arxiv:2502.14791</em>.
+<a href="https://arxiv.org/abs/2505.12075">Davidson, G., Gureckis, T. M., Lake, B. M., and Williams, A. (2025). Do different prompting methods yield a common task representation in language models?</a> Preprint available on <em>arxiv:2505.12075</em>.
 
-<a href="https://arxiv.org/abs/2502.10215"> Dettki, H. M., Lake, B. M., Wu, C. M, and Rehder, B. (2025). Do large language models reason causally like us? Even better?</a> Preprint available on <em>arxiv:2502.10215</em>.
+<a href="https://arxiv.org/abs/2505.21828">Chen, Y. H., Davidson, G., and Lake, B. M. (2025). SAGE-Eval: Evaluating LLMs for Systematic Generalizations of Safety Facts.</a> Preprint available on <em>arxiv:2505.21828</em>.
 
-Tang. C., Lake, B. M., and Jazayeri, M. (2025). An explainable transformer circuit for compositional generalization. Preprint coming soon.
+<a href="https://arxiv.org/abs/2502.14791">Wang, W., Jiang, G., Linzen, T., and Lake, B. M. (2025). Rapid word learning through meta in-context learning</a>. Preprint available on <em>arxiv:2502.14791</em>.
 
-Davidson, G., Todd, G., Colas, C. Chu, J., Togelius, J., Tenenbaum, J. B., Gureckis, T. M, and Lake, B. M.  (2025). Open-ended goal generation and inference in a novel physics environment. Preprint coming soon.
+<a href="https://www.arxiv.org/abs/2502.15801">Tang. C., Lake, B. M., and Jazayeri, M. (2025). An explainable transformer circuit for compositional generalization.</a> Preprint available on <em>arxiv:2502.15801</em>.
 
 <a href="https://arxiv.org/abs/2409.01374"> LeGris, S., Vong, W. V., Lake, B. M., and Gureckis, T. M. (2024). H-ARC: A Robust Estimate of Human Performance on the Abstraction and Reasoning Corpus Benchmark.</a> Preprint available on <em>arxiv:2409.01374</em>.
-
-<a href="https://cims.nyu.edu/~brenden/papers/2310.09612.pdf"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., and Lake, B. M., and Pavlick, E. (2023). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a> Preprint available on <em>arxiv:2310.09612</em>.
 
 ---
 ###### __2025__
@@ -34,6 +31,12 @@ Davidson, G., Todd, G., Colas, C. Chu, J., Togelius, J., Tenenbaum, J. B., Gurec
 <a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAl2025NMI.pdf"> Davidson, G., Todd, G., Togelius, J., Gureckis, T. M., and Lake, B. M. (2025). Goals as Reward-Producing Programs.</a> <em>Nature Machine Intelligence</em>, 7, 205–220.
 
 <a href="https://cims.nyu.edu/~brenden/papers/YasudaEtAl2025Infancy.pdf"> Yasuda, S., Wenjie, L., Martinez, D., Lake, B. M., and Dillon, M. R. (2025). 15-month-olds’ understanding of imitation in social and instrumental contexts.</a> <em>Infancy</em>, 30(1), e70002.
+
+<a href="https://arxiv.org/abs/2310.09612"> Tartaglini, A. R., Feucht, S., Lepori, M. A., Vong, W. V., Lovering, C., and Lake, B. M., and Pavlick, E. (2025). Deep Neural Networks Can Learn Generalizable Same-Different Visual Relations.</a> In <em>Proceedings of the 8th Annual Conference on Cognitive Computational Neuroscience (CCN).</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/DettkiEtAl2025CogSci.pdf"> Dettki, H. M., Lake, B. M., Wu, C. M, and Rehder, B. (2025). Do large language models reason causally like us? Even better?</a> In <em>Proceedings of the 47th Annual Conference of the Cognitive Science Society.</em>
+
+<a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAl2025CogSci.pdf"> Davidson, G., Todd, G., Colas, C. Chu, J., Togelius, J., Tenenbaum, J. B., Gureckis, T. M, and Lake, B. M. (2025). Goal inference using reward-producing programs in a novel physics environment.</a> In <em>Proceedings of the 47th Annual Conference of the Cognitive Science Society.</em>
 
 ---
 ###### __2024__
