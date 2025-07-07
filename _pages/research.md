@@ -8,17 +8,13 @@ id: 1
 
 ### __Research__
 <img class="fig" src="/images/lab-celebrate.jpg" width="350">
-Our lab aims to understand the ingredients of intelligence. We use advances in machine intelligence to better understand human intelligence, and use insights from human intelligence to develop more fruitful kinds of machine intelligence.
+Our lab seeks the ingredients of intelligence. We use advances in machine intelligence to better understand human intelligence, and use insights from human intelligence to develop more fruitful kinds of machine intelligence.
 
-There have been remarkable recent advances in machine learning and AI. Computers have beaten Jeopardy champions, defeated Go masters, driven autonomous cars, and shattered records for object and speech recognition. Progress has been impressive, yet today's AI provides nothing like the general purpose intelligence that we have as humans. 
-Human minds solve a diverse array of computational problems that stump the best machines: learning new concepts, learning new tasks, understanding scenes, forming explanations, amongst many others. Machines also struggle to simulate other facets of human intelligence, including creativity, curiosity, self-assessment, and commonsense reasoning.
+We focus on human cognitive abilities that elude the best AI systems. Our recent projects include few-shot learning of new concepts, learning by generating new goals, learning by asking questions, and learning by producing novel combinations of known components. Our technical focus includes neural networks, meta-learning, neuro-symbolic models, and learning from child headcam videos --- seeing the world through their “eyes and ears”.
 
-In our pursuits, __we study human cognitive abilities that elude the best AI systems__. By studying distinctively human endeavors, there is opportunity to advance both cognitive science and AI. In cognitive science, if people have abilities beyond the reach of algorithms, then we do not fully understand how these abilities work. In AI, these abilities are important open problems with opportunities to reverse-engineer the human solutions.
-
-Our work demands a combination of cognitive modeling, behavioral experiments, and machine learning research. Through this interdisciplinary approach, our work has revealed key cognitive ingredients that people use but are missing in contemporary machine learning. It has also led to new data science and machine learning techniques inspired by the cognitive solutions to difficult computational problems.
+By studying distinctively human endeavors, we aim to advance both psychology and computer science. In cognitive psychology, if people can do things that current algorithms cannot, we don’t yet fully understand how these abilities work. In computer science, these human abilities represent open engineering challenges — ones that might be addressed by reverse-engineering the human solutions. Our work has uncovered key cognitive ingredients and inductive biases that are missing from current models. Additionally, we’ve shown how incorporating these ingredients can make AI systems more powerful and more human-like, while also addressing longstanding debates on the capabilities of neural networks and the necessary ingredients for learning.
 
 See [Projects](/projects/) for more information about current research directions.
+<br><br>
 
-<img class="fig" src="/images/lab-serious.jpg" width="350">
-
-<img class="fig" src="/images/battleship-bw.jpg" width="350">
+<img src="/images/lab-serious.jpg" width="400"> <img class="fig" src="/images/battleship-bw.jpg" width="400">

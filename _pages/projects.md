@@ -6,61 +6,84 @@ nav: true
 id: 3
 ---
 
+<style> p:has(+ ul) { margin-bottom: 0; } p + ul { margin-top: 0; } </style>
+
 ### __Projects__
-Read about our current projects on
-[learning through the eyes of a child](#learning-through-the-eyes-of-a-child),
-[concept learning](#concept-learning-in-minds-and-machines),
-[compositional generalization](#compositional-generalization-in-minds-and-machines).
+Read about our projects on
+1. [prior-enhanced neural networks](#new-modeling-human-behavior-with-prior-enhanced-neural-networks)
+2. [machines that reason more like people](#new-building-machines-that-reason-more-like-people)
+3. [learning through the eyes of a child](#learning-through-the-eyes-and-ears-of-a-child)
+4. [compositional generalization](#compositional-generalization-in-minds-and-machines)
+5. [neuro-symbolic models](#neuro-symbolic-modeling)
+
+Prospective lab members are encouraged to review the __Future directions__ within each project section, and then report back about the directions that pique their interest.
+
+---
+
+##### __\*NEW\* Modeling human behavior with prior-enhanced neural networks__
+Behavioral scientists must often choose between two computational paradigms with complementary strengths and weaknesses: Bayesian models or neural networks. An ideal paradigm would facilitate testing different priors; Bayesian models make this easy, while neural networks do not. Similarly, an ideal paradigm would avoid over-simplifications; neural networks make this easy, while Bayesian models do not. We aim to combine the est of both with an approach we call Bayesian distillation with Behavioral Tuning (BBT). BBT allows for flexible modeling of behavior using powerful Transformers, even from minimal behavioral data, by distilling Bayesian priors into the networks and then by fine-tuning the networks further on raw behavioral examples.
+
+__Recent articles__
+- Lake, B. M. (2025). More accurate behavioral predictions with hybrid Bayesian-connectionist models. <em>Preprint coming soon</em>. (Email Brenden for draft).
+
+__Future directions__
+- Interpretability for BBT models (hypothesis decoding, causal analysis,understanding the gradient steps during behavioral tuning)
+- Developing software tools for popularizing BBT modeling
+- Extending the BBT approach to reinforcement learning, reasoning, etc. 
+
+---
+
+##### __\*NEW\* Building machines that reason more like people__
+Simulating human reasoning in an open-ended task space has been a long-standing dream of cognitive science. Recent advances in LLMs brings this closer to reality, yet these models are not developed with human-like reasoning as an objective. In this project, we fine-tune reasoning-capable LLMs on large datasets of people reasoning "out loud" to align their reasoning processes with human patterns, akin to the [Centaur LLM](https://www.nature.com/articles/s41586-025-09215-4) from Binz et al. but for reasoning. We will evaluate whether fine-tuned models better predict human reasoning and whether they can simulate human-like reasoning on novel problems.
+
+__Recent articles__
+
+__Future directions__
+- Collecting large-scale behavioral dataset of people thinking out loud on reasoning tasks
+- Applications to education sciences
 
 ---
 
 ##### __Learning through the eyes and ears of a child__
-<img class="fig" src="/images/projects/fig-saycam.jpg" width="260">
-_Key people: Emin Orhan, Wai Keen Vong, Wentao Wang, Najoung Kim, and Guy Davidson_
+<img class="fig" src="/images/projects/fig-luna-lowres.jpeg" width="260">
+Young children have wide-ranging and sophisticated knowledge of the world. Where does this early knowledge come from? How much can be explained through generic learning mechanisms applied to sensory data, and how much requires stronger innate inductive biases? We examine these classic *nature vs. nurture* questions by training large-scale neural networks through the eyes and ears of a single developing child, using longitudinal baby headcam videos. We call these Child's View AI (CVAI) models and build on the amazing <a href="https://psyarxiv.com/fy8zx/">SAYCam dataset</a>. Remarkably, we find that broadly useful visual features and word-referent mappings can emerge from CVAI models trained in a self-supervised way on just slices of one child's everyday experiences.
 
-Young children have wide-ranging and sophisticated knowledge of the world. What is the origin of this early knowledge? How much can be explained through generic learning mechanisms applied to sensory data, and how much requires more substantive innate inductive biases? We examine these *nature vs. nurture* questions by training large-scale neural networks through the eyes and ears of a single developing child, using longitudinal baby headcam videos (see recent dataset from <a href="https://psyarxiv.com/fy8zx/">Sullivan et al., 2020</a>).
+__Recent articles__
+- <a href="https://www.science.org/doi/10.1126/science.adi1374"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383, 504-511.
+- <a href="https://www.nature.com/articles/s42256-024-00802-0"> Orhan, A. E., and Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> <em>Nature Machine Intelligence</em>, 6, 271-283.
+- <a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (2023). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science</em>, 47, e13305.
 
-Our results show that broadly useful visual features and high-level linguistic structure can emerge from self-supervised learning applied only to a slice of one child's experiences. Our ongoing work is studying whether predictive models of the world can also be learned via similar mechanisms.
+__Future directions__
+- Adding inductive biases (shape bias, mutual exclusivity bias, objects, social cues, etc.) and studying their impact on word learning from egocentric video
+- Adding active learning (taking actions in a virtual rendering of that child's home) to the passive videos during CVAI training
+- A benchmark for evaluating how well CVAI models explain key developmental findings
 
-<a href="https://www.science.org/doi/10.1126/science.adi1374"> Vong, W. K., Wang, W., Orhan, A. E., and Lake, B. M (2024). Grounded language acquisition through the eyes and ears of a single child.</a> <em>Science</em>, 383, 504-511.
+---
 
-<a href="https://www.nature.com/articles/s42256-024-00802-0"> Orhan, A. E., and Lake, B. M. (2024). Learning high-level visual representations from a child's perspective without strong inductive biases.</a> <em>Nature Machine Intelligence</em>, 6, 271-283.
+##### __Compositional generalization in minds and machines__
+<img class="fig" src="/images/projects/fig-mlc.jpg" width="350">
+People make rule-like, compositional generalizations in language, thought, and action --- a hallmark of human intelligence often called systematic generalization. For example, once a person learns how to "photobomb" she immediately understands how to "photobomb twice" or "photobomb vigorously." Despite recent advances, AI systems (including LLMs) still struggle with this kind of generalization. We are studying how humans learn to generalize compositionally and developing Meta-Learning for Compositionality (MLC) models to better capture and understand these human abilities. We also explore how systematic generalization relates to safety challenges in LLM, where failures of generalization can lead to unexpected or unsafe behavior. 
 
-<a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (2023). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science</em>, 47, e13305.
+__Recent articles__
+- <a href="https://arxiv.org/abs/2505.21828">Chen, Y. H., Davidson, G., and Lake, B. M. (2025). SAGE-Eval: Evaluating LLMs for Systematic Generalizations of Safety Facts.</a> Preprint available on <em>arxiv:2505.21828</em>.
+- <a href="https://arxiv.org/abs/2502.14791">Wang, W., Jiang, G., Linzen, T., and Lake, B. M. (2025). Rapid word learning through meta in-context learning</a>. Preprint available on <em>arxiv:2502.14791</em>.
+- <a href="https://www.nature.com/articles/s41586-023-06668-3.pdf">Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network.</a> <em>Nature</em>, 623, 115-121.
 
-<a href="https://cims.nyu.edu/~brenden/papers/DavidsonEtAlPreprint.pdf"> Davidson, G., Orhan, A. E., and Lake, B. M. (2023). Spatial Relation Categorization in Infants and Deep Neural Networks.</a> <em>Cognition</em>.
+__Future directions__
+- Meta-learning as a model of rapid learning in cognitive development
+- Approaches to solving the SAGE-Eval systematic generalization benchmark (see recent artcle)
+- What issues in AI safety can be traced back to systematic generalization?
 
 ---
 
 ##### __Neuro-symbolic modeling__
 <img class="fig" src="/images/projects/fig-gns.jpg" width="300">
-_Key people: Reuben Feinman_
+Human conceptual representations are rich in structural and statistical knowledge. Symbolic models excel at capturing compositional and causal structure, but they struggle with complex correlations. In contrast, neural network models excel at processing raw stimuli and capturing complex statistics, but they struggle with compositional and causal knowledge. The human mind seems to transcend this dichotomy: learning both structural and statistical knowledge from raw inputs. We are developing neuro-symbolic models that can capture the dual structural and statistical natures of human conceptual representation.
+ 
+__Recent articles__
+- <a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
+- <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em>International Conference on Learning Representations (ICLR)</em>.
 
-
-Human conceptual representations are rich in structural and statistical knowledge. Symbolic models excel at capturing compositional and causal structure, but they struggle to model the most complex correlations found in raw data. In contrast, neural network models excel at processing raw stimuli and capturing complex statistics, but they struggle to model compositional and causal knowledge. The human mind seems to transcend this dichotomy: learning structural and statistical knowledge from raw inputs.
-
-We are developing neuro-symbolic models that learn compositional and causal generative programs from raw data, while using neural sub-routines for powerful statistical modeling (see diagram). We aim to better understand the dual structural and statistical natures of human concepts, and to learn neuro-symbolic representations for machine learning applications.
-
-<a href="https://cims.nyu.edu/~brenden/papers/ZhouEtAl2024Cognition.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2024). Compositional diversity in visual concept learning.</a> <em>Cognition</em>, 244, 105711.
-
-<a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em>International Conference on Learning Representations (ICLR)</em>.
-
-<a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2020CogSci.pdf">Feinman, R. and Lake, B. M. (2020). Generating new concepts with hybrid neuro-symbolic models.</a> In <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</em>
-
----
-
-##### __Compositional generalization in minds and machines__
-<img class="fig" src="/images/projects/fig-gscan-crop.png" width="200">
-_Key people: Yanli Zhou, Laura Ruis, Max Nye, and Marco Baroni_
-
-People make compositional generalizations in language, thought, and action. Once a person learns how to "photobomb" she immediately understands how to "photobomb twice" or "photobomb vigorously." We have shown that, despite recent advances in natural language processing, the best algorithms fail catastrophically on tests of compositionality.
-
-To better understand these distinctively human abilities, we are studying human compositional learning of language-like instructions. Based on behavioral insights, we are developing novel meta-learning and neural-symbolic models to tackle popular compositional learning benchmarks. Additional work focuses on learning compositional visual concepts and developing more challenging benchmarks for AI, e.g., few-shot learning of concepts such as "cautiously" (see image of "walking to the small red circle cautiously," which requires looking both ways before moving).
-
-<a href="https://www.nature.com/articles/s41586-023-06668-3.pdf">Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network.</a> <em>Nature</em>, 623, 115-121.
-
-<a href="https://cims.nyu.edu/~brenden/papers/2305.19374.pdf"> Zhou, Y., Feinman, R., and Lake, B. M. (2023). Compositional diversity in visual concept learning.</a> Preprint available on <em>arxiv.2305.19374</em>
-
-<a href="https://cims.nyu.edu/~brenden/papers/RuisEtAl2020NeurIPS.pdf">Ruis, L., Andreas, J., Baroni, M. Bouchacourt, D., and Lake, B. M. (2020). A Benchmark for Systematic Generalization in Grounded Language Understanding</a>. <em>Advances in Neural Information Processing Systems 33</em>.
-
-<a href="https://cims.nyu.edu/~brenden/papers/NyeEtAl2020NeurIPS.pdf">Nye, M., Solar-Lezama, A., Tenenbaum, J. B., and Lake, B. M. (2020). Learning Compositional Rules via Neural Program Synthesis.</a> <em>Advances in Neural Information Processing Systems 33</em>.
+__Future directions__
+- Neuro-symbolic models of human reasoning on the Abstraction and Reasoning Corpus (ARC) (with Solim LeGris and Todd Gureckis)
+- Modeling the illusion of explanatory depth using neuro-symbolic models (with Solim LeGris and Todd Gureckis)

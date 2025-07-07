@@ -31,22 +31,24 @@
 
 .text_wallpaper_main {
   font-weight: bold;
-  font-family: Merriweather;
-  font-size: 3vw;
+  font-family: Roboto;
+  font-size: 3.5vw;
   position: absolute;
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+  color: white;
 }
 
 .text_wallpaper_sub {
   font-weight: bold;
-  font-family: Merriweather;
-  font-size: 2vw;
+  font-family: Roboto;
+  font-size: 2.8vw;
   position: absolute;
   top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
+  color: white;
 }
 
 // Typography

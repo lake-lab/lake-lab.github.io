@@ -2,13 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Human & Machine Learning Lab # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+title: Human & Machine Intelligence #
+first_name: 
+middle_name:
+last_name:
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A research group at New York University
 footer_text:
 
 icon: # the emoji used as the favicon
@@ -16,7 +15,9 @@ url: https://lake-lab.github.io/  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-feature_img: /images/wallpaper/skyline1_crop.jpg
+feature_img: /images/wallpaper/princeton-pano-edit.jpeg
+# feature_img: /images/wallpaper/naussa-hall.jpeg
+# feature_img: /images/wallpaper/skyline1_crop.jpg
 
 
 # -----------------------------------------------------------------------------

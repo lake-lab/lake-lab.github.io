@@ -7,25 +7,26 @@ id: 5
 ---
 ### __Join us__
 
-Interested in joining the Human & Machine Learning Lab? Interested candidates may be able to apply through the links below. More generally, NYU offers very strong training in [computational cognitive science](https://gureckislab.org/cogsci.html#/) and [artificial intelligence](https://wp.nyu.edu/cilvr/).
+Interested in joining our lab at Princeton University? Wonderful!
+
+Rather than emailing Brenden directly, __please express your interest through the links below__. Brenden will review all submissions by the 1st of every month. If you don't hear back by the 5th of the month, please follow up at brenden@princeton.edu.
 
 <hr class='invis'>
-##### __Current Master's and undergraduates at NYU, or potential visiting students__
-
-We are glad that you are interested in research. We have a limited number of spots, and applications are currently closed. They will reopen from August 1, 2025 to September 15, 2025, where you can apply through a link posted here.
-
-<!-- We are glad that you are interested in research. We have a limited number of spots for these opportunities. To apply, please fill out this [web form](https://forms.gle/XjDdgBHbk1VfBcSe7). Applications will be closed Feb. 25, 2025. -->
+##### __Postdoc candidates__
+We consider postdoc candidates on a case-by-case basis. Please express your interest through this [web form for postdoc candidates](https://forms.gle/zM2i4Q7uNijDfZqX9). Note, this is not a formal application and one must be invited to interview after submitting the form.
 
 <hr class='invis'>
 ##### __Ph.D. candidates__
-Interested Ph.D. candidates are encouraged to apply to either the 
-[Ph.D. Program in Data Science](https://cds.nyu.edu/admissions/phd-requirements/) (deadline usually December 1). 
-or the [Ph.D. Program in Cognition and Perception](http://as.nyu.edu/psychology/graduate/phd-cognition-perception.html) (deadline usually  December 1).
+I am accepting students for Fall 2026. Interested Ph.D. candidates are encouraged to apply to either the 
+[Ph.D. Program in Computer Science](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/computer-science#Apply). 
+or the [Ph.D. Program in Psychology](https://psychology.princeton.edu/graduate-program/applying).
 
-In exceptional cases, it is possible to join the lab through the Ph.D. Program in Computer Science and the Ph.D. Program in Neural Science, but it is strongly recommended that you apply through either Data Science or Cognition and Perception.
-
-[University policy](http://gsas.nyu.edu/admissions/gsas-application-resource-center/nyu-gsas-general-application-policies.html#3) states that you may only apply to one program at a time.
+Please also express your interest through this [web form for Ph.D. candidates](https://forms.gle/AXoau6Q7xuZnhUeaA). You won't receive an email reply, but I will consider your formal application extra carefully.
 
 <hr class='invis'>
-##### __Postdoctoral researchers__
-We consider postdoc candidates on a case-by-case basis. Please reach out to [Brenden](https://cims.nyu.edu/~brenden/) if you are interested in a postdoc position.
+##### __Current undergraduates at Princeton__
+We are glad that you are interested in research! Please express your interest through this [web form for Princeton undergraduates](https://forms.gle/PvkCZjuz5n5w2wY59).
+
+<hr class='invis'>
+##### __Other candidates, summer interns, and visitors__
+We have very limited spots for other candidates, summer interns, and visitors. Please express your interest through this [web form for other candidates](https://forms.gle/6FRTshLP8NxjbCxt7).
