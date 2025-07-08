@@ -11,7 +11,7 @@ id: 3
 ### __Projects__
 Read about our projects on
 1. [prior-enhanced neural networks](#new-modeling-human-behavior-with-prior-enhanced-neural-networks)
-2. [machines that reason more like people](#new-building-machines-that-reason-more-like-people)
+2. [machines that reason more like people](#new-more-human-like-reasoning-in-machines)
 3. [learning through the eyes of a child](#learning-through-the-eyes-and-ears-of-a-child)
 4. [compositional generalization](#compositional-generalization-in-minds-and-machines)
 5. [neuro-symbolic models](#neuro-symbolic-modeling)
@@ -21,19 +21,19 @@ Prospective lab members are encouraged to review the __Future directions__ withi
 ---
 
 ##### __\*NEW\* Modeling human behavior with prior-enhanced neural networks__
-Behavioral scientists must often choose between two computational paradigms with complementary strengths and weaknesses: Bayesian models or neural networks. An ideal paradigm would facilitate testing different priors; Bayesian models make this easy, while neural networks do not. Similarly, an ideal paradigm would avoid over-simplifications; neural networks make this easy, while Bayesian models do not. We aim to combine the est of both with an approach we call Bayesian distillation with Behavioral Tuning (BBT). BBT allows for flexible modeling of behavior using powerful Transformers, even from minimal behavioral data, by distilling Bayesian priors into the networks and then by fine-tuning the networks further on raw behavioral examples.
+Behavioral scientists must often choose between two computational paradigms with complementary strengths and weaknesses: Bayesian models or neural networks. An ideal paradigm would facilitate testing different priors; Bayesian models make this easy, while neural networks do not. Similarly, an ideal paradigm would avoid over-simplifications; neural networks make this easy, while Bayesian models do not. We aim to combine the best of both with an approach we call Bayesian distillation with Behavioral Tuning (BBT). BBT allows for flexible modeling of behavior using powerful Transformers, even from minimal behavioral data, by distilling Bayesian priors into the networks and then by fine-tuning the networks further on raw behavioral examples.
 
 __Recent articles__
 - Lake, B. M. (2025). More accurate behavioral predictions with hybrid Bayesian-connectionist models. <em>Preprint coming soon</em>. (Email Brenden for draft).
 
 __Future directions__
-- Interpretability for BBT models (hypothesis decoding, causal analysis,understanding the gradient steps during behavioral tuning)
-- Developing software tools for popularizing BBT modeling
-- Extending the BBT approach to reinforcement learning, reasoning, etc. 
+- Advance interpretability for BBT models (hypothesis decoding, causal analysis,understanding the gradient steps during behavioral tuning)
+- Develop software tools for popularizing BBT modeling
+- Extend the BBT approach to reinforcement learning, reasoning, etc. 
 
 ---
 
-##### __\*NEW\* Building machines that reason more like people__
+##### __\*NEW\* More human-like reasoning in machines__
 Simulating human reasoning in an open-ended task space has been a long-standing dream of cognitive science. Recent advances in LLMs brings this closer to reality, yet these models are not developed with human-like reasoning as an objective. In this project, we fine-tune reasoning-capable LLMs on large datasets of people reasoning "out loud" to align their reasoning processes with human patterns, akin to the [Centaur LLM](https://www.nature.com/articles/s41586-025-09215-4) from Binz et al. but for reasoning. We will evaluate whether fine-tuned models better predict human reasoning and whether they can simulate human-like reasoning on novel problems.
 
 __Recent articles__
@@ -54,9 +54,9 @@ __Recent articles__
 - <a href="https://cims.nyu.edu/~brenden/papers/WangEtAl2023CognitiveScience.pdf"> Wang, W., Vong, W. K., Kim, N., and Lake, B. M. (2023). Finding Structure in One Child’s Linguistic Experience.</a> <em>Cognitive Science</em>, 47, e13305.
 
 __Future directions__
-- Adding inductive biases (shape bias, mutual exclusivity bias, objects, social cues, etc.) and studying their impact on word learning from egocentric video
-- Adding active learning (taking actions in a virtual rendering of that child's home) to the passive videos during CVAI training
-- A benchmark for evaluating how well CVAI models explain key developmental findings
+- Add inductive biases (shape bias, mutual exclusivity bias, objects, social cues, etc.) and study their impact on word learning from egocentric video
+- Add active learning (taking actions in a virtual rendering of that child's home) to the passive video learning during CVAI training
+- Create a benchmark for evaluating how well CVAI models explain key developmental findings
 
 ---
 
@@ -70,9 +70,10 @@ __Recent articles__
 - <a href="https://www.nature.com/articles/s41586-023-06668-3.pdf">Lake, B. M. and Baroni, M. (2023). Human-like systematic generalization through a meta-learning neural network.</a> <em>Nature</em>, 623, 115-121.
 
 __Future directions__
-- Meta-learning as a model of rapid learning in cognitive development
-- Approaches to solving the SAGE-Eval systematic generalization benchmark (see recent artcle)
-- What issues in AI safety can be traced back to systematic generalization?
+- Study meta-learning as a model of rapid learning in cognitive development
+- Study compositional generalization in large language models across many tasks (with Simon Schug)
+- Solve the SAGE-Eval systematic generalization safety benchmark (see recent artcle)
+- Understand what issues in AI safety can be traced back to systematic generalization
 
 ---
 
@@ -85,5 +86,5 @@ __Recent articles__
 - <a href="https://cims.nyu.edu/~brenden/papers/FeinmanLake2021ICLR.pdf">Feinman, R. and Lake, B. M. (2020). Learning Task-General Representations with Generative Neuro-Symbolic Modeling.</a> <em>International Conference on Learning Representations (ICLR)</em>.
 
 __Future directions__
-- Neuro-symbolic models of human reasoning on the Abstraction and Reasoning Corpus (ARC) (with Solim LeGris and Todd Gureckis)
-- Modeling the illusion of explanatory depth using neuro-symbolic models (with Solim LeGris and Todd Gureckis)
+- Build neuro-symbolic models of human reasoning on the Abstraction and Reasoning Corpus (ARC) (with Solim LeGris and Todd Gureckis)
+- Model the illusion of explanatory depth using neuro-symbolic models (with Solim LeGris and Todd Gureckis)
