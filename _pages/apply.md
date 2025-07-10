@@ -21,7 +21,7 @@ I am accepting students for Fall 2026. Interested Ph.D. candidates are encourage
 [Ph.D. Program in Computer Science](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/computer-science#Apply)
 or the [Ph.D. Program in Psychology](https://psychology.princeton.edu/graduate-program/applying).
 
-Please also express your interest through this [web form for Ph.D. candidates](https://forms.gle/AXoau6Q7xuZnhUeaA). You won't receive an email reply, but I will consider your formal application extra carefully.
+Please submit this [web form for Ph.D. candidates](https://forms.gle/AXoau6Q7xuZnhUeaA) so I can learn a bit about you ahead of the formal application process, and so I can remember to look up your application later. You won't receive an email reply but I appreciate your submission.
 
 <hr class='invis'>
 ##### __Current undergraduates at Princeton__
