@@ -9,7 +9,7 @@ id: 5
 
 Interested in joining our lab at Princeton University? Wonderful!
 
-Rather than emailing Brenden directly, __please express your interest through the links below__. Brenden will review all submissions by the 1st of every month (except for Ph.D. candidates, where your form will help me bookmark your full application later). If you don't hear back by the 5th of the month, feel free to follow up at brenden@princeton.edu.
+Rather than emailing Brenden directly, __please express your interest through the links below__. Brenden will review all submissions by the 1st of every month (except for Ph.D. candidates -- your form registers your interest and helps me  bookmark your future PhD application). If you don't hear back by the 5th of the month, feel free to follow up at brenden@princeton.edu.
 
 <hr class='invis'>
 ##### __Postdoc candidates__
