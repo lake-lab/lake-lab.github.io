@@ -31,7 +31,7 @@ __Brenden Lake.__ Brenden is an Associate Professor of Computer Science and Psyc
 __Simon Schug.__ Simon is a postdoctoral fellow at New York University's Center for Data Science. He is interested in understanding the principles that underlie intelligence and how large-scale neural networks can serve as a substrate for it. Prior to joining the lab, Simon obtained a Ph.D. in Computer Science from ETH Zurich in 2025, where he researched meta-learning and compositional generalization. During his doctorate he spent time as a researcher at Google DeepMind. He completed his Master's thesis at the University of Cambridge and received an M.Sc. in Neural Systems & Computation from ETH Zurich and UZH in 2020, after having simultaneously pursued and obtained B.Sc. degrees in both Electrical Engineering and Psychology from RWTH Aachen in 2017. [[Website]](https://smn.one/)
 <br><br>
 
-<div><img class="bio" src="">/images/bios/akshay.jpg</div>
+<div><img class="bio" src="/images/bios/akshay.jpg"></div>
 __Akshay K. Jagadish__ Akshay is a postdoctoral research fellow at the Princeton AI Lab. His research takes two complementary approaches to study natural and artificial minds:
 - Building scalable, sub-symbolic models of human (and machine) cognitive function using frameworks such as meta-learning, ecological adaptation, and resource-rationality.
 - Developing AI-driven methods to accelerate the discovery of interpretable symbolic programs of human (and machine) behavior and their internal representations. [[Website]](https://akjagadish.github.io/)
