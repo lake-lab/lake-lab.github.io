@@ -31,7 +31,16 @@ __Brenden Lake.__ Brenden is an Associate Professor of Computer Science and Psyc
 __Simon Schug.__ Simon is a postdoctoral fellow at New York University's Center for Data Science. He is interested in understanding the principles that underlie intelligence and how large-scale neural networks can serve as a substrate for it. Prior to joining the lab, Simon obtained a Ph.D. in Computer Science from ETH Zurich in 2025, where he researched meta-learning and compositional generalization. During his doctorate he spent time as a researcher at Google DeepMind. He completed his Master's thesis at the University of Cambridge and received an M.Sc. in Neural Systems & Computation from ETH Zurich and UZH in 2020, after having simultaneously pursued and obtained B.Sc. degrees in both Electrical Engineering and Psychology from RWTH Aachen in 2017. [[Website]](https://smn.one/)
 <br><br>
 
+<div><img class="bio" src="">/images/bios/akshay.jpg</div>
+__Akshay K. Jagadish__ Akshay is a postdoctoral research fellow at the Princeton AI Lab. His research takes two complementary approaches to study natural and artificial minds:
+- Building scalable, sub-symbolic models of human (and machine) cognitive function using frameworks such as meta-learning, ecological adaptation, and resource-rationality.
+- Developing AI-driven methods to accelerate the discovery of interpretable symbolic programs of human (and machine) behavior and their internal representations. [[Website]](https://akjagadish.github.io/)
+
 ##### __Lab affiliates__
+<div><img class="bio" src="/images/bios/guangyuan.jpeg"></div>
+__Guangyuan Jiang.__ Guangyuan is a PhD student at the MIT Brain and Cognitive Sciences. He is interested in languages in and about the mind —-- the dynamic interplay between language, culture, and thought. Guangyuan seeks to build models of human language to uncover the core cognitive and computational principles that shape language, and to develop human-like machines to reverse-engineer the mind through language. [[Website]](https://jiang.gy)
+<br><br>
+
 <div><img class="bio" src="/images/bios/ilia-sucho.jpg"></div>
 __Ilia Sucholutsky.__ Ilia is a Faculty Fellow/Assistant Professor at the NYU Center for Data Science and an incoming Assistant Professor of Computer Science at Purdue. Previously, he was a postdoc in Computer Science with Tom Griffiths at Princeton University and a visiting scholar in BCS at MIT.  His research broadly focuses on studying humans and machines in mutually informative ways to develop artificial thought partners, machines that think *with* people rather than *instead* of people. [[Website]](https://ilia10000.github.io/)
 <br><br>
@@ -42,9 +51,6 @@ __Ioana Marinescu.__ Ioana is a PhD student at the NYU Center for Data Science. 
 
 <hr class='invis'>
 ##### __Ph.D. students__
-<div><img class="bio" src="/images/bios/guy-davidson.jpg"></div>
-__Guy Davidson.__ Guy is a Ph.D. student at the Center for Data Science, working with Professors Brenden Lake and Todd Gureckis. Guy is interested in the intersection between human cognition and machine learning, and particularly, what can we learn from studying humans to allow us to design wiser machine learning systems. His work focuses on object-based and relational approaches to reinforcement learning and on the flexible ways humans generate goals in novel environments. Before coming to NYU, Guy served six years in the Israel Defense Forces and then graduated (summa cum laude) with a B.Sc. in Computational Sciences from the Minerva Schools. He previously collaborated with Professors Yael Niv (Princeton) and Michael C. Mozer (Google Research and CU Boulder). Outside of his studies, Guy loves to play ultimate frisbee and enjoys pour-over coffee and fermenting foods. [[Website]](https://guydavidson.me/)
-
 <div><img class="bio" src="/images/bios/solim-legris.jpg"></div>
 __Solim LeGris__. Solim is a Ph.D student in the Psychology department at NYU and is co-advised by Todd Gureckis and Brenden Lake. Before coming to NYU, he received his BASc in Honours Cognitive Science from McGill University and worked on modelling categorical perception and categorization difficulty in neural networks. Solim is interested in computational cognitive science, more specifically in understanding what makes humans capable of learning concepts efficiently and using them flexibly across a broad range of situations. He is generally interested in building computational models that can both increase our understanding of cognition and bring machines closer to human-like learning and thought. [[Website]](https://solimlegris.com/)
 
@@ -68,8 +74,9 @@ __Jinran Jin__. Jinran is a second-year Master's student in Data Science at the 
 
 <hr class='invis'>
 ##### __Lab alumni__ 
+- [Guy Davidson](https://guydavidson.me/). Ph.D. student (co-advised with Todd Gureckis), subsequently at Research Scientist at Meta.
 - [Nikky Lu](https://github.com/nikkylu). Undergraduate researcher, subsequently M.S. student at Brown University.
-- [Wai Keen Vong](https://www.waikeenvong.com/). Research Scientist, subsequently at Meta.
+- [Wai Keen Vong](https://www.waikeenvong.com/). Research Scientist, subsequently a Research Scientist at Meta.
 - Yanli Zhou. Ph.D. student, subsequently at Meta.
 - [Alexa Tartaglini](https://www.alexatartaglini.com/). undergraduate researcher and Junior Research Scientist, subsequently Ph.D. student at Stanford University.
 - [Wenjie Li](https://wliwenjieli.github.io/). M.S. researcher and Assistant Research Scientist, subsequently Ph.D. student at Carnegie Mellon University. 
