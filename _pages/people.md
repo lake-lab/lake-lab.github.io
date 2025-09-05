@@ -28,18 +28,17 @@ __Brenden Lake.__ Brenden is an Associate Professor of Computer Science and Psyc
 <hr class='invis'>
 ##### __Postdoctoral researchers__
 <div><img class="bio" src="/images/bios/simon-schug.png"></div>
-__Simon Schug.__ Simon is a postdoctoral fellow at New York University's Center for Data Science. He is interested in understanding the principles that underlie intelligence and how large-scale neural networks can serve as a substrate for it. Prior to joining the lab, Simon obtained a Ph.D. in Computer Science from ETH Zurich in 2025, where he researched meta-learning and compositional generalization. During his doctorate he spent time as a researcher at Google DeepMind. He completed his Master's thesis at the University of Cambridge and received an M.Sc. in Neural Systems & Computation from ETH Zurich and UZH in 2020, after having simultaneously pursued and obtained B.Sc. degrees in both Electrical Engineering and Psychology from RWTH Aachen in 2017. [[Website]](https://smn.one/)
+__Simon Schug.__ Simon is a postdoctoral research associate in the Department of Computer Science at Princeton. He is interested in understanding the principles that underlie intelligence and how large-scale neural networks can serve as a substrate for it. Prior to joining the lab, Simon obtained a Ph.D. in Computer Science from ETH Zurich in 2025, where he researched meta-learning and compositional generalization. During his doctorate he spent time as a researcher at Google DeepMind. He completed his Master's thesis at the University of Cambridge and received an M.Sc. in Neural Systems & Computation from ETH Zurich and UZH in 2020, after having simultaneously pursued and obtained B.Sc. degrees in both Electrical Engineering and Psychology from RWTH Aachen in 2017. [[Website]](https://smn.one/)
 <br><br>
 
 <div><img class="bio" src="/images/bios/akshay.jpg"></div>
-__Akshay K. Jagadish__ Akshay is a postdoctoral research fellow at the Princeton AI Lab. His research takes two complementary approaches to study natural and artificial minds:
-- Building scalable, sub-symbolic models of human (and machine) cognitive function using frameworks such as meta-learning, ecological adaptation, and resource-rationality.
-- Developing AI-driven methods to accelerate the discovery of interpretable symbolic programs of human (and machine) behavior and their internal representations. [[Website]](https://akjagadish.github.io/)
+__Akshay K. Jagadish__ Akshay is a postdoctoral research fellow at the Princeton AI Lab. His research takes two complementary approaches to study natural and artificial minds: 1) Building scalable, sub-symbolic models of human (and machine) cognitive function using frameworks such as meta-learning, ecological adaptation, and resource-rationality. 2) Developing AI-driven methods to accelerate the discovery of interpretable symbolic programs of human (and machine) behavior and their internal representations. [[Website]](https://akjagadish.github.io/)
+<br><br>
 
 ##### __Lab affiliates__
 <div><img class="bio" src="/images/bios/guangyuan.jpeg"></div>
 __Guangyuan Jiang.__ Guangyuan is a PhD student at the MIT Brain and Cognitive Sciences. He is interested in languages in and about the mind —-- the dynamic interplay between language, culture, and thought. Guangyuan seeks to build models of human language to uncover the core cognitive and computational principles that shape language, and to develop human-like machines to reverse-engineer the mind through language. [[Website]](https://jiang.gy)
-<br><br>
+<br><br><br>
 
 <div><img class="bio" src="/images/bios/ilia-sucho.jpg"></div>
 __Ilia Sucholutsky.__ Ilia is a Faculty Fellow/Assistant Professor at the NYU Center for Data Science and an incoming Assistant Professor of Computer Science at Purdue. Previously, he was a postdoc in Computer Science with Tom Griffiths at Princeton University and a visiting scholar in BCS at MIT.  His research broadly focuses on studying humans and machines in mutually informative ways to develop artificial thought partners, machines that think *with* people rather than *instead* of people. [[Website]](https://ilia10000.github.io/)
