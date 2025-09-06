@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ##### __Understanding intelligence__
-We are studying the ingredients of intelligence in humans and machines. [Join us](/apply/).
+We study the ingredients of intelligence in humans and machines. [Join us](/apply/).
 
 <hr class='invis'>
 ##### __Bulletin__
