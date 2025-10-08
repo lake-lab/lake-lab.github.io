@@ -1,4 +1,4 @@
----
+Brende---
 layout: lab_custom
 title: people
 permalink: /people/
@@ -22,7 +22,7 @@ p {
 <hr class='invis'>
 ##### __Principal investigator__
 <div><img class="bio" src="/images/bios/brenden-lake-cropped.png"></div>
-__Brenden Lake.__ Brenden is an Associate Professor of Computer Science and Psychology at Princeton University. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017, and then an Assistant/Associate Professor at NYU from 2017-2025. Brenden's research use advances in machine intelligence to better understand human intelligence, and use insights from human intelligence to develop more fruitful kinds of machine intelligence. [[Website]](https://cims.nyu.edu/~brenden/)
+__Brenden Lake.__ Brenden is an Associate Professor of Computer Science and Psychology at Princeton University. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017, and then an Assistant/Associate Professor at NYU from 2017-2025. Brenden's research use advances in machine intelligence to better understand human intelligence, and use insights from human intelligence to develop more fruitful kinds of machine intelligence. [[Website]](https://www.cs.princeton.edu/~bl8144/)
 <br><br>
 
 <hr class='invis'>
@@ -73,7 +73,7 @@ __Jinran Jin__. Jinran is a second-year Master's student in Data Science at the 
 
 <hr class='invis'>
 ##### __Lab alumni__ 
-- [Guy Davidson](https://guydavidson.me/). Ph.D. student (co-advised with Todd Gureckis), subsequently at Research Scientist at Meta.
+- [Guy Davidson](https://guydavidson.me/). Ph.D. student (co-advised with Todd Gureckis), subsequently a Research Scientist at Meta.
 - [Nikky Lu](https://github.com/nikkylu). Undergraduate researcher, subsequently M.S. student at Brown University.
 - [Wai Keen Vong](https://www.waikeenvong.com/). Research Scientist, subsequently a Research Scientist at Meta.
 - Yanli Zhou. Ph.D. student, subsequently at Meta.
