@@ -1,4 +1,4 @@
-Brende---
+---
 layout: lab_custom
 title: people
 permalink: /people/
