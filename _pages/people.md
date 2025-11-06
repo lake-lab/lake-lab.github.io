@@ -57,6 +57,10 @@ __Solim LeGris__. Solim is a Ph.D student in the Psychology department at NYU an
 __Wentao Wang__. Wentao is a Ph.D. student at NYU's Center for Data Science, working with Brenden Lake. Wentao received his Master’s degree in Computer Science at New York University Courant Institute of Mathematical Sciences in 2023. He received his BS in Computer Science from Peking University in 2020. He is broadly interested in the intersection of language language processing and cognitive science. In particular, he is interested in understanding what models have learned and building models that could generalize in human-like ways.
 <br><br>
 
+<div><img class="bio" src="/images/bios/phoebe-zeng.jpg"></div>
+__Phoebe Zeng__. I am a Ph.D. student at Princeton's Department of Computer Science. If math was erased from human memory, it seems likely we'd reinvent a similar mathematics. My research aims to interrogate the nature of this tight connection between human cognition and human mathematics, in hopes that it can teach us how to design artificial mathematicians. [[Website]](https://www.phoebezeng.com/)
+<br><br>
+
 <hr class='invis'>
 ##### __M.S. and undergraduate students__
 <div><img class="bio" src="/images/bios/hanna-dettki.jpg"></div>

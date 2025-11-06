@@ -10,37 +10,13 @@ id: 3
 
 ### __Projects__
 Read about our projects on
-1. [prior-enhanced neural networks](#new-modeling-human-behavior-with-prior-enhanced-neural-networks)
-2. [machines that reason more like people](#new-more-human-like-reasoning-in-machines)
-3. [learning through the eyes of a child](#learning-through-the-eyes-and-ears-of-a-child)
+1. [learning through the eyes of a child](#learning-through-the-eyes-and-ears-of-a-child)
+2. [prior-enhanced neural networks](#new-modeling-human-behavior-with-prior-enhanced-neural-networks)
+3. [machines that reason more like people](#new-more-human-like-reasoning-in-machines)
 4. [compositional generalization](#compositional-generalization-in-minds-and-machines)
 5. [neuro-symbolic models](#neuro-symbolic-modeling)
 
 Prospective lab members are encouraged to review the __Future directions__ within each project section, and then report back about the directions that pique their interest.
-
----
-
-##### __\*NEW\* Modeling human behavior with prior-enhanced neural networks__
-Behavioral scientists must often choose between two computational paradigms with complementary strengths and weaknesses: Bayesian models or neural networks. An ideal paradigm would facilitate testing different priors; Bayesian models make this easy, while neural networks do not. Similarly, an ideal paradigm would avoid over-simplifications; neural networks make this easy, while Bayesian models do not. We aim to combine the best of both with an approach we call Bayesian distillation with Behavioral Tuning (BBT). BBT allows for flexible modeling of behavior using powerful Transformers, even from minimal behavioral data, by distilling Bayesian priors into the networks and then by fine-tuning the networks further on raw behavioral examples.
-
-__Recent articles__
-- Lake, B. M. (2025). More accurate behavioral predictions with hybrid Bayesian-connectionist models. <em>Preprint coming soon</em>.
-
-__Future directions__
-- Advance interpretability for BBT models (hypothesis decoding, causal analysis,understanding the gradient steps during behavioral tuning)
-- Develop software tools for popularizing BBT modeling
-- Extend the BBT approach to reinforcement learning, reasoning, etc. 
-
----
-
-##### __\*NEW\* More human-like reasoning in machines__
-Simulating human reasoning in an open-ended task space has been a long-standing dream of cognitive science. Recent advances in LLMs brings this closer to reality, yet these models are not developed with human-like reasoning as an objective. In this project, we fine-tune reasoning-capable LLMs on large datasets of people reasoning "out loud" to align their reasoning processes with human patterns, akin to the [Centaur LLM](https://www.nature.com/articles/s41586-025-09215-4) from Binz et al. but for reasoning. We will evaluate whether fine-tuned models better predict human reasoning and whether they can simulate human-like reasoning on novel problems.
-
-__Recent articles__
-
-__Future directions__
-- Collecting large-scale behavioral dataset of people thinking out loud on reasoning tasks
-- Applications to education sciences
 
 ---
 
@@ -57,6 +33,30 @@ __Future directions__
 - Add inductive biases (shape bias, mutual exclusivity bias, objects, social cues, etc.) and study their impact on word learning from egocentric video
 - Add active learning (taking actions in a virtual rendering of that child's home) to the passive video learning during CVAI training
 - Create a benchmark for evaluating how well CVAI models explain key developmental findings
+
+---
+
+##### __Modeling human behavior with prior-enhanced neural networks__
+Behavioral scientists must often choose between two computational paradigms with complementary strengths and weaknesses: Bayesian models or neural networks. An ideal paradigm would facilitate testing different priors; Bayesian models make this easy, while neural networks do not. Similarly, an ideal paradigm would avoid over-simplifications; neural networks make this easy, while Bayesian models do not. We aim to combine the best of both with an approach we call Bayesian distillation with Behavioral Tuning (BBT). BBT allows for flexible modeling of behavior using powerful Transformers, even from minimal behavioral data, by distilling Bayesian priors into the networks and then by fine-tuning the networks further on raw behavioral examples.
+
+__Recent articles__
+- Lake, B. M. (2025). More accurate behavioral predictions with hybrid Bayesian-connectionist models. <em>Preprint coming soon</em>.
+
+__Future directions__
+- Advance interpretability for BBT models (hypothesis decoding, causal analysis,understanding the gradient steps during behavioral tuning)
+- Develop software tools for popularizing BBT modeling
+- Extend the BBT approach to reinforcement learning, reasoning, etc. 
+
+---
+
+##### __More human-like reasoning in machines__
+Simulating human reasoning in an open-ended task space has been a long-standing dream of cognitive science. Recent advances in LLMs brings this closer to reality, yet these models are not developed with human-like reasoning as an objective. In this project, we fine-tune reasoning-capable LLMs on large datasets of people reasoning "out loud" to align their reasoning processes with human patterns, akin to the [Centaur LLM](https://www.nature.com/articles/s41586-025-09215-4) from Binz et al. but for reasoning. We will evaluate whether fine-tuned models better predict human reasoning and whether they can simulate human-like reasoning on novel problems.
+
+__Recent articles__
+
+__Future directions__
+- Collecting large-scale behavioral dataset of people thinking out loud on reasoning tasks
+- Applications to education sciences
 
 ---
 
