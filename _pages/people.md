@@ -27,6 +27,10 @@ __Brenden Lake.__ Brenden is an Associate Professor of Computer Science and Psyc
 
 <hr class='invis'>
 ##### __Postdoctoral researchers__
+<div><img class="bio" src="/images/bios/chshin-cropped.jpg"></div>
+__Changho Shin.__ Changho is a postdoctoral research associate in the Department of Computer Science at Princeton. He is interested in data-centric approaches to learning, particularly how learning systems can exceed imperfect supervision by exploiting structure in data. His research focuses on understanding human inductive biases and using them to develop more capable learning systems through data-centric approaches. Prior to joining the lab, Changho obtained his Ph.D. in Computer Sciences from the University of Wisconsin–Madison, where he studied learning from imperfect and weak signals. He completed his B.A. in Psychology and B.S. in Computer Science at Seoul National University. [[Website]](https://ch-shin.github.io/)
+<br><br>
+
 <div><img class="bio" src="/images/bios/simon-schug.png"></div>
 __Simon Schug.__ Simon is a postdoctoral research associate in the Department of Computer Science at Princeton. He is interested in understanding the principles that underlie intelligence and how large-scale neural networks can serve as a substrate for it. Prior to joining the lab, Simon obtained a Ph.D. in Computer Science from ETH Zurich in 2025, where he researched meta-learning and compositional generalization. During his doctorate he spent time as a researcher at Google DeepMind. He completed his Master's thesis at the University of Cambridge and received an M.Sc. in Neural Systems & Computation from ETH Zurich and UZH in 2020, after having simultaneously pursued and obtained B.Sc. degrees in both Electrical Engineering and Psychology from RWTH Aachen in 2017. [[Website]](https://smn.one/)
 <br><br>
