@@ -17,4 +17,4 @@ We study the ingredients of intelligence in humans and machines. [Join us](/appl
 
 <hr class='invis'>
 ##### __About the lab__
-In 2017, [Brenden Lake](https://cims.nyu.edu/~brenden/) started the Human & Machine Learning Lab at New York University in 2017. In 2025, the lab moved to Princeton University and evolved into the lab for Human & Machine Intelligence. We are joint between the [Department of Computer Science](https://www.cs.princeton.edu/) and the [Department of Psychology](https://psychology.princeton.edu/) at Princeton University. Our main location is in Princeton's [Peretsman Scully Hall](https://psychology.princeton.edu/contact) and includes rooms 117, 120, and 121.
+[Brenden Lake](https://www.cs.princeton.edu/~bl8144/) started the lab at New York University in 2017, and we moved to Princeton University in 2025. We are joint between the [Department of Computer Science](https://www.cs.princeton.edu/) and the [Department of Psychology](https://psychology.princeton.edu/). Our main location is in Princeton's [Peretsman Scully Hall](https://psychology.princeton.edu/contact) and includes rooms 117, 120, and 121.

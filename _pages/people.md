@@ -21,7 +21,7 @@ p {
 
 <hr class='invis'>
 ##### __Principal investigator__
-<div><img class="bio" src="/images/bios/brenden-lake-cropped.png"></div>
+<div><img class="bio" src="/images/bios/lake-princeton.jpg"></div>
 __Brenden Lake.__ Brenden is an Associate Professor of Computer Science and Psychology at Princeton University. He received his M.S. and B.S. in Symbolic Systems from Stanford University in 2009, and his Ph.D. in Cognitive Science from MIT in 2014. He was a postdoctoral Data Science Fellow at NYU from 2014-2017, and then an Assistant/Associate Professor at NYU from 2017-2025. Brenden's research use advances in machine intelligence to better understand human intelligence, and use insights from human intelligence to develop more fruitful kinds of machine intelligence. [[Website]](https://www.cs.princeton.edu/~bl8144/)
 <br><br>
 
@@ -31,12 +31,12 @@ __Brenden Lake.__ Brenden is an Associate Professor of Computer Science and Psyc
 __Changho Shin.__ Changho is a postdoctoral research associate in the Department of Computer Science at Princeton. He is interested in data-centric approaches to learning, particularly how learning systems can exceed imperfect supervision by exploiting structure in data. His research focuses on understanding human inductive biases and using them to develop more capable learning systems through data-centric approaches. Prior to joining the lab, Changho obtained his Ph.D. in Computer Sciences from the University of Wisconsin–Madison, where he studied learning from imperfect and weak signals. He completed his B.A. in Psychology and B.S. in Computer Science at Seoul National University. [[Website]](https://ch-shin.github.io/)
 <br><br>
 
-<div><img class="bio" src="/images/bios/simon-schug.png"></div>
-__Simon Schug.__ Simon is a postdoctoral research associate in the Department of Computer Science at Princeton. He is interested in understanding the principles that underlie intelligence and how large-scale neural networks can serve as a substrate for it. Prior to joining the lab, Simon obtained a Ph.D. in Computer Science from ETH Zurich in 2025, where he researched meta-learning and compositional generalization. During his doctorate he spent time as a researcher at Google DeepMind. He completed his Master's thesis at the University of Cambridge and received an M.Sc. in Neural Systems & Computation from ETH Zurich and UZH in 2020, after having simultaneously pursued and obtained B.Sc. degrees in both Electrical Engineering and Psychology from RWTH Aachen in 2017. [[Website]](https://smn.one/)
+<div><img class="bio" src="/images/bios/manasi.jpg"></div>
+__Manasi Malik.__ Manasi is a postdoctoral research associate in the Department of Computer Science at Princeton. She is interested in understanding the computational principles that give rise to human cognition, including what kinds of minimum structure and inductive biases are needed and also how these computations emerge and change over development. Prior to joining the lab, she obtained her Ph.D. in Cognitive Science from Johns Hopkins University, where she developed computational models to understand how humans extract social information from visual scenes. She completed her B.Tech at IIIT Delhi and worked on multisensory perception for her bachelor's thesis at the National Brain Research Center, India. [[Website]](https://manasimalik.com/)
 <br><br>
 
-<div><img class="bio" src="/images/bios/akshay.jpg"></div>
-__Akshay K. Jagadish__ Akshay is a postdoctoral research fellow at the Princeton AI Lab. His research takes two complementary approaches to study natural and artificial minds: 1) Building scalable, sub-symbolic models of human (and machine) cognitive function using frameworks such as meta-learning, ecological adaptation, and resource-rationality. 2) Developing AI-driven methods to accelerate the discovery of interpretable symbolic programs of human (and machine) behavior and their internal representations. [[Website]](https://akjagadish.github.io/)
+<div><img class="bio" src="/images/bios/simon-schug.png"></div>
+__Simon Schug.__ Simon is a postdoctoral research associate in the Department of Computer Science at Princeton. He is interested in understanding the principles that underlie intelligence and how large-scale neural networks can serve as a substrate for it. Prior to joining the lab, Simon obtained a Ph.D. in Computer Science from ETH Zurich in 2025, where he researched meta-learning and compositional generalization. During his doctorate he spent time as a researcher at Google DeepMind. He completed his Master's thesis at the University of Cambridge and received an M.Sc. in Neural Systems & Computation from ETH Zurich and UZH in 2020, after having simultaneously pursued and obtained B.Sc. degrees in both Electrical Engineering and Psychology from RWTH Aachen in 2017. [[Website]](https://smn.one/)
 <br><br>
 
 ##### __Lab affiliates__
@@ -44,13 +44,13 @@ __Akshay K. Jagadish__ Akshay is a postdoctoral research fellow at the Princeton
 __Guangyuan Jiang.__ Guangyuan is a PhD student at the MIT Brain and Cognitive Sciences. He is interested in languages in and about the mind —-- the dynamic interplay between language, culture, and thought. Guangyuan seeks to build models of human language to uncover the core cognitive and computational principles that shape language, and to develop human-like machines to reverse-engineer the mind through language. [[Website]](https://jiang.gy)
 <br><br><br>
 
-<div><img class="bio" src="/images/bios/ilia-sucho.jpg"></div>
-__Ilia Sucholutsky.__ Ilia is a Faculty Fellow/Assistant Professor at the NYU Center for Data Science and an incoming Assistant Professor of Computer Science at Purdue. Previously, he was a postdoc in Computer Science with Tom Griffiths at Princeton University and a visiting scholar in BCS at MIT.  His research broadly focuses on studying humans and machines in mutually informative ways to develop artificial thought partners, machines that think *with* people rather than *instead* of people. [[Website]](https://ilia10000.github.io/)
+<div><img class="bio" src="/images/bios/akshay.jpg"></div>
+__Akshay K. Jagadish__ Akshay is a postdoctoral research fellow at the Princeton AI Lab. His research takes two complementary approaches to study natural and artificial minds: 1) Building scalable, sub-symbolic models of human (and machine) cognitive function using frameworks such as meta-learning, ecological adaptation, and resource-rationality. 2) Developing AI-driven methods to accelerate the discovery of interpretable symbolic programs of human (and machine) behavior and their internal representations. [[Website]](https://akjagadish.github.io/)
 <br><br>
 
-<div><img class="bio" src="/images/bios/ioana.jpg"></div>
-__Ioana Marinescu.__ Ioana is a PhD student at the NYU Center for Data Science. She is broadly interested in neuro-symbolic approaches to improve reasoning and generalization, and is currently working on meta-learning. Prior to NYU, Ioana graduated summa cum laude from Princeton University with a Bachelor’s degree in Computer Science. She previously worked on inductive bias distillation into neural networks, symbolic regression, and noun compound understanding.
-<br><br>
+<div><img class="bio" src="/images/bios/gabe.jpg"></div>
+__Gabriel Sarch.__ Gabriel is a Postdoctoral Research Fellow in Princeton Language and Intelligence. His research develops methods for training multimodal AI models to reason, explore, and make decisions in complex environments, with an emphasis on visual reasoning and cognitively inspired artificial intelligence. He received his Ph.D. in Machine Learning and Neuroscience from Carnegie Mellon University. [[Website]](https://gabesarch.me/)
+<br><br><br>
 
 <hr class='invis'>
 ##### __Ph.D. students__
@@ -65,22 +65,14 @@ __Wentao Wang__. Wentao is a Ph.D. student at NYU's Center for Data Science, wor
 __Phoebe Zeng__. I am a Ph.D. student at Princeton's Department of Computer Science. If math was erased from human memory, it seems likely we'd reinvent a similar mathematics. My research aims to interrogate the nature of this tight connection between human cognition and human mathematics, in hopes that it can teach us how to design artificial mathematicians. [[Website]](https://www.phoebezeng.com/)
 <br><br>
 
-<hr class='invis'>
-##### __M.S. and undergraduate students__
-<div><img class="bio" src="/images/bios/hanna-dettki.jpg"></div>
-__Hanna M. Dettki__. Hanna is a Master’s student in Machine Learning at the University of Tübingen, currently working with Brenden Lake on her thesis research. She previously earned a Master’s in Psychology at NYU as a Fulbright scholar (2025), where she first joined Brenden’s lab and completed her NYU thesis together with Prof. Bob Rehder. She also holds a Bachelor’s degree in Cognitive Science from the University of Tübingen (2022). Hanna is broadly interested in the computational ingredients of intelligence --- both human and artificial. She is particularly interested in questions such as: What enables humans to learn from just a few examples and generalize efficiently and flexibly to new situations? --- Something today’s state-of-the-art AI systems still struggle with. Her current work focuses on causal reasoning in humans and large language models (LLMs). [[Website]](https://hmd101.github.io/)
-<!-- She is especially excited about using machine learning methods to deepen our understanding of human cognition, while drawing on insights from psychology to design more intelligent and reliable agentic AI systems --- capable of goal-directed behavior, flexible adaptation, and decision-making that better aligns with human expectations. [[Website]](https://hmd101.github.io/) -->
-
-<div><img class="bio" src="/images/bios/john-chen-cropped.jpeg"></div>
-__Yueh-Han "John" Chen__. John is an M.S. student at NYU's Center for Data Science, working with Brenden Lake and He He. His primary interest is AI safety: he aims to develop methods and evaluations that unite human cognition with machine learning so future AI systems remain safe and trustworthy. He is also mentored by Tomek Korbak from UK AISI during the Machine-Learning Alignment & Theory Scholars (MATS) program. Before NYU, John earned his bachelor's degree in Data Science at UC Berkeley where he worked with Jacob Steinhardt on LLM forecasting. [[Website]](https://www.john-chen.cc/)
-<br><br>
-
-<div><img class="bio" src="/images/bios/jinran-jin-cropped.jpeg"></div>
-__Jinran Jin__. Jinran is a second-year Master's student in Data Science at the Courant Institute of Mathematical Sciences at NYU. He received his BS in Statistics and Data Science from the University of California, Santa Barbara. He is broadly interested in the intersection of machine learning and cognitive science, particularly in how machines solve reasoning tasks and how this compares to human problem-solving approaches. His current research focuses on comparing the ways machines solve ARC tasks versus humans.
-<br><br>
+<!-- <hr class='invis'>
+##### __Undergraduate students__ -->
 
 <hr class='invis'>
 ##### __Lab alumni__ 
+- [Yueh-Han "John" Chen](https://www.john-chen.cc/). M.S. researcher, subsequently a Research Schol at MATS.
+- [Hanna Dettki](https://hmd101.github.io/). M.S. researcher (co-advised with Bob Rehder), subsequently a Research Associate at the Flatiron Institute.
+- Jinran Jin. M.S. researcher.
 - [Guy Davidson](https://guydavidson.me/). Ph.D. student (co-advised with Todd Gureckis), subsequently a Research Scientist at Meta.
 - [Nikky Lu](https://github.com/nikkylu). Undergraduate researcher, subsequently M.S. student at Brown University.
 - [Wai Keen Vong](https://www.waikeenvong.com/). Research Scientist, subsequently a Research Scientist at Meta.
@@ -88,7 +80,7 @@ __Jinran Jin__. Jinran is a second-year Master's student in Data Science at the 
 - [Alexa Tartaglini](https://www.alexatartaglini.com/). undergraduate researcher and Junior Research Scientist, subsequently Ph.D. student at Stanford University.
 - [Wenjie Li](https://wliwenjieli.github.io/). M.S. researcher and Assistant Research Scientist, subsequently Ph.D. student at Carnegie Mellon University. 
 - [Yulu Qin](https://yuluqinn.github.io/). M.S. researcher and Assistant Research Scientist, subsequently Ph.D. student at Boston University.
-- Emin Orhan. Research Scientist, subsequently at Oak Ridge National Laboratory.
+- [Emin Orhan](https://eminorhan.github.io/). Research Scientist, subsequently at Oak Ridge National Laboratory.
 - [Reuben Feinman](http://www.cns.nyu.edu/~reuben/). Ph.D. student, subsequently at Common Sense Machines.
 - [Najoung Kim](https://najoungkim.github.io/). lab affiliate, subsequently Assistant Professor at Boston University.
 - [Laura Ruis](https://www.lauraruis.com/). Assistant Research Scientist, subsequently Ph.D. student at University College London.
