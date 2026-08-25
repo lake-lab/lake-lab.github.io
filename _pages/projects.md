@@ -38,11 +38,11 @@ __Future directions__
 ---
 
 ##### __Modeling human behavior with prior-enhanced neural networks__
-<img class="fig" src="/images/projects/fig-bbt.png" width="600"><br>
-Researchers must often choose between Bayesian or neural network models of behavior, two paradigms with complementary strengths and weaknesses. An ideal paradigm would facilitate testing different inductive biases; Bayesian models make this easy, while neural networks do not. Similarly, an ideal paradigm would avoid over-simplifications; neural networks make this easy, while Bayesian models do not. We aim to get the best of both traditions through Bayesian distillation then Behavioral Tuning (BBT). BBT offers a simple recipe for model building: first, a neural network is trained to mimic a Bayesian model's inductive bias through synthetic data, and second, the network is fine-tuned to capture additional structure in human behavior.
+<img class="fig" src="/images/projects/fig-bbt.png" width="550">
+Researchers must often choose between Bayesian or neural network models of behavior, two paradigms with complementary strengths and weaknesses. An ideal paradigm would facilitate testing many kinds of representations and inductive biases; Bayesian models make this easy, while neural networks do not. Similarly, an ideal paradigm would avoid over-simplifications; neural networks make this easy, while Bayesian models do not. We aim to get the best of both traditions through Bayesian distillation then Behavioral Tuning (BBT). BBT offers a simple recipe for model building: first, a neural network is trained to mimic a Bayesian model through synthetic data, and second, the network is fine-tuned on human behavior to capture additional structure and nuance.
 
 __Recent articles__
-- Lake, B. M. (2025). More accurate behavioral predictions with hybrid Bayesian-connectionist models. <em>Preprint coming soon</em>.
+- <a href="https://arxiv.org/abs/2608.22154"> Lake, B. M., Jagadish, A. K., and Jiang, G. (2026). More accurate behavioral predictions with hybrid Bayesian-connectionist models.</a> Preprint available on <em>arxiv:2608.22154</em>.
 
 __Future directions__
 - Advance interpretability for BBT models (hypothesis decoding, causal analysis, understanding the gradient steps during behavioral tuning)
@@ -52,10 +52,11 @@ __Future directions__
 ---
 
 ##### __More human-like reasoning in machines__
-<img class="fig" src="/images/projects/fig-ed-modeling.png" width="500">
-Simulating human reasoning in an open-ended task space has been a long-standing dream of cognitive science. Recent advances in LLMs brings this closer to reality, yet these models are not developed with human-like reasoning as an objective. In this project, we fine-tune reasoning-capable LLMs on large datasets of people reasoning "out loud" to align their reasoning processes with human patterns. We will evaluate whether fine-tuned models better predict human reasoning and whether they can simulate human-like reasoning on novel problems.
+<img class="fig" src="/images/projects/fig-ed-modeling.png" width="600">
+Simulating human reasoning in an open-ended task space has been a long-standing dream of cognitive science. Recent advances in LLMs brings this closer to reality, yet these models are not developed with human-like reasoning as an objective. In this project, we fine-tune reasoning-capable LLMs on datasets of people reasoning "out loud" to align their reasoning processes with human patterns. We will evaluate whether fine-tuned models better predict human reasoning and whether they can simulate human-like reasoning on novel problems.
 
 __Recent articles__
+- Gupta, M., Shin, C., Lake, B. M., and Kwan, T. (2026). Modeling Student Arithmetic Reasoning by Distilling Cognitive Priors into Language Models. Preprint coming soon.
 
 __Future directions__
 - Applications to education sciences in modeling student math learning
