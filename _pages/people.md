@@ -63,6 +63,14 @@ __Wentao Wang__. Wentao is a Ph.D. student at NYU's Center for Data Science, wor
 
 <div><img class="bio" src="/images/bios/phoebe-zeng.jpg"></div>
 __Phoebe Zeng__. I am a Ph.D. student at Princeton's Department of Computer Science. If math was erased from human memory, it seems likely we'd reinvent a similar mathematics. My research aims to interrogate the nature of this tight connection between human cognition and human mathematics, in hopes that it can teach us how to design artificial mathematicians. [[Website]](https://www.phoebezeng.com/)
+<br><br><br>
+
+<div><img class="bio" src="/images/bios/grace-hu.jpg"></div>
+__Grace Hu__. Grace is a Ph.D. student in the Department of Psychology at Princeton. She is broadly interested in the role of embodiment in cognition. Understanding how the abilities and constraints of a body shape learning and reasoning in both humans and machines advances our understanding of human cognition and could help us develop more human-like machine intelligence. Prior to joining the lab, she received her BS in Computation & Cognition and Mathematics from MIT, where she studied visual development in late-sight-onset children as part of Project Prakash in the Sinha lab and intuitive physical reasoning in the Kanwisher Lab.
+<br>
+
+<div><img class="bio" src="/images/bios/siyuan-song.jpg"></div>
+__Siyuan Song__. Siyuan is a Ph.D. student in the Department of Psychology at Princeton University. His research aims to build data-efficient models that learn and process language in human-like ways, and to use them to understand the roles of input and inductive biases in language acquisition. He received his B.A. in Linguistics from UT Austin. [[Website]](https://siyuansong.site/)
 <br><br>
 
 <!-- <hr class='invis'>
@@ -70,7 +78,7 @@ __Phoebe Zeng__. I am a Ph.D. student at Princeton's Department of Computer Scie
 
 <hr class='invis'>
 ##### __Lab alumni__ 
-- [Yueh-Han "John" Chen](https://www.john-chen.cc/). M.S. researcher, subsequently a Research Schol at MATS.
+- [Yueh-Han "John" Chen](https://www.john-chen.cc/). M.S. researcher, subsequently at Anthropic.
 - [Hanna Dettki](https://hmd101.github.io/). M.S. researcher (co-advised with Bob Rehder), subsequently a Research Associate at the Flatiron Institute.
 - Jinran Jin. M.S. researcher.
 - [Guy Davidson](https://guydavidson.me/). Ph.D. student (co-advised with Todd Gureckis), subsequently a Research Scientist at Meta.
